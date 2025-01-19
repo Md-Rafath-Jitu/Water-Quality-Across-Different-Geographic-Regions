@@ -1,0 +1,3083 @@
+City,Region,Country,ParentLocation,AirQuality,WaterPollution
+New York City,New York,United States of America,Americas,46.81603774,49.5049505
+"Washington, D.C.",District of Columbia,United States of America,Americas,66.12903226,49.10714286
+San Francisco,California,United States of America,Americas,60.51401869,43
+Los Angeles,California,United States of America,Americas,36.62162162,61.29943503
+Alexandria,Virginia,United States of America,Americas,89.0625,46.15384615
+Boston,Massachusetts,United States of America,Americas,78.23529412,32.91139241
+Toronto,Ontario,Canada,Americas,65.53468208,37.7994012
+Sao Paulo,Sao Paulo,Brazil,Americas,24.05660377,73.71794872
+Montreal,Quebec,Canada,Americas,70.76023392,36.96319018
+Saginaw,Michigan,United States of America,Americas,85,70
+San Antonio,Texas,United States of America,Americas,63.41463415,50.67567568
+Chicago,Illinois,United States of America,Americas,57.43243243,53.62068966
+Montevideo,Montevideo Department,Uruguay,Americas,65.78947368,46.75324675
+Pittsburgh,Pennsylvania,United States of America,Americas,58.92857143,59.61538462
+Philadelphia,Pennsylvania,United States of America,Americas,54.28571429,55.64516129
+Buenos Aires,,Argentina,Americas,54.26470588,54.84375
+Mexico City,,Mexico,Americas,18.07909605,69.59064327
+La Paz,La Paz Department,Bolivia,Americas,27.94117647,79.54545455
+Caracas,Capital District,Venezuela,Americas,43.359375,69.06779661
+Guatemala City,Guatemala Department,Guatemala,Americas,39.28571429,69.53125
+Havana,Havana Province,Cuba,Americas,46.66666667,50
+Concepcion,Biobio Region,Chile,Americas,55.76923077,33.33333333
+Ottawa,Ontario,Canada,Americas,84.56375839,27.99295775
+Iqaluit,Nunavut,Canada,Americas,50,50
+Whitehorse,Yukon,Canada,Americas,92.5,12.5
+Yellowknife,Northwest Territories,Canada,Americas,87.5,43.75
+St. John's,Newfoundland and Labrador,Canada,Americas,90.625,35.41666667
+Edmonton,,Canada,Americas,72.03703704,27.46212121
+Regina,Saskatchewan,Canada,Americas,68.57142857,42.74193548
+Charlottetown,Prince Edward Island,Canada,Americas,97.5,20
+Victoria,British Columbia,Canada,Americas,92.72151899,27.7027027
+Winnipeg,Manitoba,Canada,Americas,71.31147541,42.64705882
+Fredericton,New Brunswick,Canada,Americas,90,31.25
+Halifax,Nova Scotia,Canada,Americas,84.57446809,36.25
+Quebec City,Quebec,Canada,Americas,82.5,43.75
+Arica,Arica y Parinacota Region,Chile,Americas,75,50
+Nassau,,The Bahamas,Americas,50,59.25925926
+Bogota,,Colombia,Americas,23.35025381,48.15789474
+Brasilia,Federal District,Brazil,Americas,76.53061224,38.04347826
+Lima,Lima region,Peru,Americas,19.75,76.04166667
+Santiago,Santiago Metropolitan Region,Chile,Americas,17.71523179,40.23972603
+Quito,Pichincha Province,Ecuador,Americas,35.86956522,53.07692308
+Asuncion,Capital District,Paraguay,Americas,39.65517241,67
+Paramaribo,Paramaribo District,Suriname,Americas,61.36363636,54.54545455
+Belmopan,Cayo District,Belize,Americas,62.5,54.16666667
+San Jose,San Jose Province,Costa Rica,Americas,57.43243243,46.09375
+San Salvador,San Salvador Department,El Salvador,Americas,18.42105263,76.5625
+Tegucigalpa,Francisco Morazan Department,Honduras,Americas,22.61904762,88.46153846
+Managua,Managua Department,Nicaragua,Americas,58.33333333,76.66666667
+Panama City,Panama Province,Panama,Americas,49.23076923,67.06349206
+Antofagasta,Antofagasta Region,Chile,Americas,31.25,81.25
+Calama,Antofagasta Region,Chile,Americas,20,75
+Chiguayante,Biobio Region,Chile,Americas,50,50
+Chillan,Nuble Region,Chile,Americas,37.5,50
+Coyhaique,Aysen Region,Chile,Americas,0,25
+Concon,Valparaiso Region,Chile,Americas,37.5,50
+Copiapo,Atacama Region,Chile,Americas,12.5,50
+Atletico Morelia,Coquimbo Region,Chile,Americas,50,50
+Coronel,Biobio Region,Chile,Americas,50,50
+Osasco,Sao Paulo,Brazil,Americas,35,66.66666667
+Curitiba,Parana,Brazil,Americas,73.10126582,48.91304348
+Talca,Maule Region,Chile,Americas,40,0
+Rancagua,O'Higgins Region,Chile,Americas,0,100
+Barquisimeto,Lara,Venezuela,Americas,25,100
+Seattle,Washington,United States of America,Americas,79.37062937,36.94852941
+Baltimore,Maryland,United States of America,Americas,62.5,64.13043478
+Huntington Beach,California,United States of America,Americas,85.71428571,65.625
+Portland,Oregon,United States of America,Americas,74.12280702,36.34259259
+Indianapolis,Indiana,United States of America,Americas,67.44186047,50.65789474
+Miami,Florida,United States of America,Americas,70.2020202,47.36842105
+Rio de Janeiro,Rio de Janeiro,Brazil,Americas,46.81208054,77.24137931
+Cancun,Quintana Roo,Mexico,Americas,75,55
+Guadalajara,Jalisco,Mexico,Americas,43.07692308,64.54545455
+Saskatoon,Saskatchewan,Canada,Americas,74.32432432,29.6875
+Georgetown,Demerara-Mahaica,Guyana,Americas,51.31578947,83.33333333
+Detroit,Michigan,United States of America,Americas,51.2195122,52.08333333
+Curico,Maule Region,Chile,Americas,25,50
+Huasco,Atacama Region,Chile,Americas,87.5,50
+Iquique,Tarapaca Region,Chile,Americas,40,50
+La Serena,Coquimbo Region,Chile,Americas,50,62.5
+Linares,Maule Region,Chile,Americas,0,50
+Maldonado,Maldonado Department,Uruguay,Americas,100,0
+Nanaimo,British Columbia,Canada,Americas,89.77272727,29.16666667
+San Diego,California,United States of America,Americas,74.38271605,52.36486486
+San Jose,California,United States of America,Americas,62.20930233,41.25
+Denver,Colorado,United States of America,Americas,53.1779661,36.83035714
+Houston,Texas,United States of America,Americas,45.86092715,57.09459459
+Phoenix,Arizona,United States of America,Americas,44.29347826,47.64705882
+Dallas,Texas,United States of America,Americas,63.38028169,42.69230769
+Fort Worth,Texas,United States of America,Americas,47.72727273,51.13636364
+Austin,Texas,United States of America,Americas,68.57142857,43.5
+El Paso,Texas,United States of America,Americas,63.75,44.64285714
+Memphis,Tennessee,United States of America,Americas,66.30434783,48.68421053
+Charlotte,North Carolina,United States of America,Americas,76.875,31.57894737
+Columbus,Ohio,United States of America,Americas,87.5,62.5
+Jacksonville,Florida,United States of America,Americas,75.65789474,66.21621622
+Long Beach,California,United States of America,Americas,50,32.69230769
+Maple Ridge,British Columbia,Canada,Americas,66.66666667,41.66666667
+Laredo,Texas,United States of America,Americas,0,100
+Los Angeles,Biobio Region,Chile,Americas,12.5,50
+Oakland,California,United States of America,Americas,72.14285714,33.33333333
+Sacramento,California,United States of America,Americas,55.09259259,39.89361702
+Honolulu,Hawaii,United States of America,Americas,74.58333333,41.51785714
+Providence,Rhode Island,United States of America,Americas,76.47058824,59.61538462
+Brooklyn,New York,United States of America,Americas,52.08333333,33.65384615
+Tucson,Arizona,United States of America,Americas,84.27419355,39.65517241
+Aurora,Illinois,United States of America,Americas,75,25
+Red Deer,Alberta,Canada,Americas,58.82352941,42.5
+Nashville,Tennessee,United States of America,Americas,70,42.94871795
+Salt Lake City,Utah,United States of America,Americas,23.13432836,41.66666667
+Merida,Merida State,Venezuela,Americas,75,25
+Atlanta,Georgia,United States of America,Americas,59.6875,46.57534247
+Las Vegas,Nevada,United States of America,Americas,51.72413793,49.69135802
+Vancouver,British Columbia,Canada,Americas,80.56930693,31.66666667
+Albany,New York,United States of America,Americas,87.5,31.25
+Harrisburg,Pennsylvania,United States of America,Americas,82.5,37.5
+Trenton,New Jersey,United States of America,Americas,85,100
+Newark,New Jersey,United States of America,Americas,50,62.5
+Jersey City,New Jersey,United States of America,Americas,58.33333333,60
+Keller,Texas,United States of America,Americas,66.66666667,25
+Ciudad Juarez,Chihuahua,Mexico,Americas,56.25,43.75
+Davenport,Iowa,United States of America,Americas,86.36363636,53.57142857
+Ciudad Bolivar,Bolivar,Venezuela,Americas,100,50
+Jackson,Mississippi,United States of America,Americas,85.41666667,28.57142857
+Augusta,Maine,United States of America,Americas,50,100
+Baton Rouge,Louisiana,United States of America,Americas,64.58333333,40.625
+Lansing,Michigan,United States of America,Americas,92.85714286,41.66666667
+Concord,New Hampshire,United States of America,Americas,91.66666667,15
+Lincoln,Nebraska,United States of America,Americas,86.66666667,27.5
+Annapolis,Maryland,United States of America,Americas,86.53846154,47.22222222
+Olinda,Pernambuco,Brazil,Americas,50,75
+Sao Luis,Maranhao,Brazil,Americas,50,100
+Springfield,Illinois,United States of America,Americas,90.625,62.5
+Saint Paul,Minnesota,United States of America,Americas,88.54166667,30
+Montgomery,Alabama,United States of America,Americas,70.83333333,56.25
+Boca Raton,Florida,United States of America,Americas,94.23076923,34.61538462
+Juneau,Alaska,United States of America,Americas,100,25
+Heredia,Heredia Province,Costa Rica,Americas,35.71428571,50
+Cartago,Provincia de Cartago,Costa Rica,Americas,78.125,18.75
+El Alto,La Paz Department,Bolivia,Americas,50,100
+Burlington,Vermont,United States of America,Americas,100,30
+Allen,Texas,United States of America,Americas,75,12.5
+Las Cruces,New Mexico,United States of America,Americas,82.8125,33.33333333
+Little Rock,Arkansas,United States of America,Americas,89.28571429,22.05882353
+Hartford,Connecticut,United States of America,Americas,65.38461538,50
+Dover,Delaware,United States of America,Americas,100,50
+Valparaiso,Valparaiso Region,Chile,Americas,51.92307692,30.55555556
+Sarnia,Ontario,Canada,Americas,70.58823529,50
+Fargo,North Dakota,United States of America,Americas,100,0
+Thunder Bay,Ontario,Canada,Americas,87.5,34.375
+Grand Forks,North Dakota,United States of America,Americas,87.5,37.5
+Brantford,Ontario,Canada,Americas,75,43.33333333
+Barrie,Ontario,Canada,Americas,83.82352941,29.16666667
+Burlington,Ontario,Canada,Americas,91.25,35.9375
+Belleville,Ontario,Canada,Americas,88.88888889,20
+Port-au-Prince,Ouest,Haiti,Americas,12.5,68.75
+New Orleans,Louisiana,United States of America,Americas,65.13157895,72.85714286
+Kingston,Surrey County,Jamaica,Americas,33.125,58.57142857
+Dayton,Ohio,United States of America,Americas,82.8125,33.33333333
+Albuquerque,New Mexico,United States of America,Americas,83.33333333,39.70588235
+Santo Domingo,,Dominican Republic,Americas,32.54716981,70.28301887
+Oklahoma City,Oklahoma,United States of America,Americas,88.33333333,31.73076923
+Trinidad,Beni Department,Bolivia,Americas,75,50
+Boise,Idaho,United States of America,Americas,68.93939394,32.5
+Minneapolis,Minnesota,United States of America,Americas,79.51388889,33.57142857
+Bridgetown,Saint Michael,Barbados,Americas,90,15
+Puerto Montt,Los Lagos Region,Chile,Americas,25,50
+Salta,Salta Province,Argentina,Americas,60,50
+Calgary,,Canada,Americas,80,24.8502994
+Salvador,Bahia,Brazil,Americas,83,51.31578947
+Tallahassee,Florida,United States of America,Americas,92.1875,41.66666667
+Bismarck,North Dakota,United States of America,Americas,95.83333333,50
+Alajuela,Alajuela Province,Costa Rica,Americas,55,50
+Cleveland,Ohio,United States of America,Americas,66.66666667,54.54545455
+Milwaukee,Wisconsin,United States of America,Americas,79.06976744,43.29268293
+Columbia,South Carolina,United States of America,Americas,66.07142857,52.27272727
+Santa Fe,New Mexico,United States of America,Americas,89.28571429,38.63636364
+Helena,Montana,United States of America,Americas,100,50
+Cheyenne,Wyoming,United States of America,Americas,92.85714286,0
+Port of Spain,,Trinidad and Tobago,Americas,37.5,69.79166667
+Anchorage,Alaska,United States of America,Americas,90,18.75
+Des Moines,Iowa,United States of America,Americas,82.5,38.33333333
+Manaus,Amazonas,Brazil,Americas,31.25,46.42857143
+Springfield,Oregon,United States of America,Americas,25,50
+Porto Alegre,Rio Grande do Sul,Brazil,Americas,54.66101695,59.25925926
+Norman,Oklahoma,United States of America,Americas,100,25
+Buffalo,New York,United States of America,Americas,77.08333333,36.95652174
+Carson City,Nevada,United States of America,Americas,100,50
+Topeka,Kansas,United States of America,Americas,81.25,56.25
+Raleigh,North Carolina,United States of America,Americas,84.44444444,31.25
+St. George's,Saint George Parish,Grenada,Americas,55,25
+Castries,Castries Quarter,Saint Lucia,Americas,70.83333333,33.33333333
+Kansas City,Missouri,United States of America,Americas,76.74418605,44.51219512
+Talcahuano,Biobio Region,Chile,Americas,33.33333333,0
+Olympia,Washington,United States of America,Americas,87.5,18.75
+Santiago de los Caballeros,Santiago Province,Dominican Republic,Americas,35,66.66666667
+Belo Horizonte,Minas Gerais,Brazil,Americas,51.171875,47.45762712
+Cincinnati,Ohio,United States of America,Americas,57.57575758,43.10344828
+Omaha,Nebraska,United States of America,Americas,78.57142857,32.35294118
+Fresno,California,United States of America,Americas,21.25,78.125
+Richmond,Virginia,United States of America,Americas,73.17073171,27.63157895
+Fortaleza,Ceara,Brazil,Americas,66.66666667,56.94444444
+Guayaquil,Guayas Province,Ecuador,Americas,41.21621622,70.51282051
+Louisville,Kentucky,United States of America,Americas,56.06060606,38.79310345
+Madison,Wisconsin,United States of America,Americas,86.76470588,40.32258065
+Salem,Oregon,United States of America,Americas,87.5,17.85714286
+Ketchikan,Alaska,United States of America,Americas,100,50
+Trois-Rivieres,Quebec,Canada,Americas,82.14285714,0
+Vaughan,Ontario,Canada,Americas,80.88235294,28.33333333
+Markham,Ontario,Canada,Americas,89.58333333,17.70833333
+La Plata,Buenos Aires Province,Argentina,Americas,40.90909091,63.63636364
+Brampton,Ontario,Canada,Americas,70.83333333,39.88095238
+Cordoba,Cordoba Province,Argentina,Americas,35,58.33333333
+Santa Rosa,La Pampa,Argentina,Americas,75,75
+San Salvador de Jujuy,Province of Jujuy,Argentina,Americas,75,50
+La Rioja,La Rioja Province,Argentina,Americas,100,50
+Mendoza,Mendoza,Argentina,Americas,65.625,53.57142857
+Viedma,Rio Negro Province,Argentina,Americas,100,75
+San Luis,San Luis Province,Argentina,Americas,75,50
+Santiago del Estero,Santiago del Estero Province,Argentina,Americas,75,25
+Charleston,West Virginia,United States of America,Americas,95,50
+Tulsa,Oklahoma,United States of America,Americas,75,38.63636364
+Santa Monica,California,United States of America,Americas,66.66666667,54.16666667
+Palo Alto,California,United States of America,Americas,56.25,50
+Green Bay,Wisconsin,United States of America,Americas,63.88888889,50
+Charleston,South Carolina,United States of America,Americas,75,57.69230769
+Bariloche,Rio Negro Province,Argentina,Americas,83.33333333,41.66666667
+Dover,New Hampshire,United States of America,Americas,100,50
+Nashua,New Hampshire,United States of America,Americas,87.5,0
+Medellin,Antioquia Department,Colombia,Americas,23.9010989,38.23529412
+Recife,Pernambuco,Brazil,Americas,49.16666667,77.41935484
+Manchester,New Hampshire,United States of America,Americas,76.92307692,38.88888889
+Oak Ridge,Tennessee,United States of America,Americas,87.5,50
+San Luis Obispo,California,United States of America,Americas,92.5,45.83333333
+Cambridge,Massachusetts,United States of America,Americas,91.66666667,21.875
+West Hartford,Connecticut,United States of America,Americas,91.66666667,6.25
+New Haven,Connecticut,United States of America,Americas,81.81818182,37.5
+New Bedford,Massachusetts,United States of America,Americas,25,75
+Stamford,Connecticut,United States of America,Americas,50,54.16666667
+Bridgeport,Connecticut,United States of America,Americas,79.16666667,66.66666667
+Waterbury,Connecticut,United States of America,Americas,80,0
+Worcester,Massachusetts,United States of America,Americas,91.66666667,75
+Pittsfield,Massachusetts,United States of America,Americas,89.28571429,100
+Fall River,Massachusetts,United States of America,Americas,100,50
+Newton,Massachusetts,United States of America,Americas,75,50
+Danbury,Connecticut,United States of America,Americas,75,0
+Somerville,Massachusetts,United States of America,Americas,100,12.5
+Portland,Maine,United States of America,Americas,82.14285714,42.85714286
+Rochester,New York,United States of America,Americas,64.70588235,47.91666667
+Irvine,California,United States of America,Americas,63.15789474,33.33333333
+Fremont,California,United States of America,Americas,79.16666667,15
+Scottsdale,Arizona,United States of America,Americas,68.75,28.84615385
+Reno,Nevada,United States of America,Americas,70.93023256,28.84615385
+Winston-Salem,North Carolina,United States of America,Americas,94.44444444,5
+Durham,North Carolina,United States of America,Americas,75,39.58333333
+Norfolk,Virginia,United States of America,Americas,100,75
+Orlando,Florida,United States of America,Americas,75.73529412,48.38709677
+Greensboro,North Carolina,United States of America,Americas,76.66666667,31.81818182
+Toledo,Ohio,United States of America,Americas,75,75
+Stockton,California,United States of America,Americas,44.23076923,71.875
+Lexington,Kentucky,United States of America,Americas,89.28571429,40
+Corpus Christi,Texas,United States of America,Americas,70,68.18181818
+Riverside,California,United States of America,Americas,45.83333333,53.33333333
+Santa Ana,California,United States of America,Americas,50,55
+Aurora,Colorado,United States of America,Americas,45.83333333,33.33333333
+Anaheim,California,United States of America,Americas,55.76923077,33.33333333
+Tampa,Florida,United States of America,Americas,79.78723404,45.93023256
+Bakersfield,California,United States of America,Americas,16.66666667,68.47826087
+Colorado Springs,Colorado,United States of America,Americas,79.41176471,38.39285714
+Virginia Beach,Virginia,United States of America,Americas,85.52631579,36.66666667
+Mesa,Arizona,United States of America,Americas,68.75,31.25
+Wichita,Kansas,United States of America,Americas,86.36363636,33.82352941
+Henderson,Nevada,United States of America,Americas,67.85714286,35
+Fort Wayne,Indiana,United States of America,Americas,66.66666667,43.75
+Chula Vista,California,United States of America,Americas,37.5,75
+Chandler,Arizona,United States of America,Americas,65,45
+Lubbock,Texas,United States of America,Americas,69.64285714,34.09090909
+Garland,Texas,United States of America,Americas,75,50
+Garden Grove,California,United States of America,Americas,75,0
+Mississauga,Ontario,Canada,Americas,81.69642857,32.69230769
+Osorno,Los Lagos Region,Chile,Americas,25,62.5
+Ovalle,Coquimbo Region,Chile,Americas,100,25
+Cali,Valle del Cauca Department,Colombia,Americas,67.04545455,42.1875
+Pereira,Risaralda Department,Colombia,Americas,25,75
+Puente Alto,Santiago Metropolitan Region,Chile,Americas,0,50
+Punta Arenas,Magellan and the Chilean Antarctic Region,Chile,Americas,94.44444444,45
+Gilbert,Arizona,United States of America,Americas,75,0
+Tempe,Arizona,United States of America,Americas,68.18181818,46.42857143
+Peoria,Arizona,United States of America,Americas,65,15
+Surprise,Arizona,United States of America,Americas,100,0
+Plano,Texas,United States of America,Americas,78.57142857,32.14285714
+Irving,Texas,United States of America,Americas,62.5,37.5
+Amarillo,Texas,United States of America,Americas,53.125,53.125
+Brownsville,Texas,United States of America,Americas,57.14285714,68.75
+Mesquite,Texas,United States of America,Americas,50,75
+McKinney,Texas,United States of America,Americas,87.5,18.75
+McAllen,Texas,United States of America,Americas,87.5,35.71428571
+Orem,Utah,United States of America,Americas,65.625,33.33333333
+Ogden,Utah,United States of America,Americas,80.55555556,0
+Rosario,Santa Fe Province,Argentina,Americas,71.42857143,57.14285714
+Mar del Plata,Buenos Aires Province,Argentina,Americas,82.14285714,35.71428571
+Richmond Hill,Ontario,Canada,Americas,89.28571429,8.333333333
+Newmarket,Ontario,Canada,Americas,100,0
+Saltillo,Coahuila,Mexico,Americas,68.33333333,42.85714286
+Bahia Blanca,Buenos Aires Province,Argentina,Americas,58.33333333,58.33333333
+Haverhill,Massachusetts,United States of America,Americas,100,50
+Beverly,Massachusetts,United States of America,Americas,100,0
+Medford,Massachusetts,United States of America,Americas,100,0
+Woburn,Massachusetts,United States of America,Americas,87.5,50
+Norwalk,Connecticut,United States of America,Americas,75,30
+East Providence,Rhode Island,United States of America,Americas,100,50
+Woonsocket,Rhode Island,United States of America,Americas,80,100
+Valencia,Carabobo,Venezuela,Americas,39.28571429,96.42857143
+Cuenca,Azuay Province,Ecuador,Americas,45.39473684,28.67647059
+Punta del Este,Maldonado Department,Uruguay,Americas,81.25,50
+San Bernardo,Santiago Metropolitan Region,Chile,Americas,10.88709677,88.72282609
+Venice,Florida,United States of America,Americas,91.66666667,16.66666667
+Banff,Alberta,Canada,Americas,100,0
+Columbia,Missouri,United States of America,Americas,96.42857143,25
+Napa,California,United States of America,Americas,92.85714286,37.5
+Campeche,Campeche,Mexico,Americas,80,68.75
+Chihuahua City,Chihuahua,Mexico,Americas,81.25,47.91666667
+Colima,Colima,Mexico,Americas,75,37.5
+Brandon,Manitoba,Canada,Americas,85,40
+Jonesboro,Arkansas,United States of America,Americas,50,50
+Barranquilla,Atlantico Department,Colombia,Americas,52.77777778,50
+Marion,Arkansas,United States of America,Americas,0,75
+Cabot,Arkansas,United States of America,Americas,75,25
+Russellville,Arkansas,United States of America,Americas,93.75,50
+Bullhead City,Arizona,United States of America,Americas,100,50
+Texarkana,Arkansas,United States of America,Americas,87.5,50
+Rogers,Arkansas,United States of America,Americas,87.5,12.5
+Dothan,Alabama,United States of America,Americas,100,62.5
+Fort Smith,Arkansas,United States of America,Americas,95,25
+Tuscaloosa,Alabama,United States of America,Americas,86.11111111,40
+Fairbanks,Alaska,United States of America,Americas,68.18181818,10
+Van Buren,Arkansas,United States of America,Americas,100,50
+Kingman,Arizona,United States of America,Americas,100,75
+Florence,Alabama,United States of America,Americas,100,50
+Yuma,Arizona,United States of America,Americas,77.77777778,45
+Flagstaff,Arizona,United States of America,Americas,100,18.75
+Palmer,Alaska,United States of America,Americas,95,0
+Huntsville,Alabama,United States of America,Americas,95,25
+Mobile,Alabama,United States of America,Americas,75,57.14285714
+Maricopa,Arizona,United States of America,Americas,100,50
+Murfreesboro,Arkansas,United States of America,Americas,87.5,37.5
+Sierra Vista,Arizona,United States of America,Americas,75,30
+Seward,Alaska,United States of America,Americas,100,0
+Hot Springs,Arkansas,United States of America,Americas,100,0
+Prescott,Arizona,United States of America,Americas,96.42857143,25
+Wasilla,Alaska,United States of America,Americas,96.42857143,33.33333333
+Kodiak,Alaska,United States of America,Americas,100,25
+Shreveport,Louisiana,United States of America,Americas,78.125,91.66666667
+Monterrey,Nuevo Leon,Mexico,Americas,23.79310345,50
+Acapulco,Guerrero,Mexico,Americas,36.36363636,77.27272727
+Gresham,Oregon,United States of America,Americas,100,0
+Beaverton,Oregon,United States of America,Americas,81.25,6.25
+Santos,Sao Paulo,Brazil,Americas,65.625,18.75
+Temuco,Araucania Region,Chile,Americas,18.75,37.5
+Goiania,Goias,Brazil,Americas,68.75,39.58333333
+Savannah,Georgia,United States of America,Americas,64.0625,52.08333333
+London,Ontario,Canada,Americas,69.82758621,51
+Sugar Land,Texas,United States of America,Americas,87.5,37.5
+Greeley,Colorado,United States of America,Americas,95,0
+Waukesha,Wisconsin,United States of America,Americas,87.5,50
+Appleton,Wisconsin,United States of America,Americas,89.28571429,25
+Belize City,Belize District,Belize,Americas,50,77.77777778
+Pelotas,Rio Grande do Sul,Brazil,Americas,50,50
+Caxias do Sul,Rio Grande do Sul,Brazil,Americas,85,37.5
+Durango,Durango,Mexico,Americas,83.33333333,50
+Chatham-Kent,Ontario,Canada,Americas,60,25
+Eau Claire,Wisconsin,United States of America,Americas,96.42857143,33.33333333
+Charlottesville,Virginia,United States of America,Americas,100,58.33333333
+Tijuana,Baja California,Mexico,Americas,33.33333333,69.23076923
+Fort McMurray,Alberta,Canada,Americas,70,41.66666667
+Beverly Hills,California,United States of America,Americas,100,0
+Yonkers,New York,United States of America,Americas,100,50
+Niagara Falls,New York,United States of America,Americas,100,50
+Waco,Texas,United States of America,Americas,81.25,68.75
+Frisco,Texas,United States of America,Americas,87.5,29.16666667
+Beaumont,Texas,United States of America,Americas,70.83333333,87.5
+Denton,Texas,United States of America,Americas,62.5,37.5
+Midland,Texas,United States of America,Americas,75,100
+Round Rock,Texas,United States of America,Americas,75,0
+Wichita Falls,Texas,United States of America,Americas,62.5,43.75
+Odessa,Texas,United States of America,Americas,100,50
+Lafayette,Louisiana,United States of America,Americas,92.85714286,0
+Oyster Bay,New York,United States of America,Americas,100,25
+Roy,Utah,United States of America,Americas,100,50
+Sioux Falls,South Dakota,United States of America,Americas,81.81818182,32.14285714
+Natal,Rio Grande do Norte,Brazil,Americas,80.68181818,59.09090909
+Hanover,New Hampshire,United States of America,Americas,100,50
+Florianopolis,Santa Catarina,Brazil,Americas,82.60869565,67.39130435
+Hamilton,Ontario,Canada,Americas,42.79661017,54.01785714
+Springfield,Missouri,United States of America,Americas,84.72222222,42.30769231
+Galveston,Texas,United States of America,Americas,85.71428571,50
+Abingdon,Virginia,United States of America,Americas,100,50
+Camden,New Jersey,United States of America,Americas,87.5,50
+Hoboken,New Jersey,United States of America,Americas,56.25,62.5
+Livermore,California,United States of America,Americas,75,54.16666667
+Brossard,Quebec,Canada,Americas,100,50
+Saguenay,Quebec,Canada,Americas,96.875,18.75
+Zacatecas,Zacatecas,Mexico,Americas,82.14285714,37.5
+Longueuil,Quebec,Canada,Americas,100,37.5
+Sherbrooke,Quebec,Canada,Americas,90.78947368,31.66666667
+Boisbriand,Quebec,Canada,Americas,75,25
+Atlantic City,New Jersey,United States of America,Americas,91.66666667,37.5
+Richmond,Quebec,Canada,Americas,80,50
+Chateauguay,Quebec,Canada,Americas,100,0
+Victoriaville,Quebec,Canada,Americas,91.66666667,50
+Mascouche,Quebec,Canada,Americas,100,50
+Rouyn-Noranda,Quebec,Canada,Americas,91.66666667,12.5
+Laval,Quebec,Canada,Americas,91.07142857,41.66666667
+Gatineau,Quebec,Canada,Americas,88.63636364,42.85714286
+Granby,Quebec,Canada,Americas,100,75
+Drummondville,Quebec,Canada,Americas,100,0
+Montmagny,Quebec,Canada,Americas,100,50
+Salaberry-de-Valleyfield,Quebec,Canada,Americas,85,50
+Senneterre,Quebec,Canada,Americas,100,50
+Sainte-Adele,Quebec,Canada,Americas,90,100
+Allentown,Pennsylvania,United States of America,Americas,60.71428571,75
+Grants Pass,Oregon,United States of America,Americas,62.5,75
+Zanesville,Ohio,United States of America,Americas,50,85
+Zapopan,Jalisco,Mexico,Americas,58.92857143,42.85714286
+Brookhaven,Georgia,United States of America,Americas,50,75
+Joinville,Santa Catarina,Brazil,Americas,77.94117647,58.82352941
+Santa Cruz,California,United States of America,Americas,88.23529412,34.61538462
+Santa Clara,California,United States of America,Americas,75,35
+Arequipa,Arequipa,Peru,Americas,18.33333333,88.33333333
+Santa Barbara,California,United States of America,Americas,83.82352941,56.25
+Valdivia,Los Rios Region,Chile,Americas,0,50
+Port Antonio,Surrey County,Jamaica,Americas,75,100
+Akron,Ohio,United States of America,Americas,65,83.33333333
+West Palm Beach,Florida,United States of America,Americas,72.5,66.66666667
+Merida,Yucatan,Mexico,Americas,71.09375,50
+Teresina,Piaui,Brazil,Americas,75,75
+Fort Lauderdale,Florida,United States of America,Americas,81.57894737,42.10526316
+Billings,Montana,United States of America,Americas,75,40
+West Lafayette,Indiana,United States of America,Americas,75,75
+Crescent City,California,United States of America,Americas,100,0
+Kalamazoo,Michigan,United States of America,Americas,88.63636364,53.57142857
+Joao Pessoa,Paraiba,Brazil,Americas,86.11111111,43.75
+Vitoria,Espirito Santo,Brazil,Americas,34.61538462,55
+Campo Grande,Mato Grosso do Sul,Brazil,Americas,92.5,57.14285714
+Moa,Holguin Province,Cuba,Americas,0,75
+San Mateo,California,United States of America,Americas,80,20
+Yuba City,California,United States of America,Americas,100,50
+Passaic,New Jersey,United States of America,Americas,50,75
+Cuiaba,Mato Grosso,Brazil,Americas,25,37.5
+Eugene,Oregon,United States of America,Americas,75,36.25
+Campinas,Sao Paulo,Brazil,Americas,61.02941176,48.33333333
+Maracaibo,Zulia,Venezuela,Americas,20,95
+Porto Velho,Rondonia,Brazil,Americas,50,50
+Wilmington,Delaware,United States of America,Americas,66.66666667,87.5
+Villa Alemana,Valparaiso Region,Chile,Americas,37.5,50
+Poughkeepsie,New York,United States of America,Americas,91.66666667,12.5
+Niteroi,Rio de Janeiro,Brazil,Americas,57.8125,52.27272727
+Puyallup,Washington,United States of America,Americas,75,25
+Rancho Palos Verdes,California,United States of America,Americas,87.5,25
+Boa Vista,Roraima,Brazil,Americas,91.66666667,58.33333333
+Augusta,Georgia,United States of America,Americas,71.875,33.33333333
+Cochabamba,Cochabamba Department,Bolivia,Americas,26.38888889,68.75
+Vina del Mar,Valparaiso Region,Chile,Americas,62.5,30
+Sao Bernardo do Campo,Sao Paulo,Brazil,Americas,28.125,66.66666667
+Guarulhos,Sao Paulo,Brazil,Americas,67.85714286,21.875
+Grand Rapids,Michigan,United States of America,Americas,69.23076923,44.44444444
+Grapevine,Texas,United States of America,Americas,0,100
+Knoxville,Tennessee,United States of America,Americas,56.94444444,51.78571429
+Belvidere,Illinois,United States of America,Americas,75,25
+Chattanooga,Tennessee,United States of America,Americas,79.41176471,61.53846154
+Spokane,Washington,United States of America,Americas,77.88461538,25
+Ribeirao Preto,Sao Paulo,Brazil,Americas,47.72727273,61.11111111
+Nova Iguacu,Rio de Janeiro,Brazil,Americas,45,100
+Sorocaba,Sao Paulo,Brazil,Americas,53.57142857,41.66666667
+Petropolis,Rio de Janeiro,Brazil,Americas,100,75
+Hermosillo,Sonora,Mexico,Americas,65.27777778,51.38888889
+Missoula,Montana,United States of America,Americas,79.6875,22.91666667
+Cienfuegos,Cienfuegos Province,Cuba,Americas,0,100
+Sao Jose dos Campos,Sao Paulo,Brazil,Americas,69,26.47058824
+Santo Andre,Sao Paulo,Brazil,Americas,50,0
+Ciudad del Este,Alto Parana Department,Paraguay,Americas,100,0
+Londrina,Parana,Brazil,Americas,80,35
+Boulder,Colorado,United States of America,Americas,85,47.91666667
+Juiz de Fora,Minas Gerais,Brazil,Americas,80,58.33333333
+Duque de Caxias,Rio de Janeiro,Brazil,Americas,12.5,50
+Iquitos,Loreto,Peru,Americas,25,75
+Canoas,Rio Grande do Sul,Brazil,Americas,62.5,87.5
+Uberlandia,Minas Gerais,Brazil,Americas,87.5,37.5
+Mogi das Cruzes,Sao Paulo,Brazil,Americas,90,20
+Sao Carlos,Sao Paulo,Brazil,Americas,80,45
+Feira de Santana,Bahia,Brazil,Americas,62.5,62.5
+Tacoma,Washington,United States of America,Americas,78.94736842,50
+Kitchener,Ontario,Canada,Americas,80.43478261,30.26315789
+Aguascalientes City,Aguascalientes,Mexico,Americas,73.61111111,48.61111111
+Foz do Iguacu,Parana,Brazil,Americas,100,33.33333333
+Kingston,Ontario,Canada,Americas,83.33333333,29.54545455
+Whistler,British Columbia,Canada,Americas,100,50
+San Luis Potosi,San Luis Potosi,Mexico,Americas,48.21428571,59.61538462
+Modesto,California,United States of America,Americas,46.66666667,54.54545455
+Granada,Granada Department,Nicaragua,Americas,25,25
+Cascavel,Parana,Brazil,Americas,100,37.5
+Aspen,Colorado,United States of America,Americas,75,50
+Tuxtla Gutierrez,Chiapas,Mexico,Americas,75,31.25
+Tepic,Nayarit,Mexico,Americas,100,50
+Vallejo,California,United States of America,Americas,100,50
+Thousand Oaks,California,United States of America,Americas,92.5,20.83333333
+Sunnyvale,California,United States of America,Americas,77.08333333,55.55555556
+Maringa,Parana,Brazil,Americas,95.83333333,25
+Santa Marta,Magdalena Department,Colombia,Americas,50,71.42857143
+Toluca,State of Mexico,Mexico,Americas,25,41.66666667
+Oxnard,California,United States of America,Americas,95,0
+Ambato,Tungurahua Province,Ecuador,Americas,72.22222222,75
+Villahermosa,Tabasco,Mexico,Americas,56.25,43.75
+Oshawa,Ontario,Canada,Americas,84.09090909,32.14285714
+Antigua Guatemala,Sacatepequez Department,Guatemala,Americas,32.14285714,53.57142857
+Santa Rosa,California,United States of America,Americas,81.25,29.54545455
+Rapid City,South Dakota,United States of America,Americas,92.5,37.5
+Binghamton,New York,United States of America,Americas,62.5,62.5
+Bellevue,Washington,United States of America,Americas,94.23076923,19.44444444
+Trujillo,La Libertad,Peru,Americas,50,37.5
+Fayetteville,Arkansas,United States of America,Americas,94.44444444,20
+Macon,Georgia,United States of America,Americas,60,50
+Xalapa,Veracruz,Mexico,Americas,62.5,18.75
+Comodoro Rivadavia,Chubut Province,Argentina,Americas,85.71428571,58.33333333
+Walla Walla,Washington,United States of America,Americas,100,0
+Ibague,Tolima Department,Colombia,Americas,56.61764706,79.04411765
+Casper,Wyoming,United States of America,Americas,100,33.33333333
+Redmond,Washington,United States of America,Americas,87.5,33.33333333
+Piura,Piura,Peru,Americas,25,75
+Kelowna,British Columbia,Canada,Americas,79.87804878,32.43243243
+Peoria,Illinois,United States of America,Americas,96.875,29.16666667
+Aberdeen,Washington,United States of America,Americas,100,0
+Rockford,Illinois,United States of America,Americas,60.71428571,60
+Vancouver,Washington,United States of America,Americas,73.07692308,29.80769231
+Erie,Pennsylvania,United States of America,Americas,80,100
+Hollywood,Florida,United States of America,Americas,100,37.5
+Aberdeen,South Dakota,United States of America,Americas,50,83.33333333
+Tunja,Boyaca Department,Colombia,Americas,100,75
+Reading,Pennsylvania,United States of America,Americas,87.5,50
+Brunswick,Vermont,United States of America,Americas,100,37.5
+Columbus,Georgia,United States of America,Americas,82.5,45
+Mission,Texas,United States of America,Americas,100,0
+Bauru,Sao Paulo,Brazil,Americas,58.33333333,50
+Huntington,West Virginia,United States of America,Americas,75,25
+Kingsport,Tennessee,United States of America,Americas,56.25,93.75
+Ponta Grossa,Parana,Brazil,Americas,62.5,37.5
+Naperville,Illinois,United States of America,Americas,83.33333333,12.5
+Bucaramanga,Santander Department,Colombia,Americas,40,25
+Burnaby,British Columbia,Canada,Americas,77.77777778,41.07142857
+Clearwater,Florida,United States of America,Americas,85.71428571,35.71428571
+Clifton,New Jersey,United States of America,Americas,100,0
+Naples,Florida,United States of America,Americas,80.76923077,30.76923077
+Chiclayo,Lambayeque,Peru,Americas,50,50
+Aurora,Ontario,Canada,Americas,50,37.5
+Newport Beach,California,United States of America,Americas,93.75,25
+Lethbridge,Alberta,Canada,Americas,68.75,36.36363636
+Contagem,Minas Gerais,Brazil,Americas,50,75
+Scranton,Pennsylvania,United States of America,Americas,92.85714286,41.66666667
+Abbotsford,British Columbia,Canada,Americas,64.28571429,36.45833333
+Niagara Falls,Ontario,Canada,Americas,83.33333333,43.75
+San Pedro Sula,Cortes Department,Honduras,Americas,28.57142857,67.85714286
+Jundiai,Sao Paulo,Brazil,Americas,67.85714286,5
+Volta Redonda,Rio de Janeiro,Brazil,Americas,50,50
+David,Chiriqui Province,Panama,Americas,80,30
+Teixeira de Freitas,Bahia,Brazil,Americas,25,100
+Albany,Georgia,United States of America,Americas,75,16.66666667
+Duluth,Georgia,United States of America,Americas,50,0
+Blacksburg,Virginia,United States of America,Americas,75,0
+Newport,New Hampshire,United States of America,Americas,100,0
+Rio Claro,Sao Paulo,Brazil,Americas,25,50
+Middletown,New York,United States of America,Americas,100,25
+Joplin,Missouri,United States of America,Americas,79.16666667,18.75
+San Juan de Pasto,Narino Department,Colombia,Americas,70,75
+Lancaster,Pennsylvania,United States of America,Americas,66.66666667,45
+Pocatello,Idaho,United States of America,Americas,83.33333333,87.5
+Novo Hamburgo,Rio Grande do Sul,Brazil,Americas,87.5,0
+Simi Valley,California,United States of America,Americas,82.14285714,25
+Fairfield,California,United States of America,Americas,87.5,37.5
+Guarapuava,Parana,Brazil,Americas,100,0
+Bangor,Maine,United States of America,Americas,87.5,12.5
+Rockville,Maryland,United States of America,Americas,87.5,50
+Laramie,Wyoming,United States of America,Americas,100,0
+Armenia,Quindio Department,Colombia,Americas,62.5,37.5
+Nuevo Laredo,Tamaulipas State,Mexico,Americas,37.5,68.75
+Parkersburg,West Virginia,United States of America,Americas,0,100
+Fayetteville,North Carolina,United States of America,Americas,77.08333333,66.66666667
+Schenectady,New York,United States of America,Americas,50,50
+Maracay,Aragua,Venezuela,Americas,25,100
+Vila Velha,Espirito Santo,Brazil,Americas,33.33333333,41.66666667
+Quetzaltenango,Quetzaltenango Department,Guatemala,Americas,29.16666667,75
+Newport News,Virginia,United States of America,Americas,66.66666667,62.5
+Popayan,Cauca Department,Colombia,Americas,100,25
+Salto,Salto Department,Uruguay,Americas,100,25
+Inuvik,Northwest Territories,Canada,Americas,87.5,50
+Holland,Indiana,United States of America,Americas,75,75
+Adelanto,California,United States of America,Americas,50,50
+Goldsboro,North Carolina,United States of America,Americas,60,100
+Chester,Pennsylvania,United States of America,Americas,87.5,50
+Medicine Hat,Alberta,Canada,Americas,87.5,34.375
+El Cajon,California,United States of America,Americas,50,25
+Pembroke Pines,Florida,United States of America,Americas,100,75
+Adrian,Georgia,United States of America,Americas,83.33333333,87.5
+Escondido,California,United States of America,Americas,75,12.5
+Farmville,North Carolina,United States of America,Americas,75,25
+Gouyave,Saint John Parish,Grenada,Americas,50,75
+Valledupar,Cesar Department,Colombia,Americas,50,50
+Latacunga,Cotopaxi Province,Ecuador,Americas,58.33333333,91.66666667
+Puerto la Cruz,Anzoategui,Venezuela,Americas,25,100
+Hattiesburg,Mississippi,United States of America,Americas,82.14285714,41.66666667
+Whitby,Ontario,Canada,Americas,86.53846154,17.30769231
+Ajax,Ontario,Canada,Americas,87.5,38.63636364
+Pickering,Ontario,Canada,Americas,75,50
+Des Plaines,Illinois,United States of America,Americas,100,50
+Torreon,Coahuila,Mexico,Americas,47.22222222,50
+Paradise,California,United States of America,Americas,75,50
+Surrey,British Columbia,Canada,Americas,71.73913043,33.33333333
+Barcelona,Anzoategui,Venezuela,Americas,12.5,50
+Everett,Washington,United States of America,Americas,88.63636364,32.14285714
+Columbia,Maryland,United States of America,Americas,100,25
+Airdrie,Alberta,Canada,Americas,62.5,25
+Welland,Ontario,Canada,Americas,45,45
+Oakville,Ontario,Canada,Americas,80,33.33333333
+Milton,Ontario,Canada,Americas,81.81818182,29.54545455
+Temple,Texas,United States of America,Americas,100,0
+Bellingham,Washington,United States of America,Americas,94.73684211,30
+Chico,California,United States of America,Americas,72.5,50
+Alton,Illinois,United States of America,Americas,25,75
+Amargosa Valley,Nevada,United States of America,Americas,25,100
+Moncton,New Brunswick,Canada,Americas,83.33333333,23.52941176
+Chetumal,Quintana Roo,Mexico,Americas,75,50
+Sao Joao de Meriti,Rio de Janeiro,Brazil,Americas,0,75
+Barueri,Sao Paulo,Brazil,Americas,50,50
+Grand Island,Nebraska,United States of America,Americas,75,0
+Kenosha,Wisconsin,United States of America,Americas,87.5,12.5
+White Plains,New York,United States of America,Americas,37.5,62.5
+Urbana,Illinois,United States of America,Americas,87.5,12.5
+Cape Coral,Florida,United States of America,Americas,75,25
+Sault Ste. Marie,Ontario,Canada,Americas,50,53.33333333
+Great Falls,Montana,United States of America,Americas,75,25
+Americana,Sao Paulo,Brazil,Americas,25,75
+Nova Friburgo,Rio de Janeiro,Brazil,Americas,100,0
+Huancayo,Junin,Peru,Americas,75,75
+Ames,Iowa,United States of America,Americas,66.66666667,50
+Kamloops,British Columbia,Canada,Americas,71.42857143,25
+Macae,Rio de Janeiro,Brazil,Americas,100,37.5
+Bridgewater,Nova Scotia,Canada,Americas,100,0
+Wolfville,Nova Scotia,Canada,Americas,75,0
+Riobamba,Chimborazo Province,Ecuador,Americas,100,75
+Spanish Fork,Utah,United States of America,Americas,75,0
+Logan,Utah,United States of America,Americas,67.85714286,0
+Tooele,Utah,United States of America,Americas,100,50
+Farmington,Utah,United States of America,Americas,100,50
+Lewiston,Utah,United States of America,Americas,75,0
+Berkeley,California,United States of America,Americas,79.16666667,36.11111111
+Port Perry,Ontario,Canada,Americas,100,37.5
+Ann Arbor,Michigan,United States of America,Americas,76.31578947,51.78571429
+Pasadena,California,United States of America,Americas,65,20
+Key West,Florida,United States of America,Americas,100,0
+Duluth,Minnesota,United States of America,Americas,96.42857143,25
+Glendale,California,United States of America,Americas,77.5,45.83333333
+San Bernardino,California,United States of America,Americas,0,50
+Pensacola,Florida,United States of America,Americas,66.17647059,53.125
+Cedar Rapids,Iowa,United States of America,Americas,89.28571429,25
+Evansville,Indiana,United States of America,Americas,68.75,37.5
+Kansas City,Kansas,United States of America,Americas,68.75,31.25
+Rochester,Minnesota,United States of America,Americas,80.55555556,62.5
+Mountain View,California,United States of America,Americas,91.66666667,33.33333333
+Pomona,California,United States of America,Americas,37.5,75
+South Bend,Indiana,United States of America,Americas,92.85714286,33.33333333
+Minot,North Dakota,United States of America,Americas,68.75,75
+Monterey,California,United States of America,Americas,91.66666667,34.375
+Iowa City,Iowa,United States of America,Americas,83.33333333,37.5
+St. Augustine,Florida,United States of America,Americas,87.5,62.5
+Gainesville,Florida,United States of America,Americas,87.5,34.375
+Palm Springs,California,United States of America,Americas,43.75,87.5
+Salinas,California,United States of America,Americas,100,50
+Ontario,California,United States of America,Americas,33.33333333,25
+Eureka,California,United States of America,Americas,100,0
+Oceanside,California,United States of America,Americas,75,75
+Palmdale,California,United States of America,Americas,32.14285714,50
+Torrance,California,United States of America,Americas,75,0
+Sioux City,Iowa,United States of America,Americas,100,50
+Bloomington,Indiana,United States of America,Americas,83.33333333,55
+Ventura,California,United States of America,Americas,85,35
+Concord,California,United States of America,Americas,62.5,12.5
+Flint,Michigan,United States of America,Americas,62.5,87.5
+Gulfport,Mississippi,United States of America,Americas,100,0
+Daytona Beach,Florida,United States of America,Americas,96.42857143,46.42857143
+Biloxi,Mississippi,United States of America,Americas,100,50
+Fort Collins,Colorado,United States of America,Americas,86.84210526,35
+Alameda,California,United States of America,Americas,62.5,37.5
+Carlsbad,California,United States of America,Americas,75,25
+Hayward,California,United States of America,Americas,87.5,25
+Fontana,California,United States of America,Americas,45,35
+Santa Clarita,California,United States of America,Americas,87.5,31.25
+Canton,Ohio,United States of America,Americas,83.33333333,25
+Roseville,California,United States of America,Americas,93.75,40
+Anderson,Indiana,United States of America,Americas,90,25
+Sarasota,Florida,United States of America,Americas,90.38461538,25
+Williamsburg,Virginia,United States of America,Americas,100,0
+Winchester,Virginia,United States of America,Americas,100,50
+Terre Haute,Indiana,United States of America,Americas,75,12.5
+Walnut Creek,California,United States of America,Americas,83.33333333,8.333333333
+Lawrence,Kansas,United States of America,Americas,87.5,50
+Owensboro,Kentucky,United States of America,Americas,60.71428571,66.66666667
+Carson,California,United States of America,Americas,25,100
+Corona,California,United States of America,Americas,50,37.5
+Lancaster,California,United States of America,Americas,87.5,12.5
+Fullerton,California,United States of America,Americas,100,25
+Victorville,California,United States of America,Americas,85.71428571,50
+Antioch,California,United States of America,Americas,0,75
+Redding,California,United States of America,Americas,72.22222222,45.83333333
+Rancho Cucamonga,California,United States of America,Americas,66.66666667,16.66666667
+El Centro,California,United States of America,Americas,78.57142857,66.66666667
+Visalia,California,United States of America,Americas,40,75
+Idaho Falls,Idaho,United States of America,Americas,95.83333333,16.66666667
+Tyler,Texas,United States of America,Americas,66.66666667,45.83333333
+Merced,California,United States of America,Americas,87.5,50
+Costa Mesa,California,United States of America,Americas,56.25,40
+Yakima,Washington,United States of America,Americas,78.125,31.25
+Coeur d'Alene,Idaho,United States of America,Americas,79.16666667,50
+Moscow,Idaho,United States of America,Americas,37.5,62.5
+Overland Park,Kansas,United States of America,Americas,98.21428571,16.66666667
+Lewiston,Maine,United States of America,Americas,100,50
+Coatzacoalcos,Veracruz,Mexico,Americas,50,83.33333333
+Lawton,Oklahoma,United States of America,Americas,100,50
+Guelph,Ontario,Canada,Americas,86.9047619,26.47058824
+Ayacucho,Ayacucho,Peru,Americas,100,0
+Franca,Sao Paulo,Brazil,Americas,100,50
+Redwood City,California,United States of America,Americas,100,0
+Coral Springs,Florida,United States of America,Americas,100,50
+Decatur,Illinois,United States of America,Americas,70.83333333,37.5
+Mission Viejo,California,United States of America,Americas,75,75
+Fort Myers,Florida,United States of America,Americas,70.58823529,85
+Albany,Oregon,United States of America,Americas,75,12.5
+Chimbote,Ancash,Peru,Americas,0,100
+Presidente Prudente,Sao Paulo,Brazil,Americas,68.75,12.5
+Passo Fundo,Rio Grande do Sul,Brazil,Americas,50,75
+Encinitas,California,United States of America,Americas,75,12.5
+Alexandria,Minnesota,United States of America,Americas,100,25
+La Vega,La Vega Province,Dominican Republic,Americas,33.33333333,93.75
+Arnprior,Ontario,Canada,Americas,100,25
+Twin Falls,Idaho,United States of America,Americas,75,75
+Merrillville,Indiana,United States of America,Americas,87.5,50
+Ankeny,Iowa,United States of America,Americas,100,50
+Bozeman,Montana,United States of America,Americas,100,5.555555556
+Greenville,South Carolina,United States of America,Americas,91.25,18.33333333
+New Braunfels,Texas,United States of America,Americas,100,31.25
+Pittsfield,Illinois,United States of America,Americas,100,50
+Wheaton,Illinois,United States of America,Americas,100,0
+Macomb,Illinois,United States of America,Americas,75,0
+McHenry,Illinois,United States of America,Americas,75,75
+Lockport,Illinois,United States of America,Americas,100,0
+Quincy,Illinois,United States of America,Americas,91.66666667,25
+Corning,New York,United States of America,Americas,100,37.5
+Crystal Lake,Illinois,United States of America,Americas,68.75,25
+Bloomington,Illinois,United States of America,Americas,93.75,25
+Collinsville,Illinois,United States of America,Americas,75,25
+Rock Island,Illinois,United States of America,Americas,79.16666667,50
+Champaign,Illinois,United States of America,Americas,58.33333333,33.33333333
+Mount Vernon,Illinois,United States of America,Americas,100,0
+Morden,Manitoba,Canada,Americas,25,50
+Burlington,Iowa,United States of America,Americas,87.5,37.5
+DeKalb,Illinois,United States of America,Americas,75,50
+Cabudare,Lara,Venezuela,Americas,0,100
+Bradenton,Florida,United States of America,Americas,83.33333333,42.85714286
+Hazel Park,Michigan,United States of America,Americas,25,25
+Kissimmee,Florida,United States of America,Americas,70,68.75
+Fort Pierce,Florida,United States of America,Americas,75,0
+Deerfield Beach,Florida,United States of America,Americas,91.66666667,36.11111111
+Paso Robles,California,United States of America,Americas,100,75
+Germantown,Tennessee,United States of America,Americas,100,25
+Prince George,British Columbia,Canada,Americas,58.33333333,41.66666667
+Florence,South Carolina,United States of America,Americas,100,50
+Balneario Camboriu,Santa Catarina,Brazil,Americas,25,87.5
+Yucaipa,California,United States of America,Americas,50,75
+Powell River,British Columbia,Canada,Americas,100,0
+East Chicago,Indiana,United States of America,Americas,100,50
+Temixco,Morelos,Mexico,Americas,100,75
+Iguala,Guerrero,Mexico,Americas,85,75
+Lorain,Ohio,United States of America,Americas,0,50
+Palm Coast,Florida,United States of America,Americas,90,55
+Fairfax,South Carolina,United States of America,Americas,78.33333333,28.84615385
+Indaiatuba,Sao Paulo,Brazil,Americas,87.5,31.25
+Apple Valley,California,United States of America,Americas,100,0
+Teresopolis,Rio de Janeiro,Brazil,Americas,75,100
+Araraquara,Sao Paulo,Brazil,Americas,58.33333333,50
+Aracatuba,Sao Paulo,Brazil,Americas,50,0
+Thomasville,North Carolina,United States of America,Americas,87.5,50
+High Point,North Carolina,United States of America,Americas,75,12.5
+Norwich,Connecticut,United States of America,Americas,92.85714286,50
+San Rafael,California,United States of America,Americas,100,0
+Montego Bay,Cornwall County,Jamaica,Americas,50,73.21428571
+Lafayette,Indiana,United States of America,Americas,66.66666667,56.25
+Neiva,Huila Department,Colombia,Americas,75,75
+Waterloo,Ontario,Canada,Americas,84.72222222,34.72222222
+Lakeland,Florida,United States of America,Americas,100,45
+Barrington,Rhode Island,United States of America,Americas,50,25
+Lomas de Zamora,Buenos Aires Province,Argentina,Americas,62.5,37.5
+Grande Prairie,Alberta,Canada,Americas,87.5,15.625
+Coquitlam,British Columbia,Canada,Americas,80.95238095,30.88235294
+Santa Maria,California,United States of America,Americas,83.33333333,75
+Portmore,Middlesex County,Jamaica,Americas,38.33333333,70.45454545
+Asheville,North Carolina,United States of America,Americas,88.88888889,48
+Gainesville,Georgia,United States of America,Americas,100,50
+Embu das Artes,Sao Paulo,Brazil,Americas,50,50
+Dourados,Mato Grosso do Sul,Brazil,Americas,75,75
+Diadema,Sao Paulo,Brazil,Americas,41.66666667,75
+Montes Claros,Minas Gerais,Brazil,Americas,50,25
+Morgantown,West Virginia,United States of America,Americas,86.11111111,75
+Atascadero,California,United States of America,Americas,100,100
+Ensenada,Baja California,Mexico,Americas,79.41176471,50
+Cartagena,Bolivar Department,Colombia,Americas,60,65
+Citrus Heights,California,United States of America,Americas,100,50
+Wilmington,North Carolina,United States of America,Americas,100,50
+Tupelo,Mississippi,United States of America,Americas,85.71428571,25
+Perry,Georgia,United States of America,Americas,87.5,50
+Davis,California,United States of America,Americas,75,25
+College Park,Maryland,United States of America,Americas,100,0
+Bend,Oregon,United States of America,Americas,100,0
+Prince Albert,Saskatchewan,Canada,Americas,75,37.5
+Chapel Hill,North Carolina,United States of America,Americas,83.33333333,41.66666667
+Pueblo,Colorado,United States of America,Americas,95,50
+Clinton,Iowa,United States of America,Americas,87.5,50
+Renton,Washington,United States of America,Americas,62.5,16.66666667
+San Francisco de Macoris,Duarte Province,Dominican Republic,Americas,75,25
+Fort Smith,Northwest Territories,Canada,Americas,100,50
+Sao Leopoldo,Rio Grande do Sul,Brazil,Americas,75,100
+Campos dos Goytacazes,Rio de Janeiro,Brazil,Americas,65,50
+Highland,California,United States of America,Americas,50,100
+Bowling Green,Kentucky,United States of America,Americas,91.66666667,100
+Bremerton,Washington,United States of America,Americas,100,25
+College Station,Texas,United States of America,Americas,77.5,35
+Huaral,Lima region,Peru,Americas,50,25
+San Ignacio,Cayo District,Belize,Americas,100,75
+Ashland,Ohio,United States of America,Americas,83.33333333,8.333333333
+Viamao,Rio Grande do Sul,Brazil,Americas,100,50
+Greensburg,Pennsylvania,United States of America,Americas,87.5,50
+Cabo Frio,Rio de Janeiro,Brazil,Americas,87.5,62.5
+St. Cloud,Minnesota,United States of America,Americas,100,0
+Marilia,Sao Paulo,Brazil,Americas,83.33333333,0
+Reynosa,Tamaulipas State,Mexico,Americas,62.5,58.33333333
+Matamoros,Tamaulipas State,Mexico,Americas,75,56.25
+Stratford,Ontario,Canada,Americas,50,41.66666667
+Santa Maria,Rio Grande do Sul,Brazil,Americas,62.5,87.5
+Linden,Upper Demerara-Berbice,Guyana,Americas,37.5,62.5
+Butte,North Dakota,United States of America,Americas,75,56.25
+Farmington,Connecticut,United States of America,Americas,75,50
+New Rochelle,New York,United States of America,Americas,50,25
+Puerto Penasco,Sonora,Mexico,Americas,68.75,37.5
+Pleasanton,California,United States of America,Americas,100,0
+Corvallis,Oregon,United States of America,Americas,75,50
+Villavicencio,Meta,Colombia,Americas,100,25
+Lake Forest,California,United States of America,Americas,87.5,0
+Gaithersburg,Maryland,United States of America,Americas,91.66666667,12.5
+Easton,Maryland,United States of America,Americas,100,50
+Hyattsville,Maryland,United States of America,Americas,50,75
+Fairfield,Connecticut,United States of America,Americas,79.16666667,62.5
+Trumbull,Connecticut,United States of America,Americas,91.66666667,25
+Laurel,Maryland,United States of America,Americas,87.5,50
+Athens,Ohio,United States of America,Americas,100,0
+Hagerstown,Maryland,United States of America,Americas,87.5,50
+Salisbury,Maryland,United States of America,Americas,100,0
+Georgetown,Delaware,United States of America,Americas,100,50
+Milton,Delaware,United States of America,Americas,50,100
+Richmond,Kentucky,United States of America,Americas,80.26315789,47.36842105
+Lages,Santa Catarina,Brazil,Americas,62.5,75
+Keene,New Hampshire,United States of America,Americas,100,50
+Johnson City,Tennessee,United States of America,Americas,90,20
+Milagro,Guayas Province,Ecuador,Americas,0,50
+Spartanburg,South Carolina,United States of America,Americas,100,25
+La Chorrera,Panama Province,Panama,Americas,25,75
+Peterborough,Ontario,Canada,Americas,85,20.83333333
+Victoria,Texas,United States of America,Americas,100,25
+Boquete,Chiriqui Province,Panama,Americas,90,43.75
+Banning,California,United States of America,Americas,80,50
+Barnstable,Massachusetts,United States of America,Americas,100,75
+Bartlesville,Oklahoma,United States of America,Americas,75,75
+Bathurst,New Brunswick,Canada,Americas,95,50
+Baytown,Texas,United States of America,Americas,100,50
+Beaufort,North Carolina,United States of America,Americas,50,75
+Beaverlodge,Alberta,Canada,Americas,100,50
+Beckley,West Virginia,United States of America,Americas,100,50
+Belmont,California,United States of America,Americas,100,25
+Irapuato,,Mexico,Americas,17.5,65
+Bentonville,Arkansas,United States of America,Americas,91.66666667,0
+York,Pennsylvania,United States of America,Americas,64.28571429,75
+Delray Beach,Florida,United States of America,Americas,100,0
+Newport,Oregon,United States of America,Americas,100,75
+Quilmes,Buenos Aires Province,Argentina,Americas,25,25
+Grass Valley,California,United States of America,Americas,62.5,62.5
+Mount Vernon,New York,United States of America,Americas,100,50
+Medford,Oregon,United States of America,Americas,85.71428571,25
+Ukiah,California,United States of America,Americas,100,50
+Dublin,California,United States of America,Americas,100,0
+Ojai,California,United States of America,Americas,87.5,50
+Wheeling,West Virginia,United States of America,Americas,70,75
+Temecula,California,United States of America,Americas,71.42857143,27.77777778
+Murrieta,California,United States of America,Americas,100,25
+Indio,California,United States of America,Americas,50,25
+Myrtle Beach,South Carolina,United States of America,Americas,87.5,50
+Redondo Beach,California,United States of America,Americas,100,37.5
+Limeira,Sao Paulo,Brazil,Americas,12.5,75
+Petrolina,Pernambuco,Brazil,Americas,87.5,75
+Itajai,Santa Catarina,Brazil,Americas,100,0
+Kent,Washington,United States of America,Americas,100,0
+Texarkana,Texas,United States of America,Americas,64.28571429,75
+Kennewick,Washington,United States of America,Americas,95,20
+Camarillo,California,United States of America,Americas,100,0
+Kearney,Nebraska,United States of America,Americas,100,75
+Klamath Falls,Oregon,United States of America,Americas,83.33333333,62.5
+Roseburg,Oregon,United States of America,Americas,75,40
+Danville,California,United States of America,Americas,100,75
+Spanish Town,Middlesex County,Jamaica,Americas,50,100
+North Charleston,South Carolina,United States of America,Americas,100,50
+Jaragua do Sul,Santa Catarina,Brazil,Americas,87.5,37.5
+Oroville,California,United States of America,Americas,100,0
+Madera,California,United States of America,Americas,75,50
+Glendora,California,United States of America,Americas,50,25
+Praia Grande,Sao Paulo,Brazil,Americas,75,100
+Panama City,Florida,United States of America,Americas,50,37.5
+Longview,Texas,United States of America,Americas,85,75
+Cary,North Carolina,United States of America,Americas,50,62.5
+Hamilton,Ohio,United States of America,Americas,87.5,50
+Marietta,Georgia,United States of America,Americas,80.55555556,10
+Stillwater,Oklahoma,United States of America,Americas,93.75,50
+Kalispell,Montana,United States of America,Americas,89.28571429,0
+Livonia,Michigan,United States of America,Americas,100,25
+Montclair,California,United States of America,Americas,75,0
+Manhattan,Kansas,United States of America,Americas,100,0
+Yucca Valley,California,United States of America,Americas,87.5,50
+Summerside,Prince Edward Island,Canada,Americas,100,0
+Lake Charles,Louisiana,United States of America,Americas,66.66666667,60
+Yarmouth,Nova Scotia,Canada,Americas,100,25
+Huntsville,Texas,United States of America,Americas,100,50
+Moss Point,Mississippi,United States of America,Americas,91.66666667,50
+Verona,Mississippi,United States of America,Americas,100,50
+Olive Branch,Mississippi,United States of America,Americas,100,0
+Freeport,,The Bahamas,Americas,75,0
+Minas,Lavalleja Department,Uruguay,Americas,100,25
+Harlingen,Texas,United States of America,Americas,100,0
+Valparaiso,Indiana,United States of America,Americas,100,50
+Jackson,Wyoming,United States of America,Americas,100,50
+New Westminster,British Columbia,Canada,Americas,87.5,18.33333333
+Loveland,Colorado,United States of America,Americas,72.5,35
+Punta Gorda,Toledo District,Belize,Americas,100,75
+Bloomfield Hills,Michigan,United States of America,Americas,0,100
+Boone,North Carolina,United States of America,Americas,75,50
+Bowling Green,Ohio,United States of America,Americas,100,16.66666667
+Boynton Beach,Florida,United States of America,Americas,100,50
+Brainerd,Minnesota,United States of America,Americas,100,50
+Branson,Missouri,United States of America,Americas,100,0
+Brattleboro,Vermont,United States of America,Americas,100,50
+Breckenridge,Colorado,United States of America,Americas,100,25
+Vanderhoof,British Columbia,Canada,Americas,100,50
+North Bay,Ontario,Canada,Americas,93.75,25
+Kokomo,Indiana,United States of America,Americas,90,25
+Sandpoint,Idaho,United States of America,Americas,100,0
+Resende,Rio de Janeiro,Brazil,Americas,62.5,50
+Wisconsin Dells,Wisconsin,United States of America,Americas,100,50
+Albert Lea,Minnesota,United States of America,Americas,100,25
+Corcoran,California,United States of America,Americas,50,50
+Bridgeton,New Jersey,United States of America,Americas,100,50
+San Nicolas de los Garza,Nuevo Leon,Mexico,Americas,41.66666667,16.66666667
+La Ceiba,Atlantida Department,Honduras,Americas,62.5,75
+Tustin,California,United States of America,Americas,75,37.5
+Ocala,Florida,United States of America,Americas,77.5,32.5
+Gillette,Wyoming,United States of America,Americas,100,50
+Langley,British Columbia,Canada,Americas,75,62.5
+New Amsterdam,East Berbice-Corentyne,Guyana,Americas,100,50
+San Angelo,Texas,United States of America,Americas,100,37.5
+Colombo,Parana,Brazil,Americas,33.33333333,50
+Pinehurst,Georgia,United States of America,Americas,100,0
+Serra,Espirito Santo,Brazil,Americas,25,75
+Tarapoto,San Martin,Peru,Americas,75,75
+Imperial,California,United States of America,Americas,87.5,50
+Sydney,Nova Scotia,Canada,Americas,100,25
+Avellaneda,Santa Fe Province,Argentina,Americas,0,100
+Largo,Florida,United States of America,Americas,75,75
+San Miguelito District,Panama Province,Panama,Americas,50,50
+Muncie,Indiana,United States of America,Americas,87.5,50
+Elmira,New York,United States of America,Americas,100,25
+Laurel,Mississippi,United States of America,Americas,87.5,50
+Penticton,British Columbia,Canada,Americas,56.25,12.5
+La Crosse,Wisconsin,United States of America,Americas,100,50
+Guadalupe,Nuevo Leon,Mexico,Americas,50,25
+St. Albert,Alberta,Canada,Americas,100,8.333333333
+Itapetininga,Sao Paulo,Brazil,Americas,62.5,50
+Franklin,Massachusetts,United States of America,Americas,87.5,12.5
+Loja,Loja Province,Ecuador,Americas,100,75
+Elizabethtown,Kentucky,United States of America,Americas,90,0
+Ibarra,Imbabura Province,Ecuador,Americas,77.77777778,50
+Selah,Washington,United States of America,Americas,75,25
+Lake Elsinore,California,United States of America,Americas,50,75
+Aliso Viejo,California,United States of America,Americas,100,75
+Melbourne,Florida,United States of America,Americas,80,39.28571429
+Pouso Alegre,Minas Gerais,Brazil,Americas,87.5,37.5
+Paulista,Pernambuco,Brazil,Americas,75,25
+Muskegon,Michigan,United States of America,Americas,100,50
+Safety Harbor,Florida,United States of America,Americas,100,75
+Burns Lake,British Columbia,Canada,Americas,100,50
+Marshall,Missouri,United States of America,Americas,100,50
+Rolla,Missouri,United States of America,Americas,100,25
+Taos,Missouri,United States of America,Americas,100,75
+Cornwall,Ontario,Canada,Americas,96.42857143,50
+Libby,Montana,United States of America,Americas,100,25
+Crown Point,Indiana,United States of America,Americas,87.5,25
+Wenatchee,Washington,United States of America,Americas,25,0
+Liberty,Missouri,United States of America,Americas,62.5,50
+Chesterfield,Missouri,United States of America,Americas,87.5,37.5
+O'Fallon,Missouri,United States of America,Americas,0,100
+Youngstown,New York,United States of America,Americas,75,58.33333333
+Forsyth,Montana,United States of America,Americas,80,100
+Rock Hill,South Carolina,United States of America,Americas,87.5,62.5
+Morristown,New Jersey,United States of America,Americas,100,100
+Leesburg,Georgia,United States of America,Americas,87.5,50
+Oshkosh,Nebraska,United States of America,Americas,50,75
+Brentwood,Missouri,United States of America,Americas,75,0
+Cape Canaveral,Florida,United States of America,Americas,75,0
+Clayton,Missouri,United States of America,Americas,87.5,50
+Sao Caetano do Sul,Sao Paulo,Brazil,Americas,37.5,50
+Vero Beach,Florida,United States of America,Americas,93.75,62.5
+Lawrenceville,Georgia,United States of America,Americas,100,0
+Weatherford,Texas,United States of America,Americas,100,0
+Del Rio,Texas,United States of America,Americas,100,25
+Warrenton,Virginia,United States of America,Americas,100,0
+Mansfield,Texas,United States of America,Americas,90,0
+Negril,Cornwall County,Jamaica,Americas,100,75
+Jeffersonville,Indiana,United States of America,Americas,87.5,50
+Lake Worth,Texas,United States of America,Americas,100,100
+Katy,Texas,United States of America,Americas,60,50
+McLean,Texas,United States of America,Americas,100,25
+Leander,Texas,United States of America,Americas,100,0
+San Marcos,Texas,United States of America,Americas,100,0
+League City,Texas,United States of America,Americas,75,25
+Chilliwack,British Columbia,Canada,Americas,79.54545455,16.66666667
+Pullman,Washington,United States of America,Americas,100,0
+Catanduva,Sao Paulo,Brazil,Americas,37.5,50
+Mansfield,Ohio,United States of America,Americas,75,25
+Fort Dodge,Iowa,United States of America,Americas,25,75
+Lakeville,Minnesota,United States of America,Americas,100,50
+Titusville,Florida,United States of America,Americas,100,25
+Lakewood,Washington,United States of America,Americas,100,75
+Longview,Washington,United States of America,Americas,0,75
+Oxford,Mississippi,United States of America,Americas,100,0
+Lima,Ohio,United States of America,Americas,75,50
+Fort Walton Beach,Florida,United States of America,Americas,100,50
+Paducah,Kentucky,United States of America,Americas,85.71428571,62.5
+Coon Rapids,Minnesota,United States of America,Americas,100,50
+Traverse City,Michigan,United States of America,Americas,75,25
+Patos de Minas,Minas Gerais,Brazil,Americas,25,50
+Rocklin,California,United States of America,Americas,100,0
+Sheboygan,Wisconsin,United States of America,Americas,100,0
+Marina,California,United States of America,Americas,100,50
+Sebring,Florida,United States of America,Americas,25,50
+Alexandria,Louisiana,United States of America,Americas,100,50
+Jackson,Tennessee,United States of America,Americas,96.875,12.5
+Eden Prairie,Minnesota,United States of America,Americas,91.66666667,8.333333333
+Clovis,New Mexico,United States of America,Americas,0,100
+Fond du Lac,Wisconsin,United States of America,Americas,75,75
+Vernon,British Columbia,Canada,Americas,72.5,54.16666667
+Lloydminster,Alberta,Canada,Americas,60.71428571,27.77777778
+New Port Richey,Florida,United States of America,Americas,50,0
+Jupiter,Florida,United States of America,Americas,100,25
+Jacksonville,North Carolina,United States of America,Americas,100,0
+Lebanon,Ohio,United States of America,Americas,100,50
+Slidell,Louisiana,United States of America,Americas,50,100
+Torrington,Wyoming,United States of America,Americas,90,75
+Longmont,Colorado,United States of America,Americas,0,75
+East Orange,New Jersey,United States of America,Americas,100,75
+Foster City,California,United States of America,Americas,100,0
+Statesboro,Georgia,United States of America,Americas,75,41.66666667
+DeLand,Florida,United States of America,Americas,81.25,25
+Grand Junction,Colorado,United States of America,Americas,85.41666667,18.75
+North Platte,Nebraska,United States of America,Americas,100,25
+Playa del Carmen,Quintana Roo,Mexico,Americas,87.5,62.5
+Troy,Michigan,United States of America,Americas,62.5,25
+Weston,Florida,United States of America,Americas,100,0
+Portoviejo,Manabi Province,Ecuador,Americas,62.5,50
+Manta,Manabi Province,Ecuador,Americas,68.18181818,70
+Mesquite,Nevada,United States of America,Americas,100,0
+Timmins,Ontario,Canada,Americas,75,45
+Corner Brook,Newfoundland and Labrador,Canada,Americas,93.75,0
+Ciudad del Carmen,Campeche,Mexico,Americas,66.66666667,66.66666667
+Canmore,Alberta,Canada,Americas,100,25
+Novi,Michigan,United States of America,Americas,100,0
+Brunswick,Georgia,United States of America,Americas,78.125,37.5
+Long Branch,New Jersey,United States of America,Americas,75,25
+San Luis Rio Colorado,Sonora,Mexico,Americas,100,50
+Monroe,Michigan,United States of America,Americas,100,25
+Dalton,Georgia,United States of America,Americas,100,25
+Summit,New Jersey,United States of America,Americas,37.5,62.5
+Hilton Head Island,South Carolina,United States of America,Americas,100,25
+North Vancouver,British Columbia,Canada,Americas,92.64705882,13.46153846
+Masaya,Masaya Department,Nicaragua,Americas,50,100
+Cotacachi,Imbabura Province,Ecuador,Americas,100,0
+New Bern,North Carolina,United States of America,Americas,100,50
+Alpharetta,Georgia,United States of America,Americas,62.5,37.5
+Radcliff,Kentucky,United States of America,Americas,87.5,50
+Cumming,Georgia,United States of America,Americas,58.33333333,41.66666667
+Ironton,Ohio,United States of America,Americas,100,50
+Midland,Michigan,United States of America,Americas,95,33.33333333
+Fort Saskatchewan,Alberta,Canada,Americas,75,12.5
+Esteli,Esteli Department,Nicaragua,Americas,75,50
+Smithers,British Columbia,Canada,Americas,100,50
+Valdosta,Georgia,United States of America,Americas,100,50
+Hobbs,New Mexico,United States of America,Americas,100,50
+Princes Town,Princes Town,Trinidad and Tobago,Americas,0,100
+Langley,Washington,United States of America,Americas,100,0
+Durango,Colorado,United States of America,Americas,75,0
+Farmington,New Mexico,United States of America,Americas,95,50
+Drumheller,Alberta,Canada,Americas,100,0
+Spruce Grove,Alberta,Canada,Americas,100,0
+Prince Rupert,British Columbia,Canada,Americas,100,58.33333333
+Santo Domingo,Santo Domingo de los Tsachilas Province,Ecuador,Americas,0,50
+Williamsport,Pennsylvania,United States of America,Americas,100,0
+Hinton,Alberta,Canada,Americas,100,50
+Sheridan,Wyoming,United States of America,Americas,95.83333333,12.5
+Courtenay,British Columbia,Canada,Americas,85.71428571,33.33333333
+Cold Lake,Alberta,Canada,Americas,96.875,37.5
+Owen Sound,Ontario,Canada,Americas,100,25
+Selkirk,Manitoba,Canada,Americas,100,0
+Comox,British Columbia,Canada,Americas,87.5,50
+Rochester,Michigan,United States of America,Americas,100,0
+Fairborn,Ohio,United States of America,Americas,87.5,50
+San Martin de los Andes,Neuquen Province,Argentina,Americas,100,75
+Moose Jaw,Saskatchewan,Canada,Americas,91.66666667,33.33333333
+Terrace,British Columbia,Canada,Americas,91.66666667,0
+Ypsilanti,Michigan,United States of America,Americas,75,66.66666667
+Port Alberni,British Columbia,Canada,Americas,83.33333333,0
+Drayton Valley,Alberta,Canada,Americas,100,50
+San Fernando,,Trinidad and Tobago,Americas,50,55
+Lisle,Illinois,United States of America,Americas,100,0
+Valladolid,Yucatan,Mexico,Americas,100,0
+Salinas,Santa Elena Province,Ecuador,Americas,25,100
+Jinotega,Jinotega Department,Nicaragua,Americas,66.66666667,83.33333333
+Pottsville,Pennsylvania,United States of America,Americas,75,0
+Cambridge,Ontario,Canada,Americas,63.46153846,55.76923077
+Concord,North Carolina,United States of America,Americas,91.66666667,62.5
+Campbell River,British Columbia,Canada,Americas,100,0
+Campbellton,New Brunswick,Canada,Americas,75,0
+Chapala,Jalisco,Mexico,Americas,87.5,50
+Watertown,South Dakota,United States of America,Americas,95.83333333,50
+Moses Lake,Washington,United States of America,Americas,75,0
+Johnstown,Pennsylvania,United States of America,Americas,87.5,75
+Bloomsburg,Pennsylvania,United States of America,Americas,87.5,25
+Cranbrook,British Columbia,Canada,Americas,100,16.66666667
+Hazard,Kentucky,United States of America,Americas,100,50
+New Castle,Pennsylvania,United States of America,Americas,87.5,50
+Anderson,South Carolina,United States of America,Americas,87.5,0
+Warren,Pennsylvania,United States of America,Americas,100,50
+Woodland,Washington,United States of America,Americas,100,0
+Diego Martin,Diego Martin Regional Corporation,Trinidad and Tobago,Americas,100,50
+Moca,Espaillat Province,Dominican Republic,Americas,0,25
+Houston,British Columbia,Canada,Americas,100,50
+Sechelt,British Columbia,Canada,Americas,75,0
+Marsh Harbour,Central Abaco,The Bahamas,Americas,50,75
+Ashland,Massachusetts,United States of America,Americas,100,50
+Okotoks,Alberta,Canada,Americas,100,12.5
+Rocky Mount,Virginia,United States of America,Americas,50,75
+Herndon,Virginia,United States of America,Americas,50,25
+Amherst,Virginia,United States of America,Americas,100,50
+Christiansburg,Virginia,United States of America,Americas,75,100
+Highgate,,Jamaica,Americas,75,25
+Watertown,New York,United States of America,Americas,62.5,37.5
+Ewarton,Middlesex County,Jamaica,Americas,75,50
+Liberia,Guanacaste Province,Costa Rica,Americas,100,0
+Parksville,British Columbia,Canada,Americas,80,0
+Chaguanas,,Trinidad and Tobago,Americas,20,70
+Spring Hill,Tennessee,United States of America,Americas,87.5,25
+Airway Heights,Washington,United States of America,Americas,100,0
+Yelm,Washington,United States of America,Americas,50,50
+Sequim,Washington,United States of America,Americas,100,25
+Brier,Washington,United States of America,Americas,100,0
+Goose Creek,South Carolina,United States of America,Americas,100,0
+Atlantida,Canelones Department,Uruguay,Americas,66.66666667,33.33333333
+Punta Cana,La Altagracia Province,Dominican Republic,Americas,40.625,65.625
+Waterloo,Wisconsin,United States of America,Americas,100,50
+Neenah,Wisconsin,United States of America,Americas,50,0
+Hempstead,New York,United States of America,Americas,100,50
+Smithtown,New York,United States of America,Americas,100,50
+Atibaia,Sao Paulo,Brazil,Americas,75,25
+Yorkton,Saskatchewan,Canada,Americas,100,0
+Plymouth,Michigan,United States of America,Americas,50,50
+Woodstock,Ontario,Canada,Americas,50,50
+Parnaiba,Piaui,Brazil,Americas,100,75
+Stony Hill,,Jamaica,Americas,100,0
+May Pen,Middlesex County,Jamaica,Americas,68.75,18.75
+St. Paul,Alberta,Canada,Americas,100,0
+Islip,New York,United States of America,Americas,75,25
+Linhares,Espirito Santo,Brazil,Americas,100,100
+Woodburn,Oregon,United States of America,Americas,100,0
+Ponca City,Oklahoma,United States of America,Americas,100,50
+Pilar,Buenos Aires Province,Argentina,Americas,75,100
+Portsmouth,Rhode Island,United States of America,Americas,100,0
+Rio das Ostras,Rio de Janeiro,Brazil,Americas,25,100
+La Libertad,Santa Elena Province,Ecuador,Americas,75,100
+La Piedad,Michoacan,Mexico,Americas,50,100
+Mandeville,Middlesex County,Jamaica,Americas,62.5,12.5
+Trail,British Columbia,Canada,Americas,100,0
+Fresnillo,Zacatecas,Mexico,Americas,75,25
+Zeeland,Michigan,United States of America,Americas,100,0
+Piedras Negras,Coahuila,Mexico,Americas,75,25
+Roanoke,Indiana,United States of America,Americas,95.45454545,35.71428571
+Weirton,West Virginia,United States of America,Americas,62.5,50
+Revelstoke,British Columbia,Canada,Americas,100,50
+Detroit Lakes,Minnesota,United States of America,Americas,100,50
+Waterford,Connecticut,United States of America,Americas,25,50
+Deltona,Florida,United States of America,Americas,87.5,75
+Melfort,Saskatchewan,Canada,Americas,100,0
+Morehead,Kentucky,United States of America,Americas,100,25
+Birmingham,Iowa,United States of America,Americas,71.05263158,31.66666667
+Waldorf,Minnesota,United States of America,Americas,100,75
+San Pedro Garza Garcia,Nuevo Leon,Mexico,Americas,46.875,12.5
+Leawood,Kansas,United States of America,Americas,50,75
+Lakeport,California,United States of America,Americas,100,50
+Jackson,California,United States of America,Americas,100,50
+Upland,Indiana,United States of America,Americas,62.5,50
+San Juan,San Juan-Laventille,Trinidad and Tobago,Americas,25,25
+Elko,South Carolina,United States of America,Americas,100,25
+Cutler Bay,Florida,United States of America,Americas,100,25
+Greenville,North Carolina,United States of America,Americas,90,25
+Vadnais Heights,Minnesota,United States of America,Americas,100,50
+Hinesville,Georgia,United States of America,Americas,75,25
+Abington,Massachusetts,United States of America,Americas,100,50
+Williston,North Dakota,United States of America,Americas,85,75
+Fairmont,West Virginia,United States of America,Americas,100,50
+Warner Robins,Georgia,United States of America,Americas,100,37.5
+Elkhart,Indiana,United States of America,Americas,87.5,50
+Frankfort,Indiana,United States of America,Americas,50,75
+La Porte,Indiana,United States of America,Americas,87.5,50
+Sanford,North Carolina,United States of America,Americas,100,50
+Spruce Pine,North Carolina,United States of America,Americas,100,0
+Yanceyville,North Carolina,United States of America,Americas,87.5,50
+Mooresville,North Carolina,United States of America,Americas,100,25
+Hope Mills,North Carolina,United States of America,Americas,100,50
+Hickory,North Carolina,United States of America,Americas,100,50
+Bryson City,North Carolina,United States of America,Americas,87.5,50
+Williams Lake,British Columbia,Canada,Americas,75,75
+Buffalo,North Dakota,United States of America,Americas,100,50
+Beaver Dam,Kentucky,United States of America,Americas,100,50
+Chesterfield,South Carolina,United States of America,Americas,100,25
+Quesnel,British Columbia,Canada,Americas,100,50
+Stone Mountain,Georgia,United States of America,Americas,0,100
+Astoria,Illinois,United States of America,Americas,37.5,62.5
+Ellsworth,Maine,United States of America,Americas,100,50
+Swampscott,Massachusetts,United States of America,Americas,100,50
+San Jose del Cabo,Baja California Sur,Mexico,Americas,100,25
+Seminole,Florida,United States of America,Americas,100,0
+Zephyrhills,Florida,United States of America,Americas,25,50
+California,Kentucky,United States of America,Americas,0,100
+San Isidro,Buenos Aires Province,Argentina,Americas,100,0
+Gettysburg,South Dakota,United States of America,Americas,75,75
+Bajos de Haina,,Dominican Republic,Americas,0,100
+Parry Sound,Ontario,Canada,Americas,100,50
+Beloit,Kansas,United States of America,Americas,50,62.5
+Willoughby,Ohio,United States of America,Americas,75,0
+Mansfield,Georgia,United States of America,Americas,0,50
+Ithaca,Michigan,United States of America,Americas,93.75,40.625
+Wayne,West Virginia,United States of America,Americas,87.5,50
+El Progreso,Yoro Department,Honduras,Americas,25,100
+Bourne,Massachusetts,United States of America,Americas,75,25
+Holetown,Saint James,Barbados,Americas,100,50
+Longmeadow,Massachusetts,United States of America,Americas,75,25
+Owosso,Michigan,United States of America,Americas,75,100
+Amherst,New Hampshire,United States of America,Americas,100,50
+Port Hawkesbury,Nova Scotia,Canada,Americas,100,50
+Hampton,South Carolina,United States of America,Americas,37.5,50
+Oakland,Tennessee,United States of America,Americas,100,0
+Arlington,Kansas,United States of America,Americas,66.66666667,16.66666667
+Lewisburg,Tennessee,United States of America,Americas,100,50
+Clarksville,Indiana,United States of America,Americas,95,0
+Orillia,Ontario,Canada,Americas,100,0
+Ashburn,Georgia,United States of America,Americas,60,25
+Franklin,West Virginia,United States of America,Americas,100,0
+Decatur,Tennessee,United States of America,Americas,75,100
+Bridgewater,Connecticut,United States of America,Americas,87.5,50
+Cookeville,Tennessee,United States of America,Americas,100,50
+Peachtree City,Georgia,United States of America,Americas,50,50
+Syracuse,Indiana,United States of America,Americas,75,50
+Mandeville,Louisiana,United States of America,Americas,75,75
+Lynchburg,South Carolina,United States of America,Americas,100,0
+Holderness,New Hampshire,United States of America,Americas,100,50
+Speightstown,Saint Peter,Barbados,Americas,75,75
+Long Island,Kansas,United States of America,Americas,87.5,25
+Yreka,California,United States of America,Americas,100,50
+Tyngsborough,Massachusetts,United States of America,Americas,100,50
+Huntingdon,Tennessee,United States of America,Americas,75,50
+Couva,Couva-Tabaquite-Talparo,Trinidad and Tobago,Americas,43.75,43.75
+Talanga,Francisco Morazan Department,Honduras,Americas,50,50
+Seaside,Oregon,United States of America,Americas,100,0
+Pooler,Georgia,United States of America,Americas,75,25
+Edison,Georgia,United States of America,Americas,75,25
+Las Tablas,Los Santos Province,Panama,Americas,100,0
+Topsham,Maine,United States of America,Americas,100,50
+Frederick,South Dakota,United States of America,Americas,91.66666667,33.33333333
+Manistee,Michigan,United States of America,Americas,100,50
+Allegan,Michigan,United States of America,Americas,100,0
+Richland,Oregon,United States of America,Americas,100,0
+Rumford,Maine,United States of America,Americas,100,50
+Pikeville,Kentucky,United States of America,Americas,100,50
+Douglasville,Georgia,United States of America,Americas,25,75
+Bowmanville,Ontario,Canada,Americas,0,100
+Sangre Grande,Sangre Grande Regional Corporation,Trinidad and Tobago,Americas,75,75
+Chesapeake,West Virginia,United States of America,Americas,100,37.5
+Brandon,Vermont,United States of America,Americas,100,0
+Salmon Arm,British Columbia,Canada,Americas,25,75
+Yorkville,Tennessee,United States of America,Americas,100,0
+Fredericksburg,Indiana,United States of America,Americas,100,25
+Simcoe,Ontario,Canada,Americas,100,50
+Utica,Indiana,United States of America,Americas,93.75,37.5
+Grenville,Saint Andrew Parish,Grenada,Americas,66.66666667,58.33333333
+Manassas,Georgia,United States of America,Americas,87.5,0
+Gadsden,Tennessee,United States of America,Americas,87.5,75
+Deep River,Ontario,Canada,Americas,100,50
+Rutherford,Tennessee,United States of America,Americas,0,100
+Norman Wells,Northwest Territories,Canada,Americas,100,50
+Willimantic,Maine,United States of America,Americas,100,50
+Middlesex,Vermont,United States of America,Americas,83.33333333,50
+Somerset,Vermont,United States of America,Americas,100,50
+Siparia,Siparia Regional Corporation,Trinidad and Tobago,Americas,62.5,50
+Carlisle,New York,United States of America,Americas,100,50
+New Windsor,New York,United States of America,Americas,100,50
+Taylor,New York,United States of America,Americas,87.5,50
+New Paltz,New York,United States of America,Americas,100,50
+Webster,New York,United States of America,Americas,0,50
+Germantown,New York,United States of America,Americas,100,0
+Princeton,Massachusetts,United States of America,Americas,87.5,25
+Santa Ana,San Jose Province,Costa Rica,Americas,75,50
+Bath,New York,United States of America,Americas,100,50
+Dickinson,New York,United States of America,Americas,100,50
+Gainesville,New York,United States of America,Americas,100,25
+Lafayette,Wisconsin,United States of America,Americas,93.75,12.5
+Picton,Ontario,Canada,Americas,100,25
+Saint Joseph,Tunapuna-Piarco Regional Corporation,Trinidad and Tobago,Americas,100,75
+Wausau,Wisconsin,United States of America,Americas,100,25
+Chancay,Lima region,Peru,Americas,25,50
+Gibsons,British Columbia,Canada,Americas,100,50
+Belem,Para,Brazil,Americas,81.25,93.75
+Nantucket,Massachusetts,United States of America,Americas,100,50
+Osorio,Rio Grande do Sul,Brazil,Americas,100,75
+Arlington,Virginia,United States of America,Americas,84.61538462,19.23076923
+Piracicaba,Sao Paulo,Brazil,Americas,40,25
+Berlin,,Germany,Europe,62.36413043,28.61271676
+Bern,Canton of Bern,Switzerland,Europe,94.31818182,12.5
+Geneva,Canton of Geneva,Switzerland,Europe,71.53846154,17.37288136
+Zurich,Canton of Zurich,Switzerland,Europe,83.80952381,10.71428571
+Basel,,Switzerland,Europe,81.66666667,26.92307692
+London,England,United Kingdom,Europe,37.04225352,40.71637427
+Paris,Ile-de-France,France,Europe,34.02439024,43.12169312
+Vilnius,,Lithuania,Europe,77.24719101,20.58823529
+Monaco,,Monaco,Europe,28.78787879,61.36363636
+Brussels,,Belgium,Europe,35.81081081,44.76190476
+Poznan,Greater Poland Voivodeship,Poland,Europe,33.07692308,50.42372881
+Tashkent,,Uzbekistan,Europe,56.4516129,49.16666667
+Warsaw,Masovian Voivodeship,Poland,Europe,27.27272727,36.01485149
+Modena,Emilia-Romagna,Italy,Europe,39.0625,50
+Tours,,France,Europe,84.375,6.25
+Cambridge,England,United Kingdom,Europe,69.82758621,30.55555556
+Cologne,North Rhine-Westphalia,Germany,Europe,60.71428571,27.77777778
+Skopje,Greater Skopje,North Macedonia,Europe,10.19417476,45.26315789
+Gdynia,Pomeranian Voivodeship,Poland,Europe,49.41860465,48.61111111
+Szczecin,West Pomeranian Voivodeship,Poland,Europe,41.37931034,53.75
+Ljubljana,Ljubljana City Municipality,Slovenia,Europe,72.16494845,17.58241758
+Plovdiv,Plovdiv region,Bulgaria,Europe,31.41025641,36.29032258
+Sofia,Sofia City Province,Bulgaria,Europe,23.62132353,40.94339623
+Milan,Lombardy,Italy,Europe,24.39759036,39.49044586
+Trieste,Friuli-Venezia Giulia,Italy,Europe,58.87096774,29
+Lodz,Lodz Voivodeship,Poland,Europe,28.84615385,40.44117647
+Villeurbanne,,France,Europe,75,50
+Oslo,,Norway,Europe,74.75728155,14.17525773
+Bonn,North Rhine-Westphalia,Germany,Europe,82.8125,22.5
+Katowice,Silesian Voivodeship,Poland,Europe,27.77777778,48.33333333
+Lisbon,Lisbon,Portugal,Europe,64.60674157,24.85632184
+Rzeszow,Podkarpackie Voivodeship,Poland,Europe,37.5,47.05882353
+Padua,Veneto,Italy,Europe,29.16666667,50
+Bergamo,Lombardy,Italy,Europe,46.66666667,35
+Venice,Veneto,Italy,Europe,36.25,67.85714286
+Rennes,,France,Europe,62.5,35
+Lille,,France,Europe,48.91304348,35.52631579
+Moscow,,Russia,Europe,41.47526502,49.72527473
+Saint Petersburg,,Russia,Europe,43.10344828,54.8816568
+Heilbronn,Baden-Wurttemberg,Germany,Europe,80,0
+Bialystok,Podlaskie Voivodeship,Poland,Europe,34.52380952,52.94117647
+Nowy Sacz,Lesser Poland Voivodeship,Poland,Europe,30,100
+Lausanne,Canton of Vaud,Switzerland,Europe,78.26086957,17.5
+Abakan,Republic of Khakassia,Russia,Europe,0,75
+Novosibirsk,Novosibirsk Oblast,Russia,Europe,36.48648649,54.05405405
+Yekaterinburg,Sverdlovsk Oblast,Russia,Europe,27.90697674,58.33333333
+Samara,Samara Oblast,Russia,Europe,48.4375,51.5625
+Omsk,Omsk Oblast,Russia,Europe,16.17647059,48.52941176
+Kazan,Republic of Tatarstan,Russia,Europe,41.25,58.33333333
+Chelyabinsk,Chelyabinsk Oblast,Russia,Europe,16.66666667,70.3125
+Ufa,Bashkortostan,Russia,Europe,20.83333333,68.18181818
+Volgograd,Volgograd Oblast,Russia,Europe,21.66666667,59.375
+Perm,Perm Krai,Russia,Europe,44.44444444,50
+Krasnoyarsk,Krasnoyarsk Krai,Russia,Europe,6.617647059,49.21875
+Vladivostok,Primorsky Krai,Russia,Europe,35,67.5
+Tomsk,Tomsk Oblast,Russia,Europe,46.42857143,51.78571429
+Tbilisi,,Georgia,Europe,22.98387097,49.34782609
+Maribor,Maribor City Municipality,Slovenia,Europe,76.25,18.75
+Celje,City Municipality of Celje,Slovenia,Europe,50,8.333333333
+Koper,City Municipality of Koper,Slovenia,Europe,87.5,0
+Aachen,North Rhine-Westphalia,Germany,Europe,70.45454545,17.85714286
+Nova Gorica,City Municipality of Nova Gorica,Slovenia,Europe,75,12.5
+Kranj,City Municipality of Kranj,Slovenia,Europe,80.55555556,12.5
+Stuttgart,Baden-Wurttemberg,Germany,Europe,43.125,24.28571429
+Biel/Bienne,Canton of Bern,Switzerland,Europe,37.5,31.25
+Karlsruhe,Baden-Wurttemberg,Germany,Europe,87.5,5.555555556
+Hamburg,,Germany,Europe,70.76271186,24.50980392
+Salerno,Campania,Italy,Europe,60,58.33333333
+Prague,,Czech Republic,Europe,63.21243523,25.70621469
+Busto Arsizio,Lombardy,Italy,Europe,0,75
+Jerusalem,Jerusalem District,Israel,Europe,37.09677419,42.39130435
+Grenoble,,France,Europe,34.09090909,26.47058824
+Dortmund,North Rhine-Westphalia,Germany,Europe,75,15.625
+Ghent,Flemish Region,Belgium,Europe,55.46875,27.67857143
+Como,Lombardy,Italy,Europe,58.33333333,40
+Tolyatti,Samara Oblast,Russia,Europe,36.11111111,43.75
+Zagreb,,Croatia,Europe,69.7740113,26.59883721
+Genoa,Liguria,Italy,Europe,51.72413793,30
+Le Mans,,France,Europe,95,50
+Bordeaux,,France,Europe,68.47826087,42.64705882
+Barcelona,Catalonia,Spain,Europe,35.49723757,51.31578947
+Athens,Attica Region,Greece,Europe,44.17412141,30.31561462
+Osijek,Osijek-Baranja County,Croatia,Europe,83.75,13.33333333
+Rijeka,Primorje-Gorski Kotar County,Croatia,Europe,75,17.85714286
+Split,Split-Dalmatia County,Croatia,Europe,71.71052632,30
+Kiel,Schleswig-Holstein,Germany,Europe,93.75,25
+Schwerin,Mecklenburg-Western Pomerania,Germany,Europe,87.5,50
+Potsdam,Brandenburg,Germany,Europe,88.63636364,10.71428571
+Hanover,Lower Saxony,Germany,Europe,75,22.91666667
+D?sseldorf,North Rhine-Westphalia,Germany,Europe,64.81481481,23.91304348
+Mainz,Rhineland-Palatinate,Germany,Europe,86.11111111,35
+Wiesbaden,Hesse,Germany,Europe,73.21428571,42.5
+Dubrovnik,Dubrovnik-Neretva County,Croatia,Europe,87.5,40
+Saarbr?cken,Saarland,Germany,Europe,87.5,12.5
+Munich,Bavaria,Germany,Europe,74.41860465,15.46610169
+Dresden,Saxony,Germany,Europe,75,7.894736842
+Magdeburg,Saxony-Anhalt,Germany,Europe,93.75,6.25
+Innsbruck,Tyrol,Austria,Europe,75,7.8125
+Bregenz,Vorarlberg,Austria,Europe,95,50
+Vienna,,Austria,Europe,82.70547945,10.14492754
+Stockholm,Stockholm County,Sweden,Europe,83.20610687,15.0390625
+Helsinki,Uusimaa,Finland,Europe,89.88095238,15.49586777
+Dublin,,Ireland,Europe,67.02380952,39.70588235
+Murmansk,Murmansk Oblast,Russia,Europe,57.14285714,14.28571429
+Reykjavik,,Iceland,Europe,86.68478261,5.113636364
+Tallinn,Harju County,Estonia,Europe,81.8877551,18.61702128
+Riga,,Latvia,Europe,62.5,31.95652174
+Bratislava,Bratislava Region,Slovakia,Europe,62.32394366,32.46268657
+Budapest,,Hungary,Europe,40.61032864,32.375
+Gdansk,Pomeranian Voivodeship,Poland,Europe,45.55555556,45
+Frankfurt,Hesse,Germany,Europe,63.39285714,25.98039216
+Wroclaw,Lower Silesian Voivodeship,Poland,Europe,25.68807339,35.4368932
+Kaliningrad,Kaliningrad Oblast,Russia,Europe,55,55
+Luxembourg,,Luxembourg,Europe,83.10810811,20.45454545
+San Marino,,San Marino,Europe,87.5,50
+Arkhangelsk,Arkhangelsk Oblast,Russia,Europe,43.75,50
+Andorra la Vella,Andorra la Vella,Andorra,Europe,37.5,25
+Odessa,Odessa Oblast,Ukraine,Europe,50.5,58.85416667
+Bologna,Emilia-Romagna,Italy,Europe,38.15789474,28.03030303
+Petrozavodsk,Karelia,Russia,Europe,58.33333333,25
+Cagliari,Sardinia,Italy,Europe,71.05263158,20
+Catania,Sicily,Italy,Europe,46.42857143,55.55555556
+Caserta,Campania,Italy,Europe,34.375,56.25
+Yerevan,,Armenia,Europe,41.81034483,35
+Vologda,Vologda Oblast,Russia,Europe,62.5,25
+Verona,Veneto,Italy,Europe,36.11111111,42.85714286
+Florence,Tuscany,Italy,Europe,52.67857143,36
+Essen,North Rhine-Westphalia,Germany,Europe,80,4.166666667
+Leipzig,Saxony,Germany,Europe,84.21052632,20
+Nuremberg,Bavaria,Germany,Europe,75,12.5
+Duisburg,North Rhine-Westphalia,Germany,Europe,53.57142857,31.25
+Bochum,North Rhine-Westphalia,Germany,Europe,68.18181818,25
+Wuppertal,North Rhine-Westphalia,Germany,Europe,90,0
+Bielefeld,North Rhine-Westphalia,Germany,Europe,67.85714286,50
+Mannheim,Baden-Wurttemberg,Germany,Europe,51.08695652,30.55555556
+Cherepovets,Vologda Oblast,Russia,Europe,0,100
+Pskov,Pskov Oblast,Russia,Europe,100,50
+Veliky Novgorod,Novgorod Oblast,Russia,Europe,100,50
+Birmingham,England,United Kingdom,Europe,52.97619048,25.64102564
+Minsk,,Belarus,Europe,60.9223301,41.40625
+Tver,Tver Oblast,Russia,Europe,62.5,37.5
+Smolensk,Smolensk Oblast,Russia,Europe,50,54.16666667
+Yaroslavl,Yaroslavl Oblast,Russia,Europe,16.66666667,58.33333333
+Ivanovo,Ivanovo Oblast,Russia,Europe,33.33333333,87.5
+Naples,Campania,Italy,Europe,28.84615385,55.31914894
+Palermo,Sicily,Italy,Europe,45.45454545,51.31578947
+Gomel,Gomel Region,Belarus,Europe,44.73684211,53.57142857
+Parma,Emilia-Romagna,Italy,Europe,34.375,56.81818182
+Vladimir,Vladimir Oblast,Russia,Europe,37.5,50
+Pescara,Abruzzo,Italy,Europe,61.11111111,79.16666667
+Bremerhaven,,Germany,Europe,75,50
+M?nster,North Rhine-Westphalia,Germany,Europe,71.875,25
+Ryazan,Ryazan Oblast,Russia,Europe,0,91.66666667
+Augsburg,Bavaria,Germany,Europe,73.52941176,26.92307692
+Siena,Tuscany,Italy,Europe,81.25,21.42857143
+Gelsenkirchen,North Rhine-Westphalia,Germany,Europe,62.5,50
+Tula,Tula Oblast,Russia,Europe,33.33333333,75
+Udine,Friuli-Venezia Giulia,Italy,Europe,72.5,33.33333333
+Chemnitz,Saxony,Germany,Europe,87.5,50
+Krefeld,North Rhine-Westphalia,Germany,Europe,87.5,50
+Madrid,Community of Madrid,Spain,Europe,36.23417722,18.95424837
+Halle (Saale),Saxony-Anhalt,Germany,Europe,75,0
+Freiburg im Breisgau,Baden-Wurttemberg,Germany,Europe,88.33333333,5
+Oberhausen,North Rhine-Westphalia,Germany,Europe,62.5,50
+L?beck,Schleswig-Holstein,Germany,Europe,100,25
+Rostock,Mecklenburg-Western Pomerania,Germany,Europe,90.625,37.5
+Kassel,Hesse,Germany,Europe,75,50
+Hagen,North Rhine-Westphalia,Germany,Europe,100,50
+Hamm,North Rhine-Westphalia,Germany,Europe,87.5,50
+Ludwigshafen,Rhineland-Palatinate,Germany,Europe,75,0
+Osnabr?ck,Lower Saxony,Germany,Europe,82.14285714,0
+Oldenburg,Lower Saxony,Germany,Europe,75,18.75
+Leverkusen,North Rhine-Westphalia,Germany,Europe,83.33333333,50
+Solingen,North Rhine-Westphalia,Germany,Europe,87.5,50
+Neuss,North Rhine-Westphalia,Germany,Europe,50,75
+Heidelberg,Baden-Wurttemberg,Germany,Europe,89.28571429,25
+Paderborn,North Rhine-Westphalia,Germany,Europe,75,25
+Darmstadt,Hesse,Germany,Europe,71.875,27.5
+Regensburg,Bavaria,Germany,Europe,87.5,7.142857143
+Ingolstadt,Bavaria,Germany,Europe,100,0
+Ulm,Baden-Wurttemberg,Germany,Europe,88.88888889,10
+Wolfsburg,Lower Saxony,Germany,Europe,96.875,0
+Offenbach am Main,Hesse,Germany,Europe,75,50
+Pforzheim,Baden-Wurttemberg,Germany,Europe,85,25
+Recklinghausen,North Rhine-Westphalia,Germany,Europe,100,50
+Bottrop,North Rhine-Westphalia,Germany,Europe,80,0
+Reutlingen,Baden-Wurttemberg,Germany,Europe,85,25
+Koblenz,Rhineland-Palatinate,Germany,Europe,67.85714286,41.66666667
+Erlangen,Bavaria,Germany,Europe,81.25,29.16666667
+Moers,North Rhine-Westphalia,Germany,Europe,62.5,50
+Trier,Rhineland-Palatinate,Germany,Europe,85.71428571,25
+Jena,Thuringia,Germany,Europe,95,75
+Kursk,Kursk Oblast,Russia,Europe,100,50
+Siegen,North Rhine-Westphalia,Germany,Europe,91.66666667,12.5
+Hildesheim,Lower Saxony,Germany,Europe,62.5,50
+Salzgitter,Lower Saxony,Germany,Europe,95,0
+Cottbus,Brandenburg,Germany,Europe,100,50
+Belgorod,Belgorod Oblast,Russia,Europe,75,70.83333333
+Zadar,Zadar County,Croatia,Europe,100,8.333333333
+Trento,Trentino-South Tyrol,Italy,Europe,86.76470588,0
+Ancona,Marche,Italy,Europe,63.88888889,30
+Voronezh,Voronezh Oblast,Russia,Europe,36.84210526,67.10526316
+Perugia,Umbria,Italy,Europe,70,50
+L'Aquila,Abruzzo,Italy,Europe,87.5,50
+Lipetsk,Lipetsk Oblast,Russia,Europe,37.5,37.5
+Bari,Apulia,Italy,Europe,63.33333333,22.22222222
+Tambov,Tambov Oblast,Russia,Europe,62.5,45
+Sibenik,Sibenik-Knin County,Croatia,Europe,100,0
+Novy Jicin,,Czech Republic,Europe,62.5,50
+Karlovac,,Croatia,Europe,75,25
+Ankara,Ankara Province,Turkey,Europe,38.9084507,57.95454545
+Krasnodar,Krasnodar Krai,Russia,Europe,44.44444444,44.44444444
+Belgrade,Belgrade District,Serbia,Europe,34.82532751,50.90497738
+Gera,Thuringia,Germany,Europe,100,50
+Kaiserslautern,Rhineland-Palatinate,Germany,Europe,87.5,5
+Zwickau,Saxony,Germany,Europe,75,50
+Flensburg,Schleswig-Holstein,Germany,Europe,87.5,50
+T?bingen,Baden-Wurttemberg,Germany,Europe,89.28571429,8.333333333
+Konstanz,Baden-Wurttemberg,Germany,Europe,79.16666667,25
+Minden,North Rhine-Westphalia,Germany,Europe,100,50
+Worms,Rhineland-Palatinate,Germany,Europe,60,100
+Wilhelmshaven,Lower Saxony,Germany,Europe,100,50
+Marburg,Hesse,Germany,Europe,85,0
+Catanzaro,Calabria,Italy,Europe,87.5,50
+Bayreuth,Bavaria,Germany,Europe,75,0
+Astrakhan,Astrakhan Oblast,Russia,Europe,50,56.25
+Bamberg,Bavaria,Germany,Europe,95.83333333,12.5
+Aschaffenburg,Bavaria,Germany,Europe,77.77777778,40
+Aalen,Baden-Wurttemberg,Germany,Europe,87.5,50
+Fulda,Hesse,Germany,Europe,87.5,50
+Bergheim,North Rhine-Westphalia,Germany,Europe,75,50
+Liege,Wallonia,Belgium,Europe,54.54545455,28.57142857
+Wesel,North Rhine-Westphalia,Germany,Europe,100,50
+Frankfurt (Oder),Brandenburg,Germany,Europe,70,100
+Friedrichshafen,Baden-Wurttemberg,Germany,Europe,90,0
+Glasgow,Scotland,United Kingdom,Europe,64.90384615,19.44444444
+Neu-Ulm,Bavaria,Germany,Europe,100,50
+Schweinfurt,Bavaria,Germany,Europe,87.5,62.5
+Passau,Bavaria,Germany,Europe,90,0
+Lucerne,Canton of Lucerne,Switzerland,Europe,71.66666667,21.875
+Khabarovsk,Khabarovsk Krai,Russia,Europe,61.11111111,57.5
+Pula,Istria County,Croatia,Europe,88.63636364,27.27272727
+Slavonski Brod,Brod-Posavina County,Croatia,Europe,27.27272727,17.85714286
+Makhachkala,Republic of Dagestan,Russia,Europe,62.5,43.75
+Stavropol,Stavropol Krai,Russia,Europe,85.71428571,28.57142857
+Vladikavkaz,Republic of North Ossetia-Alania,Russia,Europe,50,25
+Riehen,,Switzerland,Europe,100,50
+Rovinj,Istria County,Croatia,Europe,100,25
+Porec,Istria County,Croatia,Europe,83.33333333,8.333333333
+Saratov,Saratov Oblast,Russia,Europe,25,60
+Orenburg,Orenburg Oblast,Russia,Europe,30,60
+Saransk,Republic of Mordovia,Russia,Europe,0,100
+Kirov,Kirov Oblast,Russia,Europe,66.66666667,66.66666667
+Varazdin,Varazdin County,Croatia,Europe,91.66666667,33.33333333
+Izhevsk,Udmurt Republic,Russia,Europe,33.33333333,70.83333333
+Yoshkar-Ola,Mari El Republic,Russia,Europe,100,50
+Cheboksary,Chuvash Republic,Russia,Europe,50,35
+Treviso,Veneto,Italy,Europe,50,27.77777778
+Penza,Penza Oblast,Russia,Europe,37.5,62.5
+Ulyanovsk,Ulyanovsk Oblast,Russia,Europe,58.33333333,37.5
+Koprivnica,Koprivnica-Krizevci County,Croatia,Europe,100,0
+Bjelovar,Bjelovar-Bilogora County,Croatia,Europe,100,0
+Mary,Mary Region,Turkmenistan,Europe,100,0
+Tyumen,Tyumen Oblast,Russia,Europe,66.66666667,55
+Toledo,Castile-La Mancha,Spain,Europe,75,50
+Vukovar,Vukovar-Syrmia County,Croatia,Europe,25,75
+Cuneo,Piedmont,Italy,Europe,82.5,0
+Hvar,Split-Dalmatia County,Croatia,Europe,75,25
+Novara,Piedmont,Italy,Europe,65,0
+Kemerovo,Kemerovo Oblast,Russia,Europe,40,60
+Alessandria,Piedmont,Italy,Europe,35.71428571,56.25
+Asti,Piedmont,Italy,Europe,62.5,50
+Soest,North Rhine-Westphalia,Germany,Europe,100,50
+Brescia,Lombardy,Italy,Europe,22.65625,70.53571429
+Coventry,England,United Kingdom,Europe,56.66666667,31.81818182
+St Albans,England,United Kingdom,Europe,62.5,18.75
+Cremona,Lombardy,Italy,Europe,50,50
+Monza,Lombardy,Italy,Europe,42.85714286,50
+Varese,Lombardy,Italy,Europe,50,33.33333333
+Avignon,,France,Europe,57.14285714,66.66666667
+Montpellier,,France,Europe,71.66666667,29.54545455
+Antalya,Antalya Province,Turkey,Europe,67.1875,41.07142857
+Varna,Varna Province,Bulgaria,Europe,40.10416667,48.88888889
+Burgas,Burgas Province,Bulgaria,Europe,46.42857143,46.73913043
+Vicenza,Veneto,Italy,Europe,45,47.5
+Orleans,,France,Europe,83.33333333,50
+Irkutsk,Irkutsk Oblast,Russia,Europe,53.125,37.5
+Gorizia,Friuli-Venezia Giulia,Italy,Europe,90,25
+Strasbourg,,France,Europe,68,47.36842105
+Yakutsk,Sakha Republic,Russia,Europe,58.33333333,87.5
+Poitiers,,France,Europe,87.5,50
+Perpignan,,France,Europe,95,50
+Livorno,Tuscany,Italy,Europe,55.55555556,62.5
+Herzogenrath,North Rhine-Westphalia,Germany,Europe,75,50
+Blagoveshchensk,Amur Oblast,Russia,Europe,25,25
+Hof,Bavaria,Germany,Europe,75,50
+Dijon,,France,Europe,87.5,12.5
+Lugano,Ticino,Switzerland,Europe,67.85714286,12.5
+Nordhausen,Thuringia,Germany,Europe,100,50
+Br?hl,North Rhine-Westphalia,Germany,Europe,75,50
+Girona,Catalonia,Spain,Europe,100,0
+Amberg,Bavaria,Germany,Europe,100,50
+Bad Kreuznach,Rhineland-Palatinate,Germany,Europe,100,50
+Sevastopol,,Ukraine,Europe,75,56.25
+Lutsk,Volyn Oblast,Ukraine,Europe,54.16666667,58.33333333
+Yuzhno-Sakhalinsk,Sakhalin Oblast,Russia,Europe,8.333333333,75
+Toulouse,,France,Europe,61.29032258,39.42307692
+Valladolid,Castile and Leon,Spain,Europe,70,41.66666667
+Ostrava,,Czech Republic,Europe,28.84615385,25
+Terni,Umbria,Italy,Europe,42.5,50
+Bilbao,Basque Autonomous Community,Spain,Europe,70,26.31578947
+Seville,Andalusia,Spain,Europe,57.14285714,23.80952381
+Vigo,Galicia,Spain,Europe,86.45833333,21.25
+Granada,Andalusia,Spain,Europe,58.92857143,14.28571429
+Valencia,Community of Valencia,Spain,Europe,59.65909091,38.41463415
+Palma,Balearic Islands,Spain,Europe,75,36.66666667
+Malaga,Andalusia,Spain,Europe,75,30.55555556
+Schaffhausen,Canton of Schaffhausen,Switzerland,Europe,87.5,18.75
+Winterthur,Canton of Zurich,Switzerland,Europe,91.66666667,0
+Baku,,Azerbaijan,Europe,29.89690722,69.02173913
+Bishkek,,Kyrgyzstan,Europe,18.57142857,45.96774194
+Dushanbe,,Tajikistan,Europe,41.66666667,61.11111111
+Burgos,Castile and Leon,Spain,Europe,100,33.33333333
+Pamplona,Navarre,Spain,Europe,100,0
+Almeria,Andalusia,Spain,Europe,75,43.75
+Elche,Community of Valencia,Spain,Europe,85,41.66666667
+Belfast,Northern Ireland,United Kingdom,Europe,76.35135135,22.72727273
+Cardiff,Wales,United Kingdom,Europe,70,20.45454545
+Montecchio,Umbria,Italy,Europe,87.5,50
+Lugo,Galicia,Spain,Europe,100,50
+Sarajevo,Federation of Bosnia and Herzegovina,Bosnia and Herzegovina,Europe,25,44.01041667
+Tulcea,Tulcea County,Romania,Europe,80,29.16666667
+Zvolen,Banska Bystrica Region,Slovakia,Europe,87.5,50
+Alicante,Community of Valencia,Spain,Europe,80.68181818,40.625
+Tychy,Silesian Voivodeship,Poland,Europe,22.5,43.75
+Nantes,,France,Europe,72.61904762,20.58823529
+Brest,,France,Europe,79.54545455,35.71428571
+Murcia,Region of Murcia,Spain,Europe,68.18181818,32.14285714
+Huelva,Andalusia,Spain,Europe,40,50
+Sabadell,Catalonia,Spain,Europe,50,0
+Gijon,Asturias,Spain,Europe,50,25
+Jerez de la Frontera,Andalusia,Spain,Europe,67.85714286,25
+Pontevedra,Galicia,Spain,Europe,96.42857143,16.66666667
+Lokeren,Flemish Region,Belgium,Europe,75,50
+Bruges,Flemish Region,Belgium,Europe,82.5,30
+Sint-Niklaas,Flemish Region,Belgium,Europe,25,50
+Macerata,Marche,Italy,Europe,93.75,8.333333333
+La Linea de la Concepcion,Andalusia,Spain,Europe,37.5,75
+Ronda,Andalusia,Spain,Europe,100,0
+Krk,Primorje-Gorski Kotar County,Croatia,Europe,50,50
+Graz,Styria,Austria,Europe,53.33333333,21.15384615
+Savona,Liguria,Italy,Europe,66.66666667,62.5
+Piacenza,Emilia-Romagna,Italy,Europe,62.5,50
+Ferrara,Emilia-Romagna,Italy,Europe,39.28571429,50
+Ravenna,Emilia-Romagna,Italy,Europe,64.28571429,16.66666667
+Forli,Emilia-Romagna,Italy,Europe,58.33333333,100
+Rimini,Emilia-Romagna,Italy,Europe,75,62.5
+Lucca,Tuscany,Italy,Europe,66.66666667,37.5
+Pisa,Tuscany,Italy,Europe,53.125,37.5
+Prato,Tuscany,Italy,Europe,50,50
+Lecce,Apulia,Italy,Europe,71.66666667,47.72727273
+Latina,Lazio,Italy,Europe,70.83333333,62.5
+Foggia,Apulia,Italy,Europe,62.5,81.25
+Barletta,Apulia,Italy,Europe,65,75
+Brindisi,Apulia,Italy,Europe,35,58.33333333
+Taranto,Apulia,Italy,Europe,75,50
+Sassari,Sardinia,Italy,Europe,71.875,43.75
+Olbia,Sardinia,Italy,Europe,87.5,50
+Messina,Sicily,Italy,Europe,75,12.5
+Syracuse,Sicily,Italy,Europe,59.375,75
+Agrigento,Sicily,Italy,Europe,75,50
+Tartu,Tartu County,Estonia,Europe,92.59259259,11.95652174
+Aarau,Canton Aargau,Switzerland,Europe,87.5,0
+Aviles,Asturias,Spain,Europe,50,50
+Kaufbeuren,Bavaria,Germany,Europe,100,50
+Coburg,Bavaria,Germany,Europe,100,50
+Ansbach,Bavaria,Germany,Europe,80,25
+Bensheim,Hesse,Germany,Europe,87.5,50
+Saarlouis,Saarland,Germany,Europe,100,50
+Bernburg,Saxony-Anhalt,Germany,Europe,100,50
+Backnang,Baden-Wurttemberg,Germany,Europe,100,0
+Brno,,Czech Republic,Europe,55.93220339,35.18518519
+Tarragona,Catalonia,Spain,Europe,50,45
+Castello de la Plana,Community of Valencia,Spain,Europe,87.5,25
+Albacete,Castile-La Mancha,Spain,Europe,75,12.5
+Badalona,Catalonia,Spain,Europe,87.5,50
+Vilanova i la Geltru,Catalonia,Spain,Europe,87.5,50
+Caceres,Extremadura,Spain,Europe,100,50
+Badajoz,Extremadura,Spain,Europe,96.875,43.75
+Jaen,Andalusia,Spain,Europe,75,37.5
+Cadiz,Andalusia,Spain,Europe,77.77777778,25
+Salamanca,Castile and Leon,Spain,Europe,96.42857143,25
+Novorossiysk,Krasnodar Krai,Russia,Europe,33.33333333,90
+Domzale,Municipality of Domzale,Slovenia,Europe,50,0
+Grosuplje,Municipality of Grosuplje,Slovenia,Europe,100,0
+Idrija,Municipality of Idrija,Slovenia,Europe,75,25
+Izola,Municipality of Izola,Slovenia,Europe,90,10
+Murska Sobota,City Municipality of Murska Sobota,Slovenia,Europe,62.5,50
+Ravne na Koroskem,Municipality of Ravne na Koroskem,Slovenia,Europe,75,50
+Slovenska Bistrica,Municipality of Slovenska Bistrica,Slovenia,Europe,100,75
+Slovenj Gradec,City Municipality of Slovenj Gradec,Slovenia,Europe,75,0
+Skofja Loka,Municipality of Skofja Loka,Slovenia,Europe,100,0
+Velenje,City Municipality of Velenje,Slovenia,Europe,75,50
+Zagorje ob Savi,Zagorje ob Savi Municipality,Slovenia,Europe,62.5,50
+Uelzen,Lower Saxony,Germany,Europe,100,50
+Schwedt/Oder,Brandenburg,Germany,Europe,87.5,50
+Esch-sur-Alzette,,Luxembourg,Europe,75,50
+Deggendorf,Bavaria,Germany,Europe,50,0
+Ceske Budejovice,,Czech Republic,Europe,65,50
+Thessaloniki,,Greece,Europe,39.52380952,47.5
+Biella,Piedmont,Italy,Europe,87.5,50
+Manchester,England,United Kingdom,Europe,52,37.77777778
+Stockport,England,United Kingdom,Europe,75,0
+Simferopol,Republic of Crimea,Russia,Europe,18.75,33.33333333
+Gori,Shida Kartli,Georgia,Europe,75,50
+Bucharest,,Romania,Europe,23.50574713,55.02336449
+Tirana,Tirana County,Albania,Europe,18.31683168,73.17708333
+Welwyn Garden City,England,United Kingdom,Europe,100,0
+Stevenage,England,United Kingdom,Europe,75,0
+Neustrelitz,Mecklenburg-Western Pomerania,Germany,Europe,100,50
+Skovde,Vastra Gotaland County,Sweden,Europe,100,0
+Bath,England,United Kingdom,Europe,40,35
+Bradford,England,United Kingdom,Europe,37.5,31.25
+Landstuhl,Rhineland-Palatinate,Germany,Europe,100,0
+Swansea,Wales,United Kingdom,Europe,80.55555556,10
+Bristol,England,United Kingdom,Europe,56.81818182,33.92857143
+Edinburgh,Scotland,United Kingdom,Europe,75.81967213,12.5
+Ashgabat,,Turkmenistan,Europe,61.11111111,36.11111111
+Marseille,,France,Europe,29.44444444,52.43902439
+Podgorica,Podgorica Municipality,Montenegro,Europe,51.13636364,38.88888889
+Valletta,,Malta,Europe,31.94444444,56.57894737
+Liverpool,England,United Kingdom,Europe,71.66666667,20
+Bremen,,Germany,Europe,78.75,15.625
+Uppsala,Uppsala County,Sweden,Europe,88.54166667,7.894736842
+Gothenburg,Vastra Gotaland County,Sweden,Europe,82.25806452,20.53571429
+Raciborz,Silesian Voivodeship,Poland,Europe,62.5,50
+Kosice,Kosice Region,Slovakia,Europe,52.38095238,35.29411765
+Helsingborg,Skane County,Sweden,Europe,31.25,35
+Vasteras,Vastmanland County,Sweden,Europe,80.76923077,16.66666667
+Linkoping,Ostergotland County,Sweden,Europe,85,0
+Funchal,Madeira,Portugal,Europe,84.09090909,31.94444444
+Batumi,Adjara,Georgia,Europe,90.625,25
+Umea,Vasterbotten County,Sweden,Europe,97.22222222,0
+St. Gallen,Canton of St. Gallen,Switzerland,Europe,96.875,0
+Orebro,Orebro County,Sweden,Europe,87.5,12.5
+Zilina,Zilina region,Slovakia,Europe,55,31.25
+Trondheim,Trondelag,Norway,Europe,91,9.210526316
+Presov,Presov Region,Slovakia,Europe,58.33333333,25
+Trnava,Trnava Region,Slovakia,Europe,60.71428571,0
+Kalmar,Kalmar County,Sweden,Europe,100,50
+Poprad,Presov Region,Slovakia,Europe,97.22222222,10
+Nitra,Nitra Region,Slovakia,Europe,75,50
+Bergen,Vestland,Norway,Europe,80.3030303,17.59259259
+Martin,Zilina region,Slovakia,Europe,55,0
+Molndal,Vastra Gotaland County,Sweden,Europe,100,50
+Ruzomberok,Zilina region,Slovakia,Europe,45,50
+Lahti,,Finland,Europe,90.90909091,14.28571429
+Akureyri,,Iceland,Europe,85,75
+Hastings,England,United Kingdom,Europe,100,0
+Canterbury,England,United Kingdom,Europe,56.25,35.41666667
+Rouen,,France,Europe,47.72727273,57.14285714
+Krakow,Lesser Poland Voivodeship,Poland,Europe,12.19879518,36.53846154
+Melitopol,Zaporizhzhia Oblast,Ukraine,Europe,75,50
+Gandia,Community of Valencia,Spain,Europe,100,50
+Nice,,France,Europe,53.125,28.94736842
+Oxford,England,United Kingdom,Europe,78.75,26.5625
+Salzburg,Salzburg,Austria,Europe,82.69230769,38.88888889
+Almaty,,Kazakhstan,Europe,11.83035714,48.86363636
+Izmir,Izmir Province,Turkey,Europe,47.08737864,58.60215054
+Lviv,Lviv Oblast,Ukraine,Europe,51.86567164,49.23076923
+Fribourg,canton of Fribourg,Switzerland,Europe,92.85714286,25
+Aberdeen,Scotland,United Kingdom,Europe,79.76190476,14.70588235
+Porto,,Portugal,Europe,68.44262295,34.58333333
+Cork,,Ireland,Europe,83.33333333,28.125
+Pardubice,,Czech Republic,Europe,50,41.66666667
+Rauma,,Finland,Europe,100,0
+Mariupol,Donetsk Oblast,Ukraine,Europe,12.5,91.66666667
+Lublin,Lublin Voivodeship,Poland,Europe,35.9375,41.66666667
+Besancon,,France,Europe,87.5,37.5
+Angers,,France,Europe,100,25
+Turku,,Finland,Europe,90,11.66666667
+Adana,Adana Province,Turkey,Europe,55,12.5
+Leeds,England,United Kingdom,Europe,53.67647059,19.64285714
+Bodo,Nordland,Norway,Europe,100,0
+Sochi,Krasnodar Krai,Russia,Europe,75,42.85714286
+Birkirkara,,Malta,Europe,17.85714286,64.28571429
+Cannes,,France,Europe,75,25
+Bursa,Bursa Province,Turkey,Europe,55.76923077,37.5
+Tampere,,Finland,Europe,86.60714286,13.54166667
+Nancy,,France,Europe,47.22222222,35
+Caen,,France,Europe,81.25,31.25
+Bydgoszcz,Kuyavian-Pomeranian Voivodeship,Poland,Europe,34.52380952,42.64705882
+Nottingham,England,United Kingdom,Europe,54.6875,38.63636364
+Linz,Upper Austria,Austria,Europe,61.76470588,27.5
+Mykolaiv,Mykolaiv Oblast,Ukraine,Europe,50,75
+Amiens,,France,Europe,75,37.5
+Haifa,Haifa District,Israel,Europe,17.96875,54.62962963
+Klagenfurt,Carinthia,Austria,Europe,71.42857143,16.66666667
+Beersheba,Southern District,Israel,Europe,29.16666667,21.875
+Reims,,France,Europe,81.25,18.75
+Szombathely,Vas County,Hungary,Europe,100,50
+Clermont-Ferrand,,France,Europe,80.55555556,15
+Kharkiv,Kharkiv Oblast,Ukraine,Europe,52.05882353,58.73493976
+Sheffield,England,United Kingdom,Europe,70.23809524,27.94117647
+York,England,United Kingdom,Europe,81.81818182,18.75
+Saint-Etienne,,France,Europe,90,0
+Nimes,,France,Europe,75,50
+Le Havre,,France,Europe,75,25
+Donetsk,Donetsk Oblast,Ukraine,Europe,20,65
+Aigle,Canton of Vaud,Switzerland,Europe,75,25
+Plymouth,England,United Kingdom,Europe,73.80952381,23.61111111
+Edirne,Edirne Province,Turkey,Europe,33.33333333,50
+Plzen,,Czech Republic,Europe,65,42.85714286
+Derby,England,United Kingdom,Europe,73.07692308,21.15384615
+Toulon,,France,Europe,60,41.66666667
+Bugibba,,Malta,Europe,40,65
+Viljandi,Viljandi County,Estonia,Europe,100,37.5
+Paide,Jarva County,Estonia,Europe,100,0
+Monte Carlo,Commune of Monaco,Monaco,Europe,22.72727273,43.75
+Trabzon,Trabzon Province,Turkey,Europe,27.77777778,25
+Coimbra,Coimbra,Portugal,Europe,82.35294118,41.17647059
+Limoges,,France,Europe,100,0
+Pecs,Baranya County,Hungary,Europe,62.5,25
+Dunkirk,,France,Europe,36.11111111,45
+Suceava,Suceava County,Romania,Europe,71.875,37.5
+Kavaje,Tirana County,Albania,Europe,100,75
+Alcala de Henares,Community of Madrid,Spain,Europe,75,50
+Espoo,Uusimaa,Finland,Europe,95.45454545,19.44444444
+Saint-Denis,Reunion,France,Europe,75,50
+Oulu,,Finland,Europe,86.95652174,12.5
+Aix-en-Provence,,France,Europe,78.57142857,50
+Torun,Kuyavian-Pomeranian Voivodeship,Poland,Europe,37.5,42.85714286
+Salford,England,United Kingdom,Europe,100,50
+Dnipro,Dnipropetrovsk Oblast,Ukraine,Europe,24.19354839,70.65217391
+Kayseri,Kayseri Province,Turkey,Europe,25,62.5
+Strumica,Strumica Municipality,North Macedonia,Europe,68.75,28.125
+Demmin,Mecklenburg-Western Pomerania,Germany,Europe,100,50
+Gniezno,Greater Poland Voivodeship,Poland,Europe,50,0
+Kolomyia,Ivano-Frankivsk Oblast,Ukraine,Europe,75,0
+Kalisz,Greater Poland Voivodeship,Poland,Europe,50,50
+Konin,Greater Poland Voivodeship,Poland,Europe,25,25
+Leszno,Greater Poland Voivodeship,Poland,Europe,75,50
+Faenza,Emilia-Romagna,Italy,Europe,75,50
+Nykoping,Sodermanland County,Sweden,Europe,100,50
+Kumanovo,Kumanovo Municipality,North Macedonia,Europe,16.66666667,91.66666667
+Visby,Gotland County,Sweden,Europe,75,0
+Fuenlabrada,Community of Madrid,Spain,Europe,87.5,100
+Harrow,England,United Kingdom,Europe,75,58.33333333
+Novi Sad,,Serbia,Europe,59.23913043,47.15909091
+Annaberg-Buchholz,Saxony,Germany,Europe,87.5,50
+Doncaster,England,United Kingdom,Europe,15,45.83333333
+Narvik,Nordland,Norway,Europe,90,100
+Mo i Rana,Nordland,Norway,Europe,80,0
+Uzice,Zlatibor District,Serbia,Europe,25,75
+Zalaegerszeg,Zala County,Hungary,Europe,0,100
+Ashkelon,Southern District,Israel,Europe,5,100
+Semey,East Kazakhstan Region,Kazakhstan,Europe,25,75
+Vanadzor,Lori Region,Armenia,Europe,25,50
+Koszalin,West Pomeranian Voivodeship,Poland,Europe,55,50
+Vernier,Canton of Geneva,Switzerland,Europe,12.5,75
+Baden,Canton Aargau,Switzerland,Europe,75,20
+Nyon,Canton of Vaud,Switzerland,Europe,100,0
+Lancy,Canton of Geneva,Switzerland,Europe,75,0
+Dubendorf,Canton of Zurich,Switzerland,Europe,100,50
+Baar,Canton of Zug,Switzerland,Europe,75,50
+High Wycombe,England,United Kingdom,Europe,62.5,50
+Glogow,Lower Silesian Voivodeship,Poland,Europe,50,50
+Davos,Grisons,Switzerland,Europe,100,50
+La Chaux-de-Fonds,Canton of Neuchatel,Switzerland,Europe,75,0
+Olten,Canton of Solothurn,Switzerland,Europe,80,100
+Sion,Canton of Valais,Switzerland,Europe,80,6.25
+Zug,Canton of Zug,Switzerland,Europe,91.66666667,8.333333333
+Vevey,Canton of Vaud,Switzerland,Europe,100,0
+Solothurn,Canton of Solothurn,Switzerland,Europe,100,50
+Chur,Grisons,Switzerland,Europe,100,0
+Cham,Canton of Zug,Switzerland,Europe,100,0
+Neuchatel,Canton of Neuchatel,Switzerland,Europe,92.85714286,0
+Montreux,Canton of Vaud,Switzerland,Europe,62.5,50
+Langenthal,Canton of Bern,Switzerland,Europe,100,0
+Portsmouth,England,United Kingdom,Europe,60,40
+Kurchatov,Kursk Oblast,Russia,Europe,75,75
+Dzerzhinsk,Nizhny Novgorod Oblast,Russia,Europe,100,50
+Kluczbork,Opole Voivodeship,Poland,Europe,50,50
+Mulhouse,,France,Europe,87.5,25
+Southampton,England,United Kingdom,Europe,67.30769231,46.875
+Konya,Konya Province,Turkey,Europe,18.18181818,45
+Debrecen,Hajdu-Bihar County,Hungary,Europe,56.57894737,20.83333333
+Daugavpils,,Latvia,Europe,50,37.5
+Antakya,Hatay Province,Turkey,Europe,87.5,50
+Charleroi,Wallonia,Belgium,Europe,50,60
+Olomouc,,Czech Republic,Europe,66.66666667,20
+Szeged,Csongrad-Csanad County,Hungary,Europe,69.44444444,25
+La Rochelle,,France,Europe,90,0
+Olsztyn,Warmian-Masurian Voivodeship,Poland,Europe,42.70833333,43.75
+Van,Van Province,Turkey,Europe,0,50
+Leicester,England,United Kingdom,Europe,70.3125,27.08333333
+Durres,Durres County,Albania,Europe,37.5,62.5
+Sibiu,Sibiu County,Romania,Europe,77.63157895,21.66666667
+Diyarbakir,Diyarbakir Province,Turkey,Europe,18.75,0
+Mons,Wallonia,Belgium,Europe,80,50
+Saue,Harju County,Estonia,Europe,100,0
+Opole,Opole Voivodeship,Poland,Europe,37.5,45.45454545
+Sopot,Pomeranian Voivodeship,Poland,Europe,45.45454545,53.57142857
+Chrzanow,Lesser Poland Voivodeship,Poland,Europe,37.5,50
+Gaziantep,Gaziantep Province,Turkey,Europe,25,37.5
+Mostar,Federation of Bosnia and Herzegovina,Bosnia and Herzegovina,Europe,93.18181818,35
+Oradea,,Romania,Europe,65.47619048,26.66666667
+Novokuznetsk,Kemerovo Oblast,Russia,Europe,0,45
+Magnitogorsk,Chelyabinsk Oblast,Russia,Europe,0,72.72727273
+Nizhny Tagil,Sverdlovsk Oblast,Russia,Europe,0,100
+Volzhsky,,Russia,Europe,0,75
+Ourense,Galicia,Spain,Europe,100,33.33333333
+Cluj-Napoca,Cluj County,Romania,Europe,57.11206897,33.40909091
+Newport,Wales,United Kingdom,Europe,82.14285714,58.33333333
+Narva,Ida-Viru County,Estonia,Europe,75,66.66666667
+Kielce,Swietokrzyskie Voivodeship,Poland,Europe,50,50
+Bytom,Silesian Voivodeship,Poland,Europe,35,75
+Parnu,Parnu County,Estonia,Europe,75,25
+Miskolc,Borsod-Abauj-Zemplen County,Hungary,Europe,44.44444444,15
+Corinth,Peloponnese Region,Greece,Europe,87.5,50
+Czestochowa,Silesian Voivodeship,Poland,Europe,45.83333333,12.5
+Rovaniemi,,Finland,Europe,100,15
+Zabrze,Silesian Voivodeship,Poland,Europe,15.625,37.5
+Ventspils,,Latvia,Europe,92.85714286,8.333333333
+Chorzow,Silesian Voivodeship,Poland,Europe,25,50
+Zgierz,Lodz Voivodeship,Poland,Europe,75,50
+Bakal,Chelyabinsk Oblast,Russia,Europe,75,100
+Balashikha,Moscow Oblast,Russia,Europe,25,58.33333333
+Elblag,Warmian-Masurian Voivodeship,Poland,Europe,54.16666667,50
+Zielona Gora,Lubusz Voivodeship,Poland,Europe,75,12.5
+Plock,Masovian Voivodeship,Poland,Europe,33.33333333,45
+Gorzow Wielkopolski,Lubusz Voivodeship,Poland,Europe,55,75
+Radom,Masovian Voivodeship,Poland,Europe,40,50
+Slupsk,Pomeranian Voivodeship,Poland,Europe,87.5,50
+Sosnowiec,Silesian Voivodeship,Poland,Europe,17.85714286,25
+Gliwice,Silesian Voivodeship,Poland,Europe,19.11764706,59.61538462
+Legnica,Lower Silesian Voivodeship,Poland,Europe,50,50
+Tarnow,Lesser Poland Voivodeship,Poland,Europe,37.5,50
+Wloclawek,Kuyavian-Pomeranian Voivodeship,Poland,Europe,45,75
+Rybnik,Silesian Voivodeship,Poland,Europe,13.88888889,41.66666667
+Akranes,,Iceland,Europe,100,37.5
+Sivas,Sivas Province,Turkey,Europe,33.33333333,75
+Valmiera,,Latvia,Europe,100,50
+Dabrowa Gornicza,Silesian Voivodeship,Poland,Europe,33.33333333,25
+Kilkenny,Leinster,Ireland,Europe,75,75
+Kolobrzeg,West Pomeranian Voivodeship,Poland,Europe,100,0
+Walbrzych,Lower Silesian Voivodeship,Poland,Europe,36.11111111,60
+Elbasan,Elbasan County,Albania,Europe,0,25
+Bar,Bar Municipality,Montenegro,Europe,56.25,50
+Korce,Korce County,Albania,Europe,75,25
+Viseu,Viseu,Portugal,Europe,79.16666667,37.5
+Leuven,Flemish Region,Belgium,Europe,56.25,37.5
+Erzurum,Erzurum Province,Turkey,Europe,21.875,12.5
+Grudziadz,Kuyavian-Pomeranian Voivodeship,Poland,Europe,45,0
+Dundee,Scotland,United Kingdom,Europe,88.88888889,8.333333333
+Vaasa,,Finland,Europe,92.5,8.333333333
+Acre,Northern District,Israel,Europe,25,75
+Wolverhampton,England,United Kingdom,Europe,33.33333333,33.33333333
+Eisenstadt,Burgenland,Austria,Europe,87.5,50
+Antibes,,France,Europe,65,33.33333333
+Vantaa,Uusimaa,Finland,Europe,87.5,12.5
+Kingston upon Hull,England,United Kingdom,Europe,59.09090909,42.85714286
+Nis,Nisava District,Serbia,Europe,28.125,40.27777778
+Galway,Connacht,Ireland,Europe,92.04545455,44.44444444
+Norwich,England,United Kingdom,Europe,71.05263158,31.66666667
+Szekesfehervar,Fejer County,Hungary,Europe,62.5,18.75
+Banja Luka,Republika Srpska,Bosnia and Herzegovina,Europe,45.58823529,58.59375
+Brighton,England,United Kingdom,Europe,82.14285714,21.73913043
+Wiener Neustadt,Lower Austria,Austria,Europe,87.5,50
+Shkoder,Shkoder County,Albania,Europe,75,33.33333333
+Pau,,France,Europe,75,50
+Kolomna,Moscow Oblast,Russia,Europe,50,25
+Patras,West Greece Region,Greece,Europe,60,41.66666667
+Volgodonsk,Rostov Oblast,Russia,Europe,25,75
+Limerick,,Ireland,Europe,80.43478261,38.15789474
+Namur,Wallonia,Belgium,Europe,72.22222222,55
+Gyor,Gyor-Moson-Sopron County,Hungary,Europe,79.16666667,0
+Jyvaskyla,,Finland,Europe,95.83333333,0
+Exeter,England,United Kingdom,Europe,79.16666667,13.63636364
+Siauliai,,Lithuania,Europe,57.14285714,58.33333333
+Stoke-on-Trent,England,United Kingdom,Europe,67.85714286,33.33333333
+Domodedovo,Moscow Oblast,Russia,Europe,50,37.5
+Erzincan,Erzincan Province,Turkey,Europe,29.16666667,50
+Zabok,Krapina-Zagorje County,Croatia,Europe,25,100
+Brest,Brest Region,Belarus,Europe,31.25,55
+Kansk,Krasnoyarsk Krai,Russia,Europe,0,75
+Zakopane,Lesser Poland Voivodeship,Poland,Europe,33.33333333,50
+Zakynthos,,Greece,Europe,100,25
+Ruma,,Serbia,Europe,25,75
+Banska Bystrica,Banska Bystrica Region,Slovakia,Europe,62.5,25
+Trencin,Trencin Region,Slovakia,Europe,78.57142857,41.66666667
+Zalau,Salaj County,Romania,Europe,100,75
+Zamosc,Lublin Voivodeship,Poland,Europe,50,50
+Decin,,Czech Republic,Europe,62.5,50
+Veszprem,Veszprem County,Hungary,Europe,96.42857143,8.333333333
+Teplice,,Czech Republic,Europe,75,0
+Liberec,,Czech Republic,Europe,90.625,12.5
+Chomutov,,Czech Republic,Europe,75,50
+Most,,Czech Republic,Europe,62.5,50
+Manisa,Manisa Province,Turkey,Europe,16.66666667,50
+Stip,Stip Municipality,North Macedonia,Europe,50,40
+Jablonec nad Nisou,,Czech Republic,Europe,75,0
+Zgorzelec,Lower Silesian Voivodeship,Poland,Europe,62.5,50
+Jelenia Gora,Lower Silesian Voivodeship,Poland,Europe,50,50
+Zawiercie,Silesian Voivodeship,Poland,Europe,25,50
+Zary,Lubusz Voivodeship,Poland,Europe,62.5,50
+Kiryat Bialik,Haifa District,Israel,Europe,29.16666667,37.5
+Givatayim,Tel Aviv District,Israel,Europe,25,50
+Karmiel,Northern District,Israel,Europe,53.57142857,0
+Beit Shemesh,Jerusalem District,Israel,Europe,37.5,66.66666667
+Afula,Northern District,Israel,Europe,41.66666667,37.5
+Arad,Southern District,Israel,Europe,41.66666667,37.5
+Herzliya,Tel Aviv District,Israel,Europe,80,15
+Kiryat Ata,Haifa District,Israel,Europe,25,50
+St Helens,England,United Kingdom,Europe,62.5,25
+Mogilev,Mahiliou Region,Belarus,Europe,53.125,50
+Korolyov,Moscow Oblast,Russia,Europe,25,87.5
+Kladno,,Czech Republic,Europe,75,75
+Opava,,Czech Republic,Europe,62.5,50
+Nakhodka,Primorsky Krai,Russia,Europe,25,75
+Uzhhorod,Zakarpattia Oblast,Ukraine,Europe,54.16666667,50
+Zhytomyr,Zhytomyr Oblast,Ukraine,Europe,43.75,56.25
+Khmelnytskyi,Khmelnytskyi Oblast,Ukraine,Europe,91.66666667,0
+Kremenchuk,Poltava Oblast,Ukraine,Europe,0,100
+Ivano-Frankivsk,Ivano-Frankivsk Oblast,Ukraine,Europe,28.57142857,45
+Kherson,Kherson Oblast,Ukraine,Europe,54.54545455,54.54545455
+Rivne,Rivne Oblast,Ukraine,Europe,75,50
+Ternopil,Ternopil Oblast,Ukraine,Europe,85.71428571,57.14285714
+Poltava,Poltava Oblast,Ukraine,Europe,70,35
+Sumy,Sumy Oblast,Ukraine,Europe,46.42857143,53.57142857
+Struga,Struga Municipality,North Macedonia,Europe,35,70
+Usti nad Labem,,Czech Republic,Europe,62.5,87.5
+Tetovo,Tetovo Municipality,North Macedonia,Europe,10.90909091,65.77669903
+Prilep,Prilep Municipality,North Macedonia,Europe,58.33333333,37.5
+Veles,Veles Municipality,North Macedonia,Europe,25,50
+Chernihiv,Chernihiv Oblast,Ukraine,Europe,58.33333333,75
+Cherkasy,Cherkasy Oblast,Ukraine,Europe,30.55555556,53.125
+Gostivar,Gostivar Municipality,North Macedonia,Europe,66.66666667,83.33333333
+Gevgelija,Gevgelija Municipality,North Macedonia,Europe,100,33.33333333
+Vinnytsia,Vinnytsia Oblast,Ukraine,Europe,62.5,71.42857143
+Bitola,Bitola Municipality,North Macedonia,Europe,35.625,44.44444444
+Horlivka,Donetsk Oblast,Ukraine,Europe,0,100
+King's Lynn,England,United Kingdom,Europe,0,100
+Chernivtsi,Chernivtsi Oblast,Ukraine,Europe,81.25,26.25
+Piotrkow Trybunalski,Lodz Voivodeship,Poland,Europe,35,25
+Kicevo,Kicevo Municipality,North Macedonia,Europe,25,37.5
+Pabianice,Lodz Voivodeship,Poland,Europe,29.16666667,50
+Faro,,Portugal,Europe,79.16666667,25
+Vlore,Vlore County,Albania,Europe,66.66666667,75
+Batman,Batman Province,Turkey,Europe,0,50
+Ruse,Ruse Province,Bulgaria,Europe,21.42857143,50
+Samsun,Samsun Province,Turkey,Europe,31.81818182,50
+Inverness,Scotland,United Kingdom,Europe,84.375,56.25
+Heraklion,,Greece,Europe,86.76470588,50
+Salisbury,England,United Kingdom,Europe,64.28571429,42.85714286
+Reading,England,United Kingdom,Europe,72.82608696,30.55555556
+Czeladz,Silesian Voivodeship,Poland,Europe,50,25
+Konotop,Sumy Oblast,Ukraine,Europe,75,25
+Kuopio,,Finland,Europe,95.83333333,37.5
+Oskemen,East Kazakhstan Region,Kazakhstan,Europe,10.71428571,60.71428571
+Cartagena,Region of Murcia,Spain,Europe,65.625,25
+Ramenskoye,,Russia,Europe,25,50
+Kopavogur,,Iceland,Europe,100,50
+Coslada,Community of Madrid,Spain,Europe,70.83333333,50
+Chambery,,France,Europe,87.5,50
+Pleven,Pleven Province,Bulgaria,Europe,17.85714286,100
+Stornoway,Scotland,United Kingdom,Europe,100,0
+Malatya,Malatya Province,Turkey,Europe,0,50
+Eger,Heves County,Hungary,Europe,100,50
+Kragujevac,Sumadija District,Serbia,Europe,50,43.75
+Liepaja,,Latvia,Europe,90.38461538,5.555555556
+Yavne,Central District,Israel,Europe,25,50
+Cakovec,Medimurje County,Croatia,Europe,100,37.5
+Kalamata,Peloponnese Region,Greece,Europe,50,40
+Craiova,Dolj County,Romania,Europe,53.84615385,36.11111111
+Adiyaman,Adiyaman Province,Turkey,Europe,0,50
+Sopron,Gyor-Moson-Sopron County,Hungary,Europe,100,0
+Dobrich,Dobrich Province,Bulgaria,Europe,37.5,100
+Eskisehir,,Turkey,Europe,64.58333333,36.11111111
+Doboj,Republika Srpska,Bosnia and Herzegovina,Europe,87.5,75
+Chester,England,United Kingdom,Europe,81.25,20
+Subotica,,Serbia,Europe,50,50
+Blackpool,England,United Kingdom,Europe,70,45.83333333
+Stara Zagora,Stara Zagora Province,Bulgaria,Europe,61.11111111,5
+Aydin,Aydin Province,Turkey,Europe,14.28571429,50
+Bournemouth,,United Kingdom,Europe,64.70588235,31.25
+Gloucester,England,United Kingdom,Europe,50,50
+Taganrog,Rostov Oblast,Russia,Europe,58.33333333,58.33333333
+Amasya,Amasya Province,Turkey,Europe,12.5,50
+Keflavik,,Iceland,Europe,87.5,0
+Guimaraes,Braga,Portugal,Europe,93.75,43.75
+Denizli,Denizli Province,Turkey,Europe,29.54545455,40
+Zlin,,Czech Republic,Europe,75,37.5
+Isparta,Isparta Province,Turkey,Europe,12.5,37.5
+Kotor,Kotor Municipality,Montenegro,Europe,75,25
+Dornbirn,Vorarlberg,Austria,Europe,100,0
+Nyiregyhaza,Szabolcs-Szatmar-Bereg County,Hungary,Europe,50,50
+Esztergom,Komarom-Esztergom County,Hungary,Europe,75,50
+Kecskemet,Bacs-Kiskun County,Hungary,Europe,75,50
+Ashdod,Southern District,Israel,Europe,25,41.66666667
+Alanya,Antalya Province,Turkey,Europe,91.66666667,37.5
+Middlesbrough,England,United Kingdom,Europe,87.5,20.83333333
+Larnaca,Larnaca District,Cyprus,Europe,52.63157895,50
+Winchester,England,United Kingdom,Europe,75,0
+Bodrum,Mugla Province,Turkey,Europe,80,25
+Peterborough,England,United Kingdom,Europe,85,15
+Blagoevgrad,Blagoevgrad Province,Bulgaria,Europe,47.5,25
+Cetinje,Old Royal Capital Cetinje,Montenegro,Europe,100,0
+Veliko Tarnovo,Veliko Tarnovo Province,Bulgaria,Europe,62.5,31.25
+Arad,Arad County,Romania,Europe,66.25,35
+Setubal,Setubal,Portugal,Europe,61.11111111,60
+Elazig,Elazig Province,Turkey,Europe,25,50
+Budva,Budva Municipality,Montenegro,Europe,95.83333333,41.66666667
+Alba Iulia,Alba County,Romania,Europe,62.5,50
+Tuzla,Federation of Bosnia and Herzegovina,Bosnia and Herzegovina,Europe,10.9375,50
+Novomoskovsk,,Russia,Europe,50,50
+Adapazari,,Turkey,Europe,100,75
+Novocheboksarsk,Chuvash Republic,Russia,Europe,25,25
+Obninsk,Kaluga Oblast,Russia,Europe,100,50
+Odintsovo,Moscow Oblast,Russia,Europe,50,25
+Horsham,England,United Kingdom,Europe,50,0
+Jurmala,,Latvia,Europe,87.5,37.5
+Sliven,Sliven Province,Bulgaria,Europe,53.57142857,8.333333333
+Larissa,,Greece,Europe,50,29.16666667
+Wels,Upper Austria,Austria,Europe,75,0
+Durham,England,United Kingdom,Europe,95.83333333,12.5
+Evora,Evora,Portugal,Europe,93.75,35.41666667
+Lincoln,England,United Kingdom,Europe,91.66666667,25
+Hradec Kralove,,Czech Republic,Europe,75,29.16666667
+Kozani,West Macedonia Region,Greece,Europe,50,100
+Pori,,Finland,Europe,100,0
+Foca,Republika Srpska,Bosnia and Herzegovina,Europe,37.5,50
+Rezekne,,Latvia,Europe,75,25
+Truro,England,United Kingdom,Europe,100,0
+Paphos,Paphos District,Cyprus,Europe,67.85714286,25
+Szolnok,Jasz-Nagykun-Szolnok County,Hungary,Europe,75,16.66666667
+Wavre,Wallonia,Belgium,Europe,75,100
+Shumen,Shumen Province,Bulgaria,Europe,28.57142857,75
+Lappeenranta,,Finland,Europe,100,0
+Tekirdag,Tekirdag Province,Turkey,Europe,15,75
+Aksaray,Aksaray Province,Turkey,Europe,0,50
+Chania,,Greece,Europe,85.29411765,27.94117647
+Silistra,Silistra Province,Bulgaria,Europe,100,50
+Tourcoing,,France,Europe,62.5,50
+Rustavi,Kvemo Kartli,Georgia,Europe,33.33333333,62.5
+Stirling,Scotland,United Kingdom,Europe,87.5,50
+Feldkirch,Vorarlberg,Austria,Europe,83.33333333,0
+Jihlava,,Czech Republic,Europe,87.5,50
+Ioannina,Epirus Region,Greece,Europe,87.5,41.66666667
+Waterford,,Ireland,Europe,87.5,25
+Tokat,Tokat Province,Turkey,Europe,25,75
+Zenica,Federation of Bosnia and Herzegovina,Bosnia and Herzegovina,Europe,30.55555556,40.625
+Preston,England,United Kingdom,Europe,84.375,18.75
+Colchester,England,United Kingdom,Europe,75,25
+Ordu,Ordu Province,Turkey,Europe,43.75,25
+Bolton,England,United Kingdom,Europe,75,37.5
+Ipswich,England,United Kingdom,Europe,70.83333333,28.57142857
+Siirt,Siirt Province,Turkey,Europe,0,50
+Baia Mare,Maramure? County,Romania,Europe,60.86956522,44.73684211
+Pernik,Pernik Province,Bulgaria,Europe,25,0
+Satu Mare,Satu Mare County,Romania,Europe,64.28571429,83.33333333
+Limassol,Limassol District,Cyprus,Europe,56.25,31.48148148
+Joensuu,,Finland,Europe,100,0
+Haskovo,Haskovo Province,Bulgaria,Europe,25,25
+Yambol,Yambol Province,Bulgaria,Europe,55,37.5
+Pazardzhik,Pazardzhik Province,Bulgaria,Europe,25,50
+Kavala,,Greece,Europe,83.33333333,0
+Dunaujvaros,,Hungary,Europe,60,50
+Tatabanya,Komarom-Esztergom County,Hungary,Europe,62.5,50
+Mostoles,Community of Madrid,Spain,Europe,87.5,50
+Sunderland,England,United Kingdom,Europe,87.5,62.5
+Blackburn,England,United Kingdom,Europe,0,75
+Braila,Braila County,Romania,Europe,41.66666667,81.25
+Rhodes,,Greece,Europe,92.85714286,21.42857143
+Kutahya,Kutahya Province,Turkey,Europe,0,50
+Mytilene,North Aegean Region,Greece,Europe,100,37.5
+Usak,Usak Province,Turkey,Europe,8.333333333,66.66666667
+Utena,,Lithuania,Europe,87.5,50
+Amadora,Lisbon,Portugal,Europe,75,75
+Kyustendil,Kyustendil Province,Bulgaria,Europe,62.5,50
+Lovech,Lovech Province,Bulgaria,Europe,37.5,50
+Vratsa,Vratsa Province,Bulgaria,Europe,35.71428571,75
+Karabuk,Karabuk Province,Turkey,Europe,21.42857143,25
+Argos,Peloponnese Region,Greece,Europe,25,100
+Sligo,Connacht,Ireland,Europe,75,50
+Mikkeli,,Finland,Europe,100,16.66666667
+Petah Tikva,Central District,Israel,Europe,27.77777778,20.83333333
+Alexandroupoli,,Greece,Europe,87.5,31.25
+Jekabpils,,Latvia,Europe,100,0
+Vila Nova de Gaia,Porto,Portugal,Europe,67.5,31.25
+Ventimiglia,Liguria,Italy,Europe,50,25
+Karvina,,Czech Republic,Europe,30,50
+Mlada Boleslav,,Czech Republic,Europe,70,50
+Asenovgrad,Plovdiv region,Bulgaria,Europe,25,0
+Sisak,Sisak-Moslavina County,Croatia,Europe,37.5,50
+Kotka,,Finland,Europe,100,0
+Holon,Tel Aviv District,Israel,Europe,32.14285714,25
+Netanya,Central District,Israel,Europe,77.77777778,27.77777778
+Northampton,England,United Kingdom,Europe,77.27272727,32.14285714
+Vaslui,Vaslui County,Romania,Europe,62.5,50
+Champigny-sur-Marne,Ile-de-France,France,Europe,90,0
+Leskovac,Jablanica District,Serbia,Europe,87.5,0
+Ramnicu Valcea,Valcea County,Romania,Europe,87.5,31.25
+Ramat Gan,Tel Aviv District,Israel,Europe,32.5,29.16666667
+Kardzhali,Kardzhali Province,Bulgaria,Europe,40,50
+Smolyan,Smolyan Province,Bulgaria,Europe,100,50
+Carlisle,England,United Kingdom,Europe,89.28571429,0
+Havirov,,Czech Republic,Europe,50,0
+Erd,Pest County,Hungary,Europe,66.66666667,37.5
+Kajaani,,Finland,Europe,100,50
+Porvoo,Uusimaa,Finland,Europe,100,0
+Rybinsk,Yaroslavl Oblast,Russia,Europe,25,100
+Miercurea Ciuc,Harghita County,Romania,Europe,90,0
+Artvin,Artvin Province,Turkey,Europe,58.33333333,50
+Armagh,Northern Ireland,United Kingdom,Europe,75,50
+Angra do Heroismo,Azores,Portugal,Europe,100,0
+Cheb,,Czech Republic,Europe,87.5,50
+Sergiyev Posad,Moscow Oblast,Russia,Europe,75,75
+Drobeta-Turnu Severin,Mehedin?i County,Romania,Europe,45,50
+Rueil-Malmaison,Ile-de-France,France,Europe,58.33333333,25
+Seraing,Wallonia,Belgium,Europe,75,50
+Serpukhov,Moscow Oblast,Russia,Europe,0,50
+Nigde,Nigde Province,Turkey,Europe,0,50
+Karakol,Issyk-Kul Region,Kyrgyzstan,Europe,25,50
+Buckingham,England,United Kingdom,Europe,100,0
+Stary Oskol,Belgorod Oblast,Russia,Europe,0,100
+Khimki,Moscow Oblast,Russia,Europe,33.33333333,66.66666667
+Aktau,Mangystau Region,Kazakhstan,Europe,8.333333333,91.66666667
+Agri,Agri Province,Turkey,Europe,25,50
+Canakkale,Canakkale Province,Turkey,Europe,80,37.5
+Balikesir,Balikesir Province,Turkey,Europe,35,50
+Volos,,Greece,Europe,50,55.55555556
+Povoa de Varzim,Porto,Portugal,Europe,75,50
+Slubice,Lubusz Voivodeship,Poland,Europe,87.5,50
+Niksic,Niksic Municipality,Montenegro,Europe,25,50
+Rethymno,,Greece,Europe,85,0
+Swindon,England,United Kingdom,Europe,41.66666667,12.5
+Bolu,Bolu Province,Turkey,Europe,75,37.5
+Giresun,Giresun Province,Turkey,Europe,37.5,50
+Rize,Rize Province,Turkey,Europe,65,25
+Zrenjanin,,Serbia,Europe,46.875,96.875
+Buzau,Buzau County,Romania,Europe,70,50
+Sanok,Podkarpackie Voivodeship,Poland,Europe,62.5,50
+Huddersfield,England,United Kingdom,Europe,58.33333333,0
+Hameenlinna,Tavastia Proper,Finland,Europe,75,25
+Giurgiu,Giurgiu County,Romania,Europe,50,50
+Targu Jiu,Gorj County,Romania,Europe,37.5,50
+Sfantu Gheorghe,Covasna County,Romania,Europe,100,0
+Novi Pazar,Raska District,Serbia,Europe,75,0
+Oldham,England,United Kingdom,Europe,100,0
+Perth,Scotland,United Kingdom,Europe,41.66666667,58.33333333
+Mazeikiai,,Lithuania,Europe,62.5,50
+Luton,England,United Kingdom,Europe,77.5,41.66666667
+Visaginas,,Lithuania,Europe,87.5,12.5
+Southend-on-Sea,England,United Kingdom,Europe,61.11111111,65
+Milton Keynes,England,United Kingdom,Europe,86.84210526,16.66666667
+Kouvola,,Finland,Europe,100,0
+Bihac,Federation of Bosnia and Herzegovina,Bosnia and Herzegovina,Europe,100,0
+Sabac,Macva District,Serbia,Europe,25,83.33333333
+Hereford,England,United Kingdom,Europe,75,8.333333333
+Deva,Hunedoara County,Romania,Europe,81.25,31.25
+Dundalk,Leinster,Ireland,Europe,81.25,31.25
+Pancevo,,Serbia,Europe,10.71428571,53.57142857
+Corfu,,Greece,Europe,88.63636364,25
+Yalova,Yalova Province,Turkey,Europe,46.875,43.75
+Kraljevo,Raska District,Serbia,Europe,37.5,37.5
+Kyrenia,,Cyprus,Europe,75,50
+Ajka,Veszprem County,Hungary,Europe,75,50
+Nevsehir,Nevsehir Province,Turkey,Europe,50,0
+Duzce,Duzce Province,Turkey,Europe,0,50
+Kirikkale,Kirikkale Province,Turkey,Europe,4.166666667,50
+Hakkari,Hakkari Province,Turkey,Europe,0,50
+Corum,Corum Province,Turkey,Europe,12.5,50
+Kirklareli,Kirklareli Province,Turkey,Europe,32.14285714,0
+Kastoria,West Macedonia Region,Greece,Europe,100,0
+Cheltenham,England,United Kingdom,Europe,75,0
+Slatina,Olt County,Romania,Europe,58.33333333,25
+Drogheda,Leinster,Ireland,Europe,100,12.5
+Rehovot,Central District,Israel,Europe,37.5,31.25
+Vac,Pest County,Hungary,Europe,100,0
+Trikala,,Greece,Europe,95.83333333,33.33333333
+Bijelo Polje,Bijelo Polje Municipality,Montenegro,Europe,0,75
+Lod,Central District,Israel,Europe,25,100
+Chichester,England,United Kingdom,Europe,100,0
+Hyvinkaa,Uusimaa,Finland,Europe,100,50
+Kokkola,,Finland,Europe,95,75
+Fethiye,Mugla Province,Turkey,Europe,100,75
+Bilecik,Bilecik Province,Turkey,Europe,20.83333333,50
+Valjevo,Kolubara District,Serbia,Europe,0,75
+Cacak,Moravica District,Serbia,Europe,41.66666667,50
+Wigan,England,United Kingdom,Europe,87.5,12.5
+Ponta Delgada,Azores,Portugal,Europe,100,5
+Viana do Castelo,Viana do Castelo,Portugal,Europe,100,58.33333333
+Berane,Berane Municipality,Montenegro,Europe,100,0
+Bedford,England,United Kingdom,Europe,80,75
+Eastbourne,England,United Kingdom,Europe,79.16666667,0
+Kirkwall,Scotland,United Kingdom,Europe,100,50
+Borjomi,Samtskhe-Javakheti,Georgia,Europe,100,50
+Komotini,,Greece,Europe,75,18.75
+Bat Yam,Tel Aviv District,Israel,Europe,50,41.66666667
+Prievidza,Trencin Region,Slovakia,Europe,80,0
+Torquay,England,United Kingdom,Europe,56.25,37.5
+Burnley,England,United Kingdom,Europe,37.5,25
+Ennis,,Ireland,Europe,100,50
+Biala Podlaska,Lublin Voivodeship,Poland,Europe,50,50
+Edessa,,Greece,Europe,100,0
+Yozgat,Yozgat Province,Turkey,Europe,25,50
+Xanthi,,Greece,Europe,100,35
+Katerini,,Greece,Europe,37.5,37.5
+Livadeia,Central Greece Region,Greece,Europe,62.5,50
+Chelmsford,England,United Kingdom,Europe,62.5,12.5
+Imatra,,Finland,Europe,91.66666667,0
+Roeselare,Flemish Region,Belgium,Europe,75,50
+Johvi,Ida-Viru County,Estonia,Europe,100,50
+Carlow,Leinster,Ireland,Europe,58.33333333,41.66666667
+Bayburt,Bayburt Province,Turkey,Europe,100,0
+Slough,England,United Kingdom,Europe,35.71428571,60
+Dunfermline,Scotland,United Kingdom,Europe,100,0
+Kusadasi,Aydin Province,Turkey,Europe,25,100
+Lushnje,Fier County,Albania,Europe,0,100
+West Bromwich,England,United Kingdom,Europe,50,0
+Drama,,Greece,Europe,100,25
+Wadowice,Lesser Poland Voivodeship,Poland,Europe,30,0
+Elva,Tartu County,Estonia,Europe,100,8.333333333
+Maidstone,England,United Kingdom,Europe,12.5,50
+Darlington,England,United Kingdom,Europe,100,0
+Barcelos,Braga,Portugal,Europe,100,50
+Tralee,,Ireland,Europe,91.66666667,8.333333333
+Guildford,England,United Kingdom,Europe,67.85714286,39.28571429
+Aylesbury,England,United Kingdom,Europe,58.33333333,25
+Dudley,England,United Kingdom,Europe,100,0
+Kocani,Kocani Municipality,North Macedonia,Europe,12.5,50
+Lohja,Uusimaa,Finland,Europe,100,50
+Kazincbarcika,Borsod-Abauj-Zemplen County,Hungary,Europe,50,50
+Znojmo,,Czech Republic,Europe,87.5,50
+Lomza,Podlaskie Voivodeship,Poland,Europe,75,50
+Slobozia,Ialomi?a County,Romania,Europe,25,75
+Warrington,England,United Kingdom,Europe,75,25
+Harrogate,England,United Kingdom,Europe,75,6.25
+Rapla,Rapla County,Estonia,Europe,100,50
+Husavik,,Iceland,Europe,50,50
+Montana,Montana Province,Bulgaria,Europe,20,50
+Cugir,Alba County,Romania,Europe,100,25
+Vinkovci,Vukovar-Syrmia County,Croatia,Europe,100,0
+Tivat,Tivat Municipality,Montenegro,Europe,65,50
+Chelm,Lublin Voivodeship,Poland,Europe,50,50
+Suwalki,Podlaskie Voivodeship,Poland,Europe,87.5,50
+Plasencia,Extremadura,Spain,Europe,75,50
+Givet,,France,Europe,100,50
+Sremska Mitrovica,,Serbia,Europe,75,12.5
+Lewes,England,United Kingdom,Europe,100,0
+Olaine,Olaine Municipality,Latvia,Europe,100,0
+Sochaczew,Masovian Voivodeship,Poland,Europe,37.5,50
+Bad Ischl,Upper Austria,Austria,Europe,85,50
+Amstetten,Lower Austria,Austria,Europe,62.5,50
+Vocklabruck,Upper Austria,Austria,Europe,100,50
+Simbach am Inn,Bavaria,Germany,Europe,100,50
+Hallein,Salzburg,Austria,Europe,100,50
+Abensberg,Bavaria,Germany,Europe,100,50
+Mittersill,Salzburg,Austria,Europe,50,50
+Bruck an der Mur,Styria,Austria,Europe,75,50
+Traun,Upper Austria,Austria,Europe,87.5,50
+Steyr,Upper Austria,Austria,Europe,100,50
+Karaman,Karaman Province,Turkey,Europe,20,0
+Trowbridge,England,United Kingdom,Europe,0,100
+Turnhout,Flemish Region,Belgium,Europe,75,50
+Makarska,Split-Dalmatia County,Croatia,Europe,100,0
+Cascais,Lisbon,Portugal,Europe,78.125,41.66666667
+Santarem,Santarem,Portugal,Europe,95,50
+Caldas da Rainha,Leiria,Portugal,Europe,50,50
+Nove Zamky,Nitra Region,Slovakia,Europe,75,0
+Hajnowka,Podlaskie Voivodeship,Poland,Europe,62.5,50
+Modling,Lower Austria,Austria,Europe,87.5,50
+Muonio,,Finland,Europe,100,0
+Abastumani,Samtskhe-Javakheti,Georgia,Europe,62.5,50
+Boston,England,United Kingdom,Europe,62.5,25
+Vilvoorde,Flemish Region,Belgium,Europe,75,50
+Gospic,Lika-Senj County,Croatia,Europe,100,0
+Siedlce,Masovian Voivodeship,Poland,Europe,46.42857143,50
+Abingdon-on-Thames,England,United Kingdom,Europe,100,50
+Valkeakoski,,Finland,Europe,100,50
+Brcko,Brcko District,Bosnia and Herzegovina,Europe,25,87.5
+Prijedor,Republika Srpska,Bosnia and Herzegovina,Europe,75,25
+Almada,Setubal,Portugal,Europe,85.71428571,50
+Dimitrovgrad,Haskovo Province,Bulgaria,Europe,12.5,50
+Velika Gorica,Zagreb County,Croatia,Europe,25,50
+Lienz,Tyrol,Austria,Europe,100,50
+Cuprija,Pomoravlje District,Serbia,Europe,59.375,65.625
+Caslav,,Czech Republic,Europe,100,0
+Jindrichuv Hradec,,Czech Republic,Europe,100,25
+Athlone,Leinster,Ireland,Europe,80,25
+Slapanice,,Czech Republic,Europe,87.5,37.5
+Tavira,,Portugal,Europe,100,0
+Sines,Setubal,Portugal,Europe,75,50
+Zywiec,Silesian Voivodeship,Poland,Europe,50,50
+Castelo Branco,Castelo Branco,Portugal,Europe,100,0
+Albufeira,,Portugal,Europe,71.42857143,33.33333333
+Folkestone,England,United Kingdom,Europe,75,50
+Valasske Mezirici,,Czech Republic,Europe,50,100
+Nove Mesto nad Vahom,Trencin Region,Slovakia,Europe,50,50
+Heviz,Zala County,Hungary,Europe,62.5,37.5
+Lukow,Lublin Voivodeship,Poland,Europe,62.5,50
+Litomerice,,Czech Republic,Europe,75,50
+Karlovy Vary,,Czech Republic,Europe,64.28571429,16.66666667
+Samokov,Sofia Province,Bulgaria,Europe,50,50
+Jagodina,Pomoravlje District,Serbia,Europe,32.14285714,53.57142857
+Bansko,Blagoevgrad Province,Bulgaria,Europe,100,0
+Ambleside,England,United Kingdom,Europe,87.5,50
+Sumperk,,Czech Republic,Europe,75,50
+Zory,Silesian Voivodeship,Poland,Europe,25,50
+Petrinja,Sisak-Moslavina County,Croatia,Europe,75,50
+Kutina,Sisak-Moslavina County,Croatia,Europe,45,25
+Novalja,Lika-Senj County,Croatia,Europe,50,50
+Agrinio,West Greece Region,Greece,Europe,75,50
+Solihull,England,United Kingdom,Europe,100,0
+Ogulin,,Croatia,Europe,100,0
+Delnice,Primorje-Gorski Kotar County,Croatia,Europe,100,0
+Novska,Sisak-Moslavina County,Croatia,Europe,100,0
+Slunj,,Croatia,Europe,100,0
+Figueira da Foz,Coimbra,Portugal,Europe,93.75,25
+Caernarfon,Wales,United Kingdom,Europe,62.5,12.5
+Gmunden,Upper Austria,Austria,Europe,100,50
+Nymburk,,Czech Republic,Europe,75,50
+Alverca do Ribatejo,Lisbon,Portugal,Europe,50,0
+Ostroleka,Masovian Voivodeship,Poland,Europe,62.5,50
+Burrel,Diber County,Albania,Europe,100,62.5
+Bedzin,Silesian Voivodeship,Poland,Europe,65,0
+Spisska Nova Ves,Kosice Region,Slovakia,Europe,62.5,50
+Geel,Flemish Region,Belgium,Europe,87.5,50
+Kolin,,Czech Republic,Europe,75,50
+Prerov,,Czech Republic,Europe,62.5,50
+Prostejov,,Czech Republic,Europe,50,50
+Hadera,Haifa District,Israel,Europe,25,50
+Ibiza,Balearic Islands,Spain,Europe,68.75,50
+Rochdale,England,United Kingdom,Europe,50,0
+Backa Palanka,,Serbia,Europe,62.5,50
+Aktobe,Aktobe Region,Kazakhstan,Europe,25,87.5
+Kiskunfelegyhaza,Bacs-Kiskun County,Hungary,Europe,100,75
+Villach,Carinthia,Austria,Europe,85.41666667,11.25
+Algeciras,Andalusia,Spain,Europe,75,50
+Karaganda,Karaganda Region,Kazakhstan,Europe,16.66666667,66.66666667
+Marbella,Andalusia,Spain,Europe,94.64285714,42.85714286
+Leoben,Styria,Austria,Europe,80,75
+Ferrol,Galicia,Spain,Europe,100,50
+Aveiro,Aveiro,Portugal,Europe,67.1875,46.66666667
+Pavlodar,Pavlodar Region,Kazakhstan,Europe,0,75
+Kufstein,Tyrol,Austria,Europe,87.5,50
+Baden bei Wien,Lower Austria,Austria,Europe,87.5,50
+Atyrau,Atyrau Region,Kazakhstan,Europe,28.57142857,60.71428571
+Klosterneuburg,Lower Austria,Austria,Europe,62.5,50
+Wolfsberg,Carinthia,Austria,Europe,100,50
+Barakaldo,Basque Autonomous Community,Spain,Europe,87.5,50
+Leonding,Upper Austria,Austria,Europe,100,0
+Benidorm,Community of Valencia,Spain,Europe,80.55555556,50
+Kostanay,Kostanay Region,Kazakhstan,Europe,0,75
+Tulln an der Donau,Lower Austria,Austria,Europe,87.5,50
+Schwechat,Lower Austria,Austria,Europe,87.5,50
+Andover,England,United Kingdom,Europe,92.5,25
+Kronach,Bavaria,Germany,Europe,87.5,50
+Knittelfeld,Styria,Austria,Europe,75,50
+Wrexham,Wales,United Kingdom,Europe,83.33333333,0
+Ekibastuz,Pavlodar Region,Kazakhstan,Europe,25,50
+Tubize,Wallonia,Belgium,Europe,100,0
+Bad Arolsen,Hesse,Germany,Europe,100,50
+Bauska,,Latvia,Europe,75,50
+Humenne,Presov Region,Slovakia,Europe,62.5,25
+Uherske Hradiste,,Czech Republic,Europe,45,0
+Tottenham,England,United Kingdom,Europe,30,20
+Vila Real,Vila Real,Portugal,Europe,100,6.25
+Chaves,Vila Real,Portugal,Europe,100,25
+Clausthal-Zellerfeld,Lower Saxony,Germany,Europe,100,50
+Veurne,Flemish Region,Belgium,Europe,87.5,50
+Rochester,England,United Kingdom,Europe,95.83333333,0
+Vsetin,,Czech Republic,Europe,62.5,50
+Bad Waldsee,Baden-Wurttemberg,Germany,Europe,100,50
+Naxos,,Greece,Europe,100,50
+Weilheim in Oberbayern,Bavaria,Germany,Europe,100,50
+Portimao,,Portugal,Europe,90,35
+Royal Leamington Spa,England,United Kingdom,Europe,92.85714286,0
+Dunakeszi,Pest County,Hungary,Europe,50,0
+Warwick,England,United Kingdom,Europe,89.28571429,25
+Yeovil,England,United Kingdom,Europe,62.5,37.5
+Vila Nova de Famalicao,Braga,Portugal,Europe,100,50
+Buckow,Brandenburg,Germany,Europe,87.5,50
+Pila,Greater Poland Voivodeship,Poland,Europe,53.125,0
+Annan,Scotland,United Kingdom,Europe,50,50
+Kos,,Greece,Europe,100,25
+Senta,,Serbia,Europe,25,75
+Kilmarnock,Scotland,United Kingdom,Europe,75,16.66666667
+Telford,England,United Kingdom,Europe,90.625,31.25
+Mariapocs,Szabolcs-Szatmar-Bereg County,Hungary,Europe,100,0
+Stara Pazova,,Serbia,Europe,62.5,50
+Nachod,,Czech Republic,Europe,100,50
+Spisska Stara Ves,Presov Region,Slovakia,Europe,12.5,50
+Ialoveni,Ialoveni District,Moldova,Europe,25,75
+Sinop,Sinop Province,Turkey,Europe,0,75
+Kamez,Tirana County,Albania,Europe,50,100
+Stara Lubovna,Presov Region,Slovakia,Europe,100,75
+Tenterden,England,United Kingdom,Europe,100,0
+Louny,,Czech Republic,Europe,50,0
+Raahe,,Finland,Europe,100,50
+Tomar,Santarem,Portugal,Europe,100,75
+Kapfenberg,Styria,Austria,Europe,75,0
+Killarney,,Ireland,Europe,91.66666667,25
+Puerto de la Cruz,Canary Islands,Spain,Europe,100,62.5
+Falkirk,Scotland,United Kingdom,Europe,100,0
+Hollabrunn,Lower Austria,Austria,Europe,87.5,50
+Kraslava,Kraslava Municipality,Latvia,Europe,50,50
+Poltsamaa,Jogeva County,Estonia,Europe,100,0
+Permet,Gjirokaster County,Albania,Europe,100,0
+Skarzysko-Kamienna,Swietokrzyskie Voivodeship,Poland,Europe,62.5,50
+Longford,Leinster,Ireland,Europe,100,50
+Arrecife,Canary Islands,Spain,Europe,80,0
+Crewe,England,United Kingdom,Europe,100,0
+Tapa,Laane-Viru County,Estonia,Europe,100,50
+Dumfries,Scotland,United Kingdom,Europe,100,0
+Wicklow,Leinster,Ireland,Europe,100,50
+Peristeri,Attica Region,Greece,Europe,62.5,50
+Bolnisi,Kvemo Kartli,Georgia,Europe,0,100
+Newbury,England,United Kingdom,Europe,100,0
+Mielec,Podkarpackie Voivodeship,Poland,Europe,50,50
+Landeck,Tyrol,Austria,Europe,87.5,50
+Weymouth,England,United Kingdom,Europe,100,0
+Worthing,England,United Kingdom,Europe,75,31.25
+Wejherowo,Pomeranian Voivodeship,Poland,Europe,87.5,50
+Arlon,Wallonia,Belgium,Europe,100,50
+Gravesend,England,United Kingdom,Europe,0,100
+Trebinje,Republika Srpska,Bosnia and Herzegovina,Europe,100,37.5
+Tamworth,England,United Kingdom,Europe,75,0
+Paracin,Pomoravlje District,Serbia,Europe,75,25
+Arundel,England,United Kingdom,Europe,75,0
+Jaroslaw,Podkarpackie Voivodeship,Poland,Europe,25,50
+Ashford,England,United Kingdom,Europe,50,0
+Sokolov,,Czech Republic,Europe,100,50
+Chatham,England,United Kingdom,Europe,80,37.5
+Eastleigh,England,United Kingdom,Europe,0,25
+Lagos,,Portugal,Europe,75,75
+Kedainiai,,Lithuania,Europe,60,0
+Ylivieska,,Finland,Europe,100,0
+Velky Meder,Trnava Region,Slovakia,Europe,75,50
+Ballsh,Fier County,Albania,Europe,0,62.5
+Jonava,,Lithuania,Europe,50,100
+Scarborough,England,United Kingdom,Europe,100,25
+Saldus,,Latvia,Europe,100,0
+Naousa,,Greece,Europe,100,0
+Chios,North Aegean Region,Greece,Europe,87.5,87.5
+Maynooth,Leinster,Ireland,Europe,50,58.33333333
+Senica,Trnava Region,Slovakia,Europe,62.5,50
+Vila Real de Santo Antonio,,Portugal,Europe,75,50
+Stalowa Wola,Podkarpackie Voivodeship,Poland,Europe,25,25
+Gulbene,Gulbene Municipality,Latvia,Europe,100,0
+Partizanske,Trencin Region,Slovakia,Europe,50,50
+Budaors,Pest County,Hungary,Europe,75,0
+Svitavy,,Czech Republic,Europe,62.5,50
+Askim,Viken,Norway,Europe,100,50
+Rujiena,Rujiena Municipality,Latvia,Europe,100,0
+Milovice,,Czech Republic,Europe,90,0
+Klaipeda,,Lithuania,Europe,75,33.33333333
+Wallasey,England,United Kingdom,Europe,100,25
+Prijepolje,Zlatibor District,Serbia,Europe,0,50
+Laitila,,Finland,Europe,100,50
+Basingstoke,England,United Kingdom,Europe,100,0
+Bochnia,Lesser Poland Voivodeship,Poland,Europe,60,0
+Chesterfield,England,United Kingdom,Europe,87.5,16.66666667
+Krosno,Podkarpackie Voivodeship,Poland,Europe,62.5,50
+Halifax,England,United Kingdom,Europe,81.25,50
+Beroun,,Czech Republic,Europe,62.5,50
+Hnusta,Banska Bystrica Region,Slovakia,Europe,62.5,50
+Naujoji Akmene,,Lithuania,Europe,62.5,50
+Sannicolau Mare,Timi? County,Romania,Europe,75,50
+Malacky,Bratislava Region,Slovakia,Europe,87.5,50
+Gizycko,Warmian-Masurian Voivodeship,Poland,Europe,100,50
+Mustvee,Jogeva County,Estonia,Europe,100,50
+Crawley,England,United Kingdom,Europe,50,0
+Taunton,England,United Kingdom,Europe,50,50
+Weston-super-Mare,England,United Kingdom,Europe,68.75,0
+Ramat HaSharon,Tel Aviv District,Israel,Europe,25,75
+Jelsava,Banska Bystrica Region,Slovakia,Europe,50,50
+Joniskis,,Lithuania,Europe,87.5,50
+Livingston,Scotland,United Kingdom,Europe,66.66666667,25
+Jaslo,Podkarpackie Voivodeship,Poland,Europe,62.5,50
+Szczecinek,West Pomeranian Voivodeship,Poland,Europe,75,50
+Covilha,Castelo Branco,Portugal,Europe,95.83333333,0
+Koprivnice,,Czech Republic,Europe,75,50
+Mora,Dalarna County,Sweden,Europe,75,0
+Harlow,England,United Kingdom,Europe,50,0
+Soroca,Soroca District,Moldova,Europe,75,75
+Dartford,England,United Kingdom,Europe,50,75
+Slonim,Grodno Region,Belarus,Europe,62.5,12.5
+Bolungarvik,,Iceland,Europe,100,0
+Iernut,Mure? County,Romania,Europe,87.5,75
+Ostroda,Warmian-Masurian Voivodeship,Poland,Europe,62.5,50
+Wyszkow,Masovian Voivodeship,Poland,Europe,100,50
+Scunthorpe,England,United Kingdom,Europe,75,25
+Bridport,England,United Kingdom,Europe,100,0
+Rumelange,,Luxembourg,Europe,62.5,50
+Modrice,,Czech Republic,Europe,12.5,50
+Torres Vedras,Lisbon,Portugal,Europe,87.5,75
+Vila Franca de Xira,Lisbon,Portugal,Europe,87.5,12.5
+Kildare,Leinster,Ireland,Europe,100,100
+Gedera,Central District,Israel,Europe,12.5,50
+Oeiras,Lisbon,Portugal,Europe,81.25,18.75
+Oban,Scotland,United Kingdom,Europe,100,0
+Koscierzyna,Pomeranian Voivodeship,Poland,Europe,62.5,50
+Bildudalur,,Iceland,Europe,0,100
+Newbridge,Leinster,Ireland,Europe,50,0
+Chesham,England,United Kingdom,Europe,75,50
+Krasnik,Lublin Voivodeship,Poland,Europe,50,50
+Nisko,Podkarpackie Voivodeship,Poland,Europe,62.5,50
+Morecambe,England,United Kingdom,Europe,100,25
+Nikaia,Attica Region,Greece,Europe,33.33333333,0
+Konstancin-Jeziorna,Masovian Voivodeship,Poland,Europe,35,45.83333333
+Chrudim,,Czech Republic,Europe,100,50
+Litvinov,,Czech Republic,Europe,62.5,50
+Trinec,,Czech Republic,Europe,50,50
+Lousada,Porto,Portugal,Europe,75,50
+Swords,,Ireland,Europe,50,0
+Malahide,,Ireland,Europe,75,25
+Polaniec,Swietokrzyskie Voivodeship,Poland,Europe,50,50
+Sao Bras de Alportel,,Portugal,Europe,100,50
+Stockton-on-Tees,England,United Kingdom,Europe,100,50
+Encamp,Encamp,Andorra,Europe,50,25
+Maia,Porto,Portugal,Europe,89.28571429,0
+Seixal,Setubal,Portugal,Europe,37.5,50
+Broumov,,Czech Republic,Europe,75,50
+Grays,England,United Kingdom,Europe,0,100
+Chalandri,Attica Region,Greece,Europe,75,0
+Opoczno,Lodz Voivodeship,Poland,Europe,0,75
+Corby,England,United Kingdom,Europe,65,25
+Listowel,,Ireland,Europe,100,0
+Cumbernauld,Scotland,United Kingdom,Europe,87.5,0
+Criuleni,Criuleni District,Moldova,Europe,50,75
+Buckie,Scotland,United Kingdom,Europe,75,0
+Humpolec,,Czech Republic,Europe,100,50
+Vlasim,,Czech Republic,Europe,100,50
+Burton upon Trent,England,United Kingdom,Europe,0,25
+Wokingham,England,United Kingdom,Europe,91.66666667,0
+Goole,England,United Kingdom,Europe,25,50
+Temirtau,Karaganda Region,Kazakhstan,Europe,0,75
+Queluz,Lisbon,Portugal,Europe,50,0
+Roznov pod Radhostem,,Czech Republic,Europe,100,50
+Clitheroe,England,United Kingdom,Europe,100,0
+Otrokovice,,Czech Republic,Europe,75,50
+Deal,England,United Kingdom,Europe,50,25
+Rymarov,,Czech Republic,Europe,87.5,50
+Bilovec,,Czech Republic,Europe,62.5,50
+Cholpon-Ata,Issyk-Kul Region,Kyrgyzstan,Europe,75,50
+Samos,North Aegean Region,Greece,Europe,100,0
+Rio Tinto,Porto,Portugal,Europe,100,75
+Clifden,Connacht,Ireland,Europe,100,50
+Harstad,Troms og Finnmark fylke,Norway,Europe,100,75
+Cuevas del Almanzora,Andalusia,Spain,Europe,62.5,50
+Claremorris,Connacht,Ireland,Europe,100,0
+Metsamor,Armavir Region,Armenia,Europe,0,50
+Twickenham,England,United Kingdom,Europe,87.5,12.5
+Ohrid,Ohrid Municipality,North Macedonia,Europe,82.14285714,28.33333333
+Lomnice nad Popelkou,,Czech Republic,Europe,75,50
+Romford,England,United Kingdom,Europe,75,0
+Newcastle upon Tyne,England,United Kingdom,Europe,73.14814815,20.23809524
+Knutsford,England,United Kingdom,Europe,100,0
+Hella,,Iceland,Europe,100,0
+Rio de Mouro,Lisbon,Portugal,Europe,100,50
+Worcester,England,United Kingdom,Europe,83.33333333,16.66666667
+Panevezys,,Lithuania,Europe,70,40
+Kretinga,,Lithuania,Europe,75,50
+Lisburn,Northern Ireland,United Kingdom,Europe,75,25
+Vieira de Leiria,Leiria,Portugal,Europe,87.5,50
+Ustrzyki Dolne,Podkarpackie Voivodeship,Poland,Europe,70,0
+Kareli,Shida Kartli,Georgia,Europe,0,50
+Hounslow,England,United Kingdom,Europe,0,50
+Torpoint,England,United Kingdom,Europe,100,50
+Palanga,,Lithuania,Europe,100,50
+Litija,Litija Municipality,Slovenia,Europe,50,0
+Croydon,England,United Kingdom,Europe,45,45
+Telsiai,,Lithuania,Europe,50,75
+Banstead,England,United Kingdom,Europe,100,0
+Ilford,England,United Kingdom,Europe,0,25
+Kingston upon Thames,England,United Kingdom,Europe,81.25,33.33333333
+Chafford Hundred,England,United Kingdom,Europe,82.14285714,50
+Pardes Hanna-Karkur,,Israel,Europe,25,50
+Arendal,Agder,Norway,Europe,87.5,0
+Braga,Braga,Portugal,Europe,85.29411765,25
+Leiria,Leiria,Portugal,Europe,89.28571429,28.57142857
+Matosinhos,Porto,Portugal,Europe,37.5,62.5
+Kristiansund,More og Romsdal,Norway,Europe,75,0
+Hamar,Innlandet,Norway,Europe,95,0
+Lillehammer,Innlandet,Norway,Europe,85,75
+Kocaeli,Kocaeli Province,Turkey,Europe,22.72727273,62.5
+Sakarya,,Turkey,Europe,41.66666667,0
+Kaunas,,Lithuania,Europe,73.27586207,24
+Innopolis,Republic of Tatarstan,Russia,Europe,100,0
+Gjovik,Innlandet,Norway,Europe,100,50
+Ribeseya,Asturias,Spain,Europe,100,50
+Bridgend,Wales,United Kingdom,Europe,75,75
+Fredrikstad,Viken,Norway,Europe,100,50
+Haugesund,Rogaland,Norway,Europe,95,5
+Molde,More og Romsdal,Norway,Europe,93.75,18.75
+Sarpsborg,Viken,Norway,Europe,90,0
+Solna,Stockholm County,Sweden,Europe,58.33333333,25
+Bacau,Bacau County,Romania,Europe,67.30769231,50
+Elverum,Innlandet,Norway,Europe,100,12.5
+Aarschot,Flemish Region,Belgium,Europe,75,41.66666667
+Skien,Vestfold og Telemark,Norway,Europe,85.71428571,8.333333333
+Horten,Vestfold og Telemark,Norway,Europe,100,0
+Guadalajara,Castile-La Mancha,Spain,Europe,75,75
+Kocevje,Municipality of Kocevje,Slovenia,Europe,100,50
+Sandefjord,Vestfold og Telemark,Norway,Europe,75,25
+Moss,Viken,Norway,Europe,80,75
+Croton,,Italy,Europe,62.5,50
+Sandnes,Rogaland,Norway,Europe,62.5,37.5
+Drammen,Vestfold og Telemark,Norway,Europe,77.77777778,5
+Sint-Truiden,Flemish Region,Belgium,Europe,50,50
+San Cristobal de La Laguna,Canary Islands,Spain,Europe,80,100
+Dudelange,,Luxembourg,Europe,66.66666667,62.5
+Benevento,Campania,Italy,Europe,45,75
+Oviedo,Asturias,Spain,Europe,67.85714286,25
+Spa,Wallonia,Belgium,Europe,100,50
+Mechelen,Flemish Region,Belgium,Europe,60.71428571,25
+Ostend,Flemish Region,Belgium,Europe,37.5,50
+Kortrijk,Flemish Region,Belgium,Europe,70.83333333,62.5
+Hasselt,Flemish Region,Belgium,Europe,75,25
+Genk,Flemish Region,Belgium,Europe,62.5,50
+Talavera de la Reina,Castile-La Mancha,Spain,Europe,91.66666667,50
+Las Palmas de Gran Canaria,Canary Islands,Spain,Europe,70.45454545,48.61111111
+Santander,Cantabria,Spain,Europe,83.33333333,10.71428571
+Santiago de Compostela,Galicia,Spain,Europe,95.83333333,37.5
+Leon,Castile and Leon,Spain,Europe,83.33333333,31.25
+Getafe,Community of Madrid,Spain,Europe,45.83333333,0
+Ponferrada,Castile and Leon,Spain,Europe,100,50
+Santa Cruz de Tenerife,Canary Islands,Spain,Europe,80,46.42857143
+Kristiansand,Agder,Norway,Europe,93.75,9.375
+Stavanger,Rogaland,Norway,Europe,92.1875,15.51724138
+Antwerp,Flemish Region,Belgium,Europe,36.5,40.76086957
+Beringen,Flemish Region,Belgium,Europe,0,100
+Damme,Flemish Region,Belgium,Europe,87.5,50
+Verviers,Wallonia,Belgium,Europe,62.5,50
+Waregem,Flemish Region,Belgium,Europe,100,50
+Nivelles,Wallonia,Belgium,Europe,100,50
+Arcos de Valdevez,Viana do Castelo,Portugal,Europe,100,0
+Aranjuez,Community of Madrid,Spain,Europe,100,0
+Huesca,Aragon,Spain,Europe,100,50
+Sagunto,Community of Valencia,Spain,Europe,100,50
+Zaragoza,Aragon,Spain,Europe,80.55555556,32.14285714
+Erfurt,Thuringia,Germany,Europe,85,50
+Garmisch-Partenkirchen,Bavaria,Germany,Europe,100,50
+Loures,,Portugal,Europe,100,50
+Mouscron,Wallonia,Belgium,Europe,55,75
+Tromso,Troms og Finnmark fylke,Norway,Europe,83.92857143,20
+Alesund,More og Romsdal,Norway,Europe,95,75
+Vila do Conde,,Portugal,Europe,100,50
+Alges,Lisbon,Portugal,Europe,100,75
+Tournai,Wallonia,Belgium,Europe,60.71428571,58.33333333
+Avila,Castile and Leon,Spain,Europe,87.5,50
+Teruel,Aragon,Spain,Europe,100,50
+Ciudad Real,Castile-La Mancha,Spain,Europe,82.14285714,0
+Palencia,Castile and Leon,Spain,Europe,79.16666667,37.5
+Cordoba,Andalusia,Spain,Europe,85.71428571,8.333333333
+Vic,Catalonia,Spain,Europe,100,0
+Segovia,Castile and Leon,Spain,Europe,100,0
+Zamora city,Castile and Leon,Spain,Europe,100,50
+Ahmedabad,Gujarat,India,South-East Asia,32.96296296,66.9921875
+Jamnagar,Gujarat,India,South-East Asia,34.48275862,58.33333333
+Mumbai,Maharashtra,India,South-East Asia,25.16025641,75.32537961
+Kolkata,West Bengal,India,South-East Asia,25.93457944,68.26923077
+Chennai,Tamil Nadu,India,South-East Asia,35.88435374,73.07017544
+Delhi,,India,South-East Asia,11.8441358,77.41679873
+Dhaka,Dhaka Division,Bangladesh,South-East Asia,14.96815287,78.25342466
+Hyderabad,Telangana,India,South-East Asia,31.49253731,70.10703364
+Nagpur,Maharashtra,India,South-East Asia,46.61016949,69.44444444
+Pune,Maharashtra,India,South-East Asia,39.10788382,71.86147186
+Kochi,Kerala,India,South-East Asia,36.5625,68.40277778
+Bangkok,,Thailand,South-East Asia,26.85185185,70.83333333
+Kathmandu,Bagmati,Nepal,South-East Asia,11.46341463,80.45685279
+Jakarta,,Indonesia,South-East Asia,22.265625,77.1
+Surat,Gujarat,India,South-East Asia,46.3592233,61.96808511
+Surakarta,Central Java,Indonesia,South-East Asia,55,55
+Siliguri,West Bengal,India,South-East Asia,40,67
+Durgapur,West Bengal,India,South-East Asia,12.5,50
+Banda Aceh,Aceh,Indonesia,South-East Asia,71.42857143,12.5
+Binjai,North Sumatra,Indonesia,South-East Asia,75,0
+Medan,North Sumatra,Indonesia,South-East Asia,20.83333333,43.33333333
+Pematangsiantar,North Sumatra,Indonesia,South-East Asia,100,0
+Pokhara,,Nepal,South-East Asia,65.47619048,71.42857143
+Lalitpur,Bagmati,Nepal,South-East Asia,20.45454545,65
+Padang,West Sumatra,Indonesia,South-East Asia,68.75,25
+Yogyakarta City,Special Region of Yogyakarta,Indonesia,South-East Asia,45.65217391,57.29166667
+Jambi,Jambi,Indonesia,South-East Asia,87.5,12.5
+Pekanbaru,Riau,Indonesia,South-East Asia,80,25
+Palembang,South Sumatra,Indonesia,South-East Asia,75,0
+Bandar Lampung,Lampung,Indonesia,South-East Asia,62.5,40
+Biratnagar,Province No. 1,Nepal,South-East Asia,40,50
+Dharan,Province No. 1,Nepal,South-East Asia,75,50
+Thimphu,Thimphu District,Bhutan,South-East Asia,44.64285714,60
+Dili,Dili municipality,Timor-Leste,South-East Asia,59.375,62.5
+Male,Kaafu Atoll,Maldives,South-East Asia,35.57692308,87.5
+Erode,Tamil Nadu,India,South-East Asia,50,61.11111111
+Salem,Tamil Nadu,India,South-East Asia,48.80952381,64.28571429
+Coimbatore,Tamil Nadu,India,South-East Asia,50,65.74074074
+Mysore,Karnataka,India,South-East Asia,51.5625,62.5
+Batam,Riau Islands,Indonesia,South-East Asia,56.25,50
+Tanjung Pinang,Riau Islands,Indonesia,South-East Asia,0,25
+Cilegon,Banten,Indonesia,South-East Asia,50,50
+Tangerang,Banten,Indonesia,South-East Asia,45.45454545,52.27272727
+Bandung,West Java,Indonesia,South-East Asia,40.38461538,61.70212766
+Bogor,West Java,Indonesia,South-East Asia,67.30769231,52.08333333
+Cimahi,West Java,Indonesia,South-East Asia,58.33333333,33.33333333
+Depok,West Java,Indonesia,South-East Asia,8.333333333,91.66666667
+Magelang,Central Java,Indonesia,South-East Asia,100,0
+Salatiga,Central Java,Indonesia,South-East Asia,83.33333333,37.5
+Semarang,Central Java,Indonesia,South-East Asia,55.55555556,47.5
+Butwal,,Nepal,South-East Asia,75,53.125
+Hetauda,Bagmati,Nepal,South-East Asia,53.57142857,83.33333333
+Kediri,East Java,Indonesia,South-East Asia,75,0
+Madiun,East Java,Indonesia,South-East Asia,100,6.25
+Malang,East Java,Indonesia,South-East Asia,77.17391304,34.7826087
+Mojokerto,East Java,Indonesia,South-East Asia,100,0
+Surabaya,East Java,Indonesia,South-East Asia,49.43181818,57.77777778
+Denpasar,Bali,Indonesia,South-East Asia,33.69565217,60.22727273
+Rajkot,Gujarat,India,South-East Asia,43.60465116,58.10810811
+Vadodara,Gujarat,India,South-East Asia,43.45794393,65.90909091
+Gandhinagar,Gujarat,India,South-East Asia,87.90322581,50
+Banjarmasin,South Kalimantan,Indonesia,South-East Asia,100,0
+Palangkaraya,Central Kalimantan,Indonesia,South-East Asia,100,0
+Balikpapan,East Kalimantan,Indonesia,South-East Asia,72.22222222,38.88888889
+Samarinda,East Kalimantan,Indonesia,South-East Asia,87.5,0
+Makassar,South Sulawesi,Indonesia,South-East Asia,50,45
+Kendari,Southeast Sulawesi,Indonesia,South-East Asia,100,0
+Manado,North Sulawesi,Indonesia,South-East Asia,50,58.33333333
+Jayapura,Papua,Indonesia,South-East Asia,100,12.5
+Kozhikode,Kerala,India,South-East Asia,57.25806452,70.23809524
+Jalgaon,Maharashtra,India,South-East Asia,33.75,54.6875
+Sikar,Rajasthan,India,South-East Asia,58.33333333,87.5
+Jalandhar,Punjab,India,South-East Asia,23.75,67.1875
+Hubli,Karnataka,India,South-East Asia,26.78571429,69.44444444
+Colombo,Western Province,Sri Lanka,South-East Asia,45.13274336,62.73148148
+Munger,Bihar,India,South-East Asia,100,62.5
+Gulbarga,,India,South-East Asia,33.92857143,76.92307692
+Yangon,Yangon Region,Myanmar,South-East Asia,17.59259259,78.5
+Thoothukudi,Tamil Nadu,India,South-East Asia,50,50
+Sri Jayawardenepura Kotte,Western Province,Sri Lanka,South-East Asia,75,75
+Agra,Uttar Pradesh,India,South-East Asia,23.61111111,69.82758621
+Chandigarh,,India,South-East Asia,54.41176471,58.11688312
+Hassan,Karnataka,India,South-East Asia,68.18181818,60.71428571
+Lucknow,Uttar Pradesh,India,South-East Asia,25.66666667,72.82608696
+Amritsar,Punjab,India,South-East Asia,21.56862745,76.70454545
+Chiang Mai,Chiang Mai,Thailand,South-East Asia,19.27710843,59.45945946
+Kakinada,Andhra Pradesh,India,South-East Asia,62.5,37.5
+Latur,Maharashtra,India,South-East Asia,83.33333333,58.33333333
+Nellore,Andhra Pradesh,India,South-East Asia,31.48148148,66.66666667
+Navi Mumbai,Maharashtra,India,South-East Asia,40.2173913,55.27522936
+Jaipur,Rajasthan,India,South-East Asia,43.6746988,63.55263158
+Kanpur,Uttar Pradesh,India,South-East Asia,16.40625,76.66666667
+Indore,Madhya Pradesh,India,South-East Asia,45,70.56451613
+Varanasi,Uttar Pradesh,India,South-East Asia,19.33962264,70.91836735
+Patna,Bihar,India,South-East Asia,14.49275362,68.25396825
+Bhopal,Madhya Pradesh,India,South-East Asia,48.92857143,67.30769231
+Shimla,,India,South-East Asia,63.95348837,62.5
+Mangalore,Karnataka,India,South-East Asia,65.09433962,47.53289474
+Ubon Ratchathani,Ubon Ratchathani,Thailand,South-East Asia,50,50
+Chon Buri,Chon Buri,Thailand,South-East Asia,60.71428571,50
+Gwalior,Madhya Pradesh,India,South-East Asia,25,72.97297297
+Allahabad,Uttar Pradesh,India,South-East Asia,13.7195122,75
+Thrissur,Kerala,India,South-East Asia,47.82608696,75
+Thiruvananthapuram,,India,South-East Asia,52.71084337,53.28947368
+Srinagar,Jammu and Kashmir,India,South-East Asia,77.5862069,51.92307692
+Agartala,Tripura,India,South-East Asia,63.63636364,58.33333333
+Pattaya,Chon Buri,Thailand,South-East Asia,19.40789474,78.66666667
+Bhubaneswar,Odisha,India,South-East Asia,55.76923077,50.71428571
+Ranchi,Jharkhand,India,South-East Asia,52.77777778,65.97222222
+Mandalay,Mandalay Region,Myanmar,South-East Asia,19.64285714,53.84615385
+Gangtok,Sikkim,India,South-East Asia,90.625,46.875
+Aizawl,Mizoram,India,South-East Asia,100,75
+Dehradun,Uttarakhand,India,South-East Asia,41.12903226,66.66666667
+Guwahati,Assam,India,South-East Asia,33.75,78.77358491
+Visakhapatnam,Andhra Pradesh,India,South-East Asia,40.40697674,69.62025316
+Vijayawada,Andhra Pradesh,India,South-East Asia,30.11363636,58.75
+Jodhpur,Rajasthan,India,South-East Asia,27.77777778,65.625
+Ajmer,Rajasthan,India,South-East Asia,50,45.83333333
+Jamshedpur,Jharkhand,India,South-East Asia,46.32352941,55.38461538
+Ludhiana,Punjab,India,South-East Asia,17.85714286,68.18181818
+Nashik,Maharashtra,India,South-East Asia,69.44444444,50
+Meerut,Uttar Pradesh,India,South-East Asia,27.65957447,75.65789474
+Mathura,,India,South-East Asia,53.125,66
+Udaipur,Rajasthan,India,South-East Asia,57.14285714,72.58064516
+Faridabad,Haryana,India,South-East Asia,13.06818182,80.42168675
+Aurangabad,Maharashtra,India,South-East Asia,30.64516129,62
+Bikaner,Rajasthan,India,South-East Asia,61.9047619,54.16666667
+Jabalpur,Madhya Pradesh,India,South-East Asia,42.85714286,68.10344828
+Aligarh,Uttar Pradesh,India,South-East Asia,50,0
+Asansol,West Bengal,India,South-East Asia,25.96153846,68.47826087
+Kandy,Central Province,Sri Lanka,South-East Asia,28.125,43.42105263
+Howrah,West Bengal,India,South-East Asia,50,75
+Ghaziabad,Uttar Pradesh,India,South-East Asia,12.90322581,80
+Thane,Maharashtra,India,South-East Asia,41.66666667,70.94594595
+Shillong,Meghalaya,India,South-East Asia,73.33333333,73.33333333
+Imphal,Manipur,India,South-East Asia,47.91666667,65.38461538
+Patiala,,India,South-East Asia,33.33333333,69.11764706
+Kolhapur,Maharashtra,India,South-East Asia,52.88461538,69.04761905
+Ubud,Bali,Indonesia,South-East Asia,50,25
+Akola,Maharashtra,India,South-East Asia,31.52173913,62.5
+Bareilly,Uttar Pradesh,India,South-East Asia,45.83333333,48.52941176
+Tirunelveli,,India,South-East Asia,55.55555556,75
+Panaji,Goa,India,South-East Asia,25,50
+Jaffna,Northern Province,Sri Lanka,South-East Asia,53.57142857,53.57142857
+Solapur,Maharashtra,India,South-East Asia,20.83333333,73.07692308
+Bhilai,Chhattisgarh,India,South-East Asia,34.82142857,55.68181818
+Bhavnagar,Gujarat,India,South-East Asia,61.36363636,61.9047619
+Jhansi,Uttar Pradesh,India,South-East Asia,47.82608696,69.73684211
+Khulna,Khulna Division,Bangladesh,South-East Asia,45.83333333,39.28571429
+Dhanbad,Jharkhand,India,South-East Asia,20.19230769,64.13043478
+Bharatpur,Bagmati,Nepal,South-East Asia,87.5,12.5
+Gaya,Bihar,India,South-East Asia,0,50
+Jammu,Jammu and Kashmir,India,South-East Asia,44.76744186,62.82051282
+Amravati,Maharashtra,India,South-East Asia,36.25,59.61538462
+Belgaum,Karnataka,India,South-East Asia,46.71052632,82.43243243
+Haridwar,Uttarakhand,India,South-East Asia,71.875,53.125
+Karaikal,Puducherry,India,South-East Asia,50,50
+Noida,Uttar Pradesh,India,South-East Asia,11.48255814,82.63473054
+Coonoor,Tamil Nadu,India,South-East Asia,87.5,45
+Valsad,Gujarat,India,South-East Asia,75,75
+Galle,Southern Province,Sri Lanka,South-East Asia,75,37.5
+Kollam,Kerala,India,South-East Asia,75,44.11764706
+Rajshahi,Rajshahi Division,Bangladesh,South-East Asia,47.22222222,30
+Kota,,India,South-East Asia,30.20833333,48.4375
+Muradabad,Uttar Pradesh,India,South-East Asia,37.5,43.75
+Raipur,Chhattisgarh,India,South-East Asia,15.09433962,68.61702128
+Janakpurdham,,Nepal,South-East Asia,50,62.5
+Badulla,Uva Province,Sri Lanka,South-East Asia,50,50
+Sangli,Maharashtra,India,South-East Asia,47.22222222,62.5
+Ulhasnagar,Maharashtra,India,South-East Asia,10.86956522,73.91304348
+Sylhet,Sylhet Division,Bangladesh,South-East Asia,50,53.33333333
+Sri Ganganagar,Rajasthan,India,South-East Asia,50,44.44444444
+Adoni,,India,South-East Asia,0,100
+Rishikesh,Uttarakhand,India,South-East Asia,37.5,87.5
+Veraval,Gujarat,India,South-East Asia,0,100
+Nakhon Pathom,Nakhon Pathom,Thailand,South-East Asia,25,62.5
+Satara,Maharashtra,India,South-East Asia,87.5,56.25
+Udupi,Karnataka,India,South-East Asia,50,37.5
+Kharagpur,West Bengal,India,South-East Asia,50,55.76923077
+Loei,Loei,Thailand,South-East Asia,37.5,50
+Begusarai,Bihar,India,South-East Asia,44.44444444,55
+Nakhon Ratchasima,Nakhon Ratchasima,Thailand,South-East Asia,25,64.28571429
+Pondicherry,Puducherry,India,South-East Asia,50,59.09090909
+Balasore,Odisha,India,South-East Asia,21.15384615,58.33333333
+Hat Yai,Songkhla,Thailand,South-East Asia,75,25
+Ratlam,Madhya Pradesh,India,South-East Asia,65,55
+Hua Hin,Prachuap Khiri Khan,Thailand,South-East Asia,39.28571429,76.78571429
+Negombo,Western Province,Sri Lanka,South-East Asia,30.55555556,69.44444444
+Srikakulam,Andhra Pradesh,India,South-East Asia,75,37.5
+Mawlamyine,Mon State,Myanmar,South-East Asia,0,50
+Saraburi,Saraburi,Thailand,South-East Asia,14.28571429,100
+Bathinda,,India,South-East Asia,30.68181818,68.75
+Sittwe,,Myanmar,South-East Asia,0,25
+Mae Hong Son,Mae Hong Son,Thailand,South-East Asia,50,50
+Barisal,Barisal Division,Bangladesh,South-East Asia,20,50
+Bharuch,Gujarat,India,South-East Asia,30.55555556,67.85714286
+Bhagalpur,Bihar,India,South-East Asia,53.75,50
+Nonthaburi,Nonthaburi,Thailand,South-East Asia,33.33333333,50
+Kurunegala,North Western Province,Sri Lanka,South-East Asia,50,100
+Songkhla,Songkhla,Thailand,South-East Asia,42.85714286,50
+Bhiwani,Haryana,India,South-East Asia,25,12.5
+Udon Thani,Udon Thani,Thailand,South-East Asia,40,50
+Tirupur,Tamil Nadu,India,South-East Asia,42.64705882,50
+Surat Thani,Surat Thani,Thailand,South-East Asia,37.5,50
+Phuket,Phuket,Thailand,South-East Asia,70.68965517,70.23809524
+Nagercoil,Tamil Nadu,India,South-East Asia,37.5,55
+Nanded,Maharashtra,India,South-East Asia,38.23529412,53.57142857
+Chiang Rai,Chiang Rai,Thailand,South-East Asia,22.36842105,62.5
+Bilaspur,Chhattisgarh,India,South-East Asia,31.57894737,75
+Chandrapur,Maharashtra,India,South-East Asia,11.11111111,68.33333333
+Paro,Paro District,Bhutan,South-East Asia,75,50
+Phitsanulok,Phitsanulok,Thailand,South-East Asia,75,0
+Khon Kaen,Khon Kaen,Thailand,South-East Asia,42.85714286,62.5
+Brahmanbaria,Chattogram Division,Bangladesh,South-East Asia,25,50
+Kawthaung,Tanintharyi Region,Myanmar,South-East Asia,50,50
+Rangpur,Rangpur Division,Bangladesh,South-East Asia,25,62.5
+Krabi,Krabi,Thailand,South-East Asia,100,50
+Eluru,Andhra Pradesh,India,South-East Asia,54.16666667,57.14285714
+Palakkad,Kerala,India,South-East Asia,86.53846154,54.16666667
+Nakhon Si Thammarat,Nakhon Si Thammarat,Thailand,South-East Asia,100,25
+Nakhon Sawan,Nakhon Sawan,Thailand,South-East Asia,30.55555556,41.66666667
+Lampang,Lampang,Thailand,South-East Asia,12.5,50
+Sakon Nakhon,Sakon Nakhon,Thailand,South-East Asia,0,100
+Rourkela,Odisha,India,South-East Asia,33,58.33333333
+Nan,Nan,Thailand,South-East Asia,25,50
+Rayong,Rayong,Thailand,South-East Asia,43.75,75
+Pathanamthitta,Kerala,India,South-East Asia,89.70588235,38.63636364
+Jaunpur,Uttar Pradesh,India,South-East Asia,50,62.5
+Nong Khai,Nong Khai,Thailand,South-East Asia,50,37.5
+Chachoengsao,Chachoengsao,Thailand,South-East Asia,75,100
+Ainaro,Ainaro Municipality,Timor-Leste,South-East Asia,100,75
+Darbhanga,Bihar,India,South-East Asia,40.625,59.375
+Yenangyaung,,Myanmar,South-East Asia,0,50
+Surin,Surin,Thailand,South-East Asia,75,50
+Yala,Yala,Thailand,South-East Asia,70.83333333,50
+Ratchaburi,Ratchaburi,Thailand,South-East Asia,35,0
+Phrae,Phrae,Thailand,South-East Asia,12.5,50
+Si Sa Ket,Si Sa Ket,Thailand,South-East Asia,75,25
+Phetchabun,Phetchabun,Thailand,South-East Asia,58.33333333,50
+Dibrugarh,Assam,India,South-East Asia,51.78571429,44.44444444
+Kalutara,Western Province,Sri Lanka,South-East Asia,75,75
+Nuwara Eliya,Central Province,Sri Lanka,South-East Asia,83.33333333,16.66666667
+Samut Sakhon,Samut Sakhon,Thailand,South-East Asia,14.28571429,75
+Dhangadhi,,Nepal,South-East Asia,62.5,37.5
+Rohtak,Haryana,India,South-East Asia,50,25
+Muzaffarpur,Bihar,India,South-East Asia,17.59259259,57.60869565
+Kirtipur,Bagmati,Nepal,South-East Asia,62.5,50
+Siddharthanagar,,Nepal,South-East Asia,25,75
+Banepa,Bagmati,Nepal,South-East Asia,0,100
+Purnia,Bihar,India,South-East Asia,100,50
+Nandyal,,India,South-East Asia,12.5,75
+Wardha,Maharashtra,India,South-East Asia,50,50
+Hisar,Haryana,India,South-East Asia,29.62962963,46.15384615
+Anand,Gujarat,India,South-East Asia,78.84615385,45.45454545
+Navsari,Gujarat,India,South-East Asia,68.75,54.54545455
+Tenali,Andhra Pradesh,India,South-East Asia,71.42857143,58.33333333
+Mohali,Punjab,India,South-East Asia,87.5,75
+Nalgonda,Telangana,India,South-East Asia,75,75
+Narayanganj,Dhaka Division,Bangladesh,South-East Asia,6.25,93.75
+Korba,Chhattisgarh,India,South-East Asia,43.75,43.75
+Tinsukia,Assam,India,South-East Asia,0,75
+Kyaukpyu,,Myanmar,South-East Asia,0,50
+Sirajganj,Rajshahi Division,Bangladesh,South-East Asia,100,75
+Greater Noida,Uttar Pradesh,India,South-East Asia,25,100
+Alwar,Rajasthan,India,South-East Asia,37.5,55.76923077
+Guntur,,India,South-East Asia,38.54166667,57.89473684
+Pak Kret,Nonthaburi,Thailand,South-East Asia,40.625,87.5
+Vizianagaram,Andhra Pradesh,India,South-East Asia,58.33333333,58.33333333
+Kurnool,,India,South-East Asia,43.33333333,65.90909091
+Takengon,Aceh,Indonesia,South-East Asia,100,0
+Addu City,Addu Atoll,Maldives,South-East Asia,50,100
+Gorakhpur,Uttar Pradesh,India,South-East Asia,47.11538462,66
+Chittoor,Andhra Pradesh,India,South-East Asia,70,70.83333333
+Khlong Luang,Pathum Thani,Thailand,South-East Asia,25,25
+Haldia,West Bengal,India,South-East Asia,0,100
+Samut Prakan,Samut Prakan,Thailand,South-East Asia,34.375,50
+Matara,Southern Province,Sri Lanka,South-East Asia,25,66.66666667
+Bang Kruai,Nonthaburi,Thailand,South-East Asia,25,50
+Warangal,Telangana,India,South-East Asia,53.40909091,71.875
